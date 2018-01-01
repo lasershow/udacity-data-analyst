@@ -34,5 +34,5 @@ def get_authors(root):
 ```
 
 ```
-i.attrib["iid"] で オプションにアクセスできる
+i.attrib["iid"] で オプションにアクセスできるs
 ```
