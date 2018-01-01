@@ -8,8 +8,11 @@
 import xml.etree.ElementTree as ET
 import os.path
 
-# 相対パスだと動かなかった ~/Downloads
-file_path = "/Users/akihiro/Downloads/tokyo_japan.osm"
+if test_flag == True:
+    file_path = "/Users/akihiro/Downloads/tokyo_suginami_sample.osm"
+else:
+    # 相対パスだと動かなかった ~/Downloads
+    file_path = "/Users/akihiro/Downloads/tokyo_japan.osm"
 
 def get_root(file_name):
     # データが大きすぎる
