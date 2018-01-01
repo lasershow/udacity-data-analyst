@@ -6,17 +6,21 @@ Tokyo, Japan
 - [mapzen tokyo](https://mapzen.com/data/metro-extracts/metro/tokyo_japan/)
 
 ## Problems Encountered in the Map
+
 After initially downloading a small sample size of the Tokyo area and running it against a provisional data.py file, I noticed five main problems with the data, which I will discuss in the following order:
 
 <!-- まずは小さいデータを使用して、問題点を把握してみる。 -->
 <!-- osmをxmlに変換する -->
 
-- Japanese is used for Japanese data set. Therefore, it may be necessary to perform processing specific to Japanese.
+- Japanese is used for Japanese data set. Therefore, it may be necessary to perform processing specific to Japanese.(Russian and many other languages are included.
+)
 
 `ex`
 
 ```xml
 <tag k="name" v="下高井戸敬老会館"/>
+
+ <node id="31236676" lat="35.634834" lon="139.7687577" version="3" timestamp="2014-12-07T22:38:59Z" changeset="27322515" uid="571410" user="Павел Гетманцев"/>
 ```
 
 - High way where class is not registered

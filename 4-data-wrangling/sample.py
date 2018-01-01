@@ -10,7 +10,8 @@ import os.path
 test_flag = True
 
 if test_flag == True:
-    file_path = "/Users/akihiro/Downloads/tokyo_suginami_sample.osm"
+    file_path = "/Users/akihiro/Downloads/exampleresearcharticle.xml"
+    # file_path = "/Users/akihiro/Downloads/tokyo_suginami_sample.osm"
 else:
     # 相対パスだと動かなかった ~/Downloads
     file_path = "/Users/akihiro/Downloads/tokyo_japan.osm"
