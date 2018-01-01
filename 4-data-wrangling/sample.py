@@ -7,7 +7,7 @@
 """
 import xml.etree.ElementTree as ET
 import os.path
-test_flag == True
+test_flag = True
 
 if test_flag == True:
     file_path = "/Users/akihiro/Downloads/tokyo_suginami_sample.osm"
@@ -23,5 +23,7 @@ def get_root(file_name):
 
 if __name__ == '__main__':
     # パス確認用
-    print(os.path.expanduser('~'))
-    print(get_root(file_path))
+    tree = ET.parse(file_path)
+    root = tree.getroot()
+    for child in root:
+        print child.tag

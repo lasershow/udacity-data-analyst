@@ -7,7 +7,7 @@
 """
 import xml.etree.ElementTree as ET
 import os.path
-test_flag == False
+test_flag = False
 
 if test_flag == True:
     file_path = "/Users/akihiro/Downloads/tokyo_suginami_sample.osm"
