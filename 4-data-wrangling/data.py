@@ -7,7 +7,7 @@
 """
 import xml.etree.ElementTree as ET
 import os.path
-test_flag = False
+test_flag = True
 
 if test_flag == True:
     file_path = "/Users/akihiro/Downloads/tokyo_suginami_sample.osm"
@@ -21,7 +21,40 @@ def get_root(file_name):
         print(event, elem)
     return
 
+def count_tags(filename):
+    tags = {}
+    for event, elem in ET.iterparse(filename):
+        if not elem.tag in tags.keys():
+            # print "------new key"
+            tags[elem.tag] = 1
+        else:
+            tags[elem.tag] += 1
+    return tags
+
+def key_type(element, keys):
+    if element.tag == "tag":
+        # print element.get('k')
+        k = element.attrib['k']
+        if lower.search(k):
+            keys["lower"] += 1
+        elif lower_colon.search(k):
+            keys["lower_colon"] += 1
+        elif problemchars.search(k):
+            keys["problemchars"] += 1
+        else:
+            keys["other"] += 1
+
+    return keys
+
+def process_map_key_type(filename):
+    keys = {"lower": 0, "lower_colon": 0, "problemchars": 0, "other": 0}
+    for _, element in ET.iterparse(filename):
+        keys = key_type(element, keys)
+
+    return keys
+
 if __name__ == '__main__':
-    # パス確認用
-    print(os.path.expanduser('~'))
-    print(get_root(file_path))
+    # count tags data audit
+    #⚠Caution (It takes a lot of time to get this result.)
+    print count_tags(file_path)
+    print process_map_key_type(file_path)
