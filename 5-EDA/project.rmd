@@ -1,0 +1,56 @@
+---
+title: 'Wine datasets EDA'
+author: 'lasershow'
+date: '10 Jan 2018'
+output:
+  html_document:
+    number_sections: true
+    toc: true
+    fig_width: 7
+    fig_height: 4.5
+    theme: readable
+    highlight: tango
+---
+
+
+## install package
+
+```{r message = FALSE}
+install.packages("ggplot2", dependencies = T)
+install.packages("knitr", dependencies = T)
+install.packages("dplyr", dependencies = T)
+```
+
+```{r}
+install.packages('ggthemes')
+```
+
+```{r}
+install.packages('mice')
+```
+
+```{r}
+install.packages('randomForest')
+```
+
+
+## Load and check data
+
+```{r}
+# Load packages
+library('ggplot2') # visualization
+library('ggthemes') # visualization
+library('scales') # visualization
+library('dplyr') # data manipulation
+library('mice') # imputation
+library('randomForest') # classification algorithm
+```
+
+Now that our packages are loaded, let's read in and take a peek at the data.
+
+```{r, message=FALSE, warning=FALSE}
+data <- read.csv('wineQualityReds.csv', stringsAsFactors = F)
+
+# check data
+str(data)
+```
