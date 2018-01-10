@@ -68901,3 +68901,2625 @@ id,key,value,type
 1905645133,en,Chuko Chubo,name
 1905645133,shop,kitchen,regular
 1905645133,source,"image;Bing,2007-03-28",regular
+1906049851,bus,yes,regular
+1906049851,name,中丸町,regular
+1906049851,source,"Bing; survey, 2014-7",regular
+1906049851,highway,bus_stop,regular
+1906049851,en,Nakamarucho,name
+1906049851,ja,中丸町,name
+1906049851,network,国際興業バス,regular
+1906049851,operator,国際興業,regular
+1906049851,ja_rm,Nakamaruchō,name
+1906049851,ja_kana,なかまるちょう,name
+1906049851,public_transport,platform,regular
+1906496714,name,カレーハウス,regular
+1906496714,amenity,fast_food,regular
+1906496714,cuisine,indian,regular
+1906496715,atm,yes,regular
+1906496715,name,ファミリーマート,regular
+1906496715,shop,convenience,regular
+1906496715,brand,FamilyMart,regular
+1906496715,en,FamilyMart,name
+1906496715,ja,ファミリーマート,name
+1906496715,ja_rm,Famirī Mato,name
+1906496716,name,MORIVA COFFEE,regular
+1906496716,amenity,cafe,regular
+1906496717,full,東京都渋谷区円山町28-4,addr
+1906496717,housename,大場ビルA館,addr
+1906496717,postcode,150-0044,addr
+1906496717,amenity,fast_food,regular
+1906496717,branch,渋谷円山町店,regular
+1906496717,brand,MOS BURGER,regular
+1906496717,cuisine,burger,regular
+1906496717,internet_access,wlan,regular
+1906496717,name,モスバーガー,regular
+1906496717,en,MOS BURGER,name
+1906496717,ja,モスバーガー,name
+1906496717,ja_rm,Mosu Bāgā,name
+1906496717,opening_hours,Mo-Su 07:00-23:00,regular
+1906496717,operator,モスフードサービス,regular
+1906496717,phone,03-5456-5873,regular
+1906496717,smoking,no,regular
+1906496717,source,(URL) 2015,regular
+1906496717,takeaway,yes,regular
+1906496717,website,http://mos.jp/,regular
+1906496717,wikidata,Q1204169,regular
+1906496717,wikipedia,ja:モスバーガー,regular
+1906496718,name,すき家,regular
+1906496718,amenity,fast_food,regular
+1906496718,cuisine,japanese,regular
+1906496719,amenity,waste_basket,regular
+1906544495,atm,no,regular
+1906544495,name,FabCafe,regular
+1906544495,phone,+81-3-6416-9190,regular
+1906544495,source,Knowledge,regular
+1906544495,amenity,cafe,regular
+1906544495,smoking,no,regular
+1906544495,website,http://www.fabcafe.com,regular
+1906544495,takeaway,yes,regular
+1906544495,city,渋谷区,addr
+1906544495,unit,東京都,addr
+1906544495,wheelchair,yes,regular
+1906544495,street,道玄坂,addr
+1906544495,description,レーザーカッターが利用可能,regular
+1906544495,drive_through,no,regular
+1906544495,opening_hours,Mo-Fr 10:00-20:00; Sa-Su 11:00-20:00,regular
+1906544495,outdoor_seating,no,regular
+1906544495,housenumber,1-22-7,addr
+1906544498,entrance,yes,regular
+1906544499,amenity,post_box,regular
+1906544524,entrance,exit,regular
+1906765205,name,STEAK&CAFE KENNEDY,regular
+1906765205,source,"image;Bing,2007-03-28",regular
+1906765205,amenity,restaurant,regular
+1906765205,cuisine,ステーキ,regular
+1906765209,name,セブン-イレブン,regular
+1906765209,shop,convenience,regular
+1906765209,brand,7 ELEVEN,regular
+1906765209,source,"image;Bing,2007-03-28",regular
+1906765209,en,Seven-Eleven,name
+1906765209,ja,セブン-イレブン,name
+1906765209,ja_rm,Sebun Irebun,name
+1906765212,bus,yes,regular
+1906765212,name,要町駅,regular
+1906765212,source,"Bing; survey, 2014-7",regular
+1906765212,highway,bus_stop,regular
+1906765212,en,Kanamecho Station,name
+1906765212,ja,要町駅,name
+1906765212,network,国際興業バス,regular
+1906765212,operator,国際興業,regular
+1906765212,ja_rm,Kanamechō eki,name
+1906765212,ja_kana,かなめちょうえき,name
+1906765212,public_transport,platform,regular
+1906765284,source,Bing,regular
+1906765536,source,Bing,regular
+1906765536,highway,crossing,regular
+1906765537,source,Bing,regular
+1906765537,highway,crossing,regular
+1906765585,source,Bing,regular
+1906765585,highway,crossing,regular
+1906765589,source,Bing,regular
+1906765589,highway,crossing,regular
+1906765611,name,焼肉 絆,regular
+1906765611,source,"image;Bing,2007-03-28",regular
+1906765611,amenity,restaurant,regular
+1906765611,cuisine,焼肉,regular
+1906765611,en,Yakiniku Kizuna,name
+1906785570,name,GEO,regular
+1906785570,shop,video,regular
+1906785570,source,"image;Bing,2007-03-28",regular
+1906785571,name,なか卯,regular
+1906785571,brand,なか卯,regular
+1906785571,source,"image;Bing,2007-03-28",regular
+1906785571,amenity,fast_food,regular
+1906785571,cuisine,beef_bowl,regular
+1906785571,en,NAKAU,name
+1906785571,ja,なか卯,name
+1906785571,ja_rm,Nakau,name
+1906785616,shop,dry_cleaning,regular
+1906785616,source,"image;Bing,2007-03-28",regular
+1906785745,name,要町駅,regular
+1906785745,source,"image;Bing,2007-03-28",regular
+1906785745,en,Kanamecho Station,name
+1906785745,railway,subway_entrance,regular
+1906785749,name,香港屋,regular
+1906785749,source,"image;Bing,2007-03-28",regular
+1906785749,amenity,restaurant,regular
+1906785749,cuisine,chinese,regular
+1906785749,en,Hong Kong Ya,name
+1906792762,amenity,post_box,regular
+1906792800,bus,yes,regular
+1906792800,name,池袋二丁目,regular
+1906792800,source,"Bing; survey, 2014-7",regular
+1906792800,highway,bus_stop,regular
+1906792800,en,Ikebukuro nichome,name
+1906792800,ja,池袋二丁目,name
+1906792800,network,国際興業バス,regular
+1906792800,operator,国際興業,regular
+1906792800,ja_rm,Ikebukuro nichōme,name
+1906792800,ja_kana,いけぶくろにちょうめ,name
+1906792800,public_transport,platform,regular
+1906792802,name,矢部クリニック,regular
+1906792802,amenity,doctors,regular
+1906792802,en,Yabe's Clinic,name
+1906927984,full,東京都豊島区池袋2-13-1,addr
+1906927984,postcode,171-0014,addr
+1906927984,branch,池袋西口店,regular
+1906927984,brand,NTT docomo,regular
+1906927984,level,0,regular
+1906927984,name,ドコモショップ,regular
+1906927984,en,docomo shop,name
+1906927984,ja,ドコモショップ,name
+1906927984,ja_rm,Dokomo Shoppu,name
+1906927984,opening_hours,Mo-Su 10:00-20:00,regular
+1906927984,operator,NTTドコモ,regular
+1906927984,phone,03-5396-8092,regular
+1906927984,shop,mobile_phone,regular
+1906927984,source,"image;Bing,2007-03-28; (URL) 2015",regular
+1906927984,website,https://www.nttdocomo.co.jp/,regular
+1906927984,wheelchair,no,regular
+1906927984,wikidata,Q853958,regular
+1906927984,wikipedia,ja:NTTドコモ,regular
+1906927988,full,東京都豊島区池袋2-14-4,addr
+1906927988,postcode,171-0014,addr
+1906927988,branch,池袋西口,regular
+1906927988,brand,au,regular
+1906927988,name,auショップ,regular
+1906927988,en,au shop,name
+1906927988,ja,auショップ,name
+1906927988,ja_rm,Eyu Shoppu,name
+1906927988,opening_hours,Mo-Su 10:00-20:00,regular
+1906927988,operator,KDDI,regular
+1906927988,phone,03-3590-3261,regular
+1906927988,shop,mobile_phone,regular
+1906927988,source,(URL) 2015,regular
+1906927988,website,http://www.au.kddi.com/,regular
+1906927988,wheelchair,yes,regular
+1906927988,wikidata,Q307110,regular
+1906927988,wikipedia,ja:au (携帯電話),regular
+1906927992,name,さくら水産,regular
+1906927992,brand,さくら水産,regular
+1906927992,source,"image;Bing,2007-03-28",regular
+1906927992,amenity,pub,regular
+1906927992,en,Sakura Suisan,name
+1906927992,ja,さくら水産,name
+1906927992,ja_rm,Sakura Suisan,name
+1906927995,name,エクセルシオール カフェ,regular
+1906927995,brand,EXCELSIOR CAFFE,regular
+1906927995,level,0,regular
+1906927995,phone,+81-3-59791541,regular
+1906927995,source,"image;Bing,2007-03-28",regular
+1906927995,amenity,cafe,regular
+1906927995,en,EXCELSIOR CAFFE,name
+1906927995,ja,エクセルシオール カフェ,name
+1906927995,operator,ドトールコーヒー,regular
+1906927995,ja_rm,Ekuserusiohru Kafe,name
+1906927995,opening_hours,wd 06:45-23:00; Sa 07:00-23:00; Su 07:00-22:00,regular
+1906927999,name,デイリーヤマザキ,regular
+1906927999,shop,convenience,regular
+1906927999,brand,Daily YAMAZAKI,regular
+1906927999,source,"image;Bing,2007-03-28",regular
+1906927999,en,Daily YAMAZAKI,name
+1906927999,ja,デイリーヤマザキ,name
+1906927999,ja_rm,Deiri Yamazaki,name
+1906928011,full,東京都豊島区池袋2-14-1,addr
+1906928011,amenity,cafe,regular
+1906928011,branch,池袋2丁目店,regular
+1906928011,brand,DOUTOR,regular
+1906928011,cuisine,coffee_shop,regular
+1906928011,internet_access,no,regular
+1906928011,name,ドトールコーヒーショップ,regular
+1906928011,en,DOUTOR,name
+1906928011,ja,ドトールコーヒーショップ,name
+1906928011,ja_rm,Dotoru Kohi Shoppu,name
+1906928011,opening_hours,"Mo-Fr 07:00-22:00; Sa,Su,PH 08:00-21:30",regular
+1906928011,operator,ドトールコーヒー,regular
+1906928011,phone,03-3986-2075,regular
+1906928011,smoking,separated,regular
+1906928011,source,"image;Bing,2007-03-28; (URL) 2015",regular
+1906928011,takeaway,yes,regular
+1906928011,website,https://www.doutor.co.jp/dcs/,regular
+1906928011,wheelchair,limited,regular
+1906928011,wikidata,Q11322732,regular
+1906928011,wikipedia,ja:ドトールコーヒーショップ,regular
+1906928176,amenity,post_box,regular
+1906928346,bus,yes,regular
+1906928346,name,池袋二又交番,regular
+1906928346,source,"Bing; survey, 2014-7",regular
+1906928346,highway,bus_stop,regular
+1906928346,en,Ikebukuro Futamata Koban,name
+1906928346,ja,池袋二又交番,name
+1906928346,network,国際興業バス,regular
+1906928346,operator,国際興業,regular
+1906928346,ja_rm,Ikebukuro futamata kōban,name
+1906928346,ja_kana,いけぶくろふたまたこうばん,name
+1906928346,public_transport,platform,regular
+1906928408,amenity,telephone,regular
+1906928852,name,ポニークリーニング,regular
+1906928852,shop,dry_cleaning,regular
+1906928856,name,ミラネーゼ,regular
+1906928856,layer,1,regular
+1906928856,level,1,regular
+1906928856,source,"image;Bing,2007-03-28",regular
+1906928856,amenity,restaurant,regular
+1906928856,cuisine,italian,regular
+1906928866,name,一二三堂薬局,regular
+1906928866,source,"image;Bing,2007-03-28",regular
+1906928866,amenity,pharmacy,regular
+1906928866,dispensing,yes,regular
+1906928876,name,池袋駅,regular
+1906928876,railway,subway_entrance,regular
+1906928876,source,"image;Bing,2007-03-28",regular
+1906928876,wheelchair,no,regular
+1906928876,description,C9出口にエレベーターがあります,wheelchair
+1907526440,bus,yes,regular
+1907526440,name,池袋駅西口,regular
+1907526440,note,降車専用,regular
+1907526440,source,"image;Bing,2007-03-28",regular
+1907526440,highway,bus_stop,regular
+1907526440,en,Ikebukuro Station,name
+1907526440,ja,池袋駅西口,name
+1907526440,ja_rm,Ikebukuro eki nishiguchi,name
+1907526440,ja_kana,いけぶくろえきにしぐち,name
+1907526440,public_transport,platform,regular
+1907526462,name,池袋駅,regular
+1907526462,source,"image;Bing,2007-03-28",regular
+1907526462,railway,subway_entrance,regular
+1907526462,wheelchair,yes,regular
+1907526466,name,池袋駅,regular
+1907526466,source,"image;Bing,2007-03-28",regular
+1907526466,railway,subway_entrance,regular
+1907526466,wheelchair,yes,regular
+1908508031,source,Bing 2010,regular
+1908508031,highway,crossing,regular
+1908735874,name,Mejiro University,regular
+1908735874,phone,+81359963121,regular
+1908735874,amenity,university,regular
+1908735874,website,http://www.mejiro.ac.jp/eng/,regular
+1908735874,city,Shinjuku Tokyo,addr
+1908735874,wheelchair,limited,regular
+1908735874,postcode,161-8539,addr
+1908735874,housenumber,4-31-1 Naka-ochiai,addr
+1909683096,full,東京都武蔵野市吉祥寺南町1-1-24,addr
+1909683096,housename,アトレ吉祥寺東館2F,addr
+1909683096,amenity,cafe,regular
+1909683096,branch,アトレ吉祥寺店,regular
+1909683096,brand,TULLY’S COFFEE,regular
+1909683096,cuisine,coffee_shop,regular
+1909683096,level,1,regular
+1909683096,name,タリーズコーヒー,regular
+1909683096,en,Tully's Coffee,name
+1909683096,ja,タリーズコーヒー,name
+1909683096,ja_rm,Tarizu Kohi,name
+1909683096,opening_hours,Mo-Su 07:30-22:00,regular
+1909683096,operator,タリーズコーヒージャパン,regular
+1909683096,phone,+81-422-222247,regular
+1909683096,smoking,yes,regular
+1909683096,source,(URL) 2015,regular
+1909683096,takeaway,yes,regular
+1909683096,website,https://www.tullys.co.jp/,regular
+1909683096,wifi,no,regular
+1909683096,wikidata,Q11316408,regular
+1909683096,wikipedia,ja:タリーズコーヒージャパン,regular
+1910060441,name,Grunge,regular
+1910144310,name,ガスト,regular
+1910144310,branch,三鷹上連雀店,regular
+1910144310,amenity,restaurant,regular
+1910144310,en,GUSTO,name
+1910144310,ja,ガスト,name
+1910144310,ja_rm,Gasuto,name
+1910144310,ja_kana,ガスト,name
+1910144378,name,三鷹東急ストア,regular
+1910144378,shop,supermarket,regular
+1910144378,en,Tokyu Store,name
+1910144378,ja,三鷹東急ストア,name
+1910144379,name,中華居酒屋 彩香亭,regular
+1910144379,amenity,pub,regular
+1910144379,ja,中華居酒屋 彩香亭,name
+1910264885,amenity,telephone,regular
+1910264944,name,丸亀製麺 (Marugame-seimen),regular
+1910264944,brand,丸亀製麺,regular
+1910264944,branch,新宿御苑前店,regular
+1910264944,amenity,fast_food,regular
+1910264944,en,Marugame-seimen,name
+1910264944,ja,丸亀製麺,name
+1910264944,operator,トリドール,regular
+1913640131,barrier,entrance,regular
+1913646400,name,Curry hous Gogh. カリーの店ゴッホ,regular
+1913646400,amenity,restaurant,regular
+1913646400,cuisine,japanese,regular
+1914757865,full,東京都新宿区高田馬場4-8-4,addr
+1914757865,amenity,cafe,regular
+1914757865,branch,高田馬場4丁目店,regular
+1914757865,brand,DOUTOR,regular
+1914757865,cuisine,coffee_shop,regular
+1914757865,name,ドトールコーヒーショップ,regular
+1914757865,en,DOUTOR,name
+1914757865,ja,ドトールコーヒーショップ,name
+1914757865,ja_rm,Dotoru Kohi Shoppu,name
+1914757865,opening_hours,"Mo-Fr 07:00-22:00; Sa 07:30-22:00; Su,PH 07:30-21:00",regular
+1914757865,operator,ドトールコーヒー,regular
+1914757865,phone,03-5386-0506,regular
+1914757865,smoking,separated,regular
+1914757865,source,Bing 2010; (URL) 2015,regular
+1914757865,takeaway,yes,regular
+1914757865,website,https://www.doutor.co.jp/dcs/,regular
+1914757865,wifi,yes,regular
+1914757865,wikidata,Q11322732,regular
+1914757865,wikipedia,ja:ドトールコーヒーショップ,regular
+1914757868,name,カフェ・ド・クリエ,regular
+1914757868,wifi,free,regular
+1914757868,brand,Cafe de CRIE,regular
+1914757868,phone,+81-3-59254133,regular
+1914757868,branch,高田馬場,regular
+1914757868,source,(URL),regular
+1914757868,amenity,cafe,regular
+1914757868,cuisine,coffee_shop,regular
+1914757868,en,Cafe de CRIE,name
+1914757868,ja,カフェ・ド・クリエ,name
+1914757868,website,http://www.pokkacreate.co.jp/,regular
+1914757868,operator,ポッカ・クリエイト,regular
+1914757868,ja_rm,Kafe Do Kurie,name
+1914757868,postcode,167-0075,addr
+1914757868,opening_hours,"Mo-Fr 06:45-21:00; Sa,Su,PH 07:00-19:00",regular
+1914769348,name,カフェ・ド・クリエ,regular
+1914769348,wifi,free,regular
+1914769348,brand,Cafe de CRIE,regular
+1914769348,phone,+81-3-59095730,regular
+1914769348,branch,西新宿丁目,regular
+1914769348,source,(URL),regular
+1914769348,amenity,cafe,regular
+1914769348,cuisine,coffee_shop,regular
+1914769348,en,Cafe de CRIE,name
+1914769348,ja,カフェ・ド・クリエ,name
+1914769348,website,http://www.pokkacreate.co.jp/,regular
+1914769348,operator,ポッカ・クリエイト,regular
+1914769348,ja_rm,Kafe Do Kurie,name
+1914769348,postcode,160-0023,addr
+1914769348,opening_hours,"Mo-Fr 06:45-21:00; Sa,Su,PH 07:45-19:00",regular
+1914769352,name,アクセア,regular
+1914769352,shop,copyshop,regular
+1914769352,source,Bing 2010,regular
+1914769355,full,東京都新宿区西新宿3-1-7,addr
+1914769355,housename,新宿嘉泉ビル,addr
+1914769355,amenity,cafe,regular
+1914769355,branch,西新宿3丁目店,regular
+1914769355,brand,DOUTOR,regular
+1914769355,cuisine,coffee_shop,regular
+1914769355,name,ドトールコーヒーショップ,regular
+1914769355,en,DOUTOR,name
+1914769355,ja,ドトールコーヒーショップ,name
+1914769355,ja_rm,Dotoru Kohi Shoppu,name
+1914769355,opening_hours,"Mo-Fr 07:00-24:00; Sa 07:30-24:00; Su,PH 08:00-24:00",regular
+1914769355,operator,ドトールコーヒー,regular
+1914769355,phone,03-5325-5763,regular
+1914769355,smoking,separated,regular
+1914769355,source,"image,2013-03;Bing; (URL) 2015",regular
+1914769355,takeaway,yes,regular
+1914769355,website,https://www.doutor.co.jp/dcs/,regular
+1914769355,wifi,no,regular
+1914769355,wikidata,Q11322732,regular
+1914769355,wikipedia,ja:ドトールコーヒーショップ,regular
+1914788571,name,カフェ・ド・クリエ,regular
+1914788571,wifi,free,regular
+1914788571,brand,Cafe de CRIE,regular
+1914788571,phone,+81-3-59280161,regular
+1914788571,branch,サンシャイン通り,regular
+1914788571,source,(URL),regular
+1914788571,amenity,cafe,regular
+1914788571,cuisine,coffee_shop,regular
+1914788571,en,Cafe de CRIE,name
+1914788571,ja,カフェ・ド・クリエ,name
+1914788571,website,http://www.pokkacreate.co.jp/,regular
+1914788571,operator,ポッカ・クリエイト,regular
+1914788571,ja_rm,Kafe Do Kurie,name
+1914788571,wheelchair,limited,regular
+1914788571,postcode,170-0013,addr
+1914788571,opening_hours,Mo-Su 07:00-22:30,regular
+1914788571,description,"正面入り口段差有りだが、隣の店舗と店内で段差なしでつながっているので、隣店舗側から入店可能。
+トイレは不可(入り口段差有り)。
+二階は不可(階段のみ)",wheelchair
+1915024922,name,カフェ・ド・クリエ,regular
+1915024922,wifi,free,regular
+1915024922,brand,Cafe de CRIE,regular
+1915024922,phone,+81-3-64080786,regular
+1915024922,branch,恵比寿東口,regular
+1915024922,source,(URL),regular
+1915024922,amenity,cafe,regular
+1915024922,cuisine,coffee_shop,regular
+1915024922,en,Cafe de CRIE,name
+1915024922,ja,カフェ・ド・クリエ,name
+1915024922,website,http://www.pokkacreate.co.jp/,regular
+1915024922,operator,ポッカ・クリエイト,regular
+1915024922,ja_rm,Kafe Do Kurie,name
+1915024922,postcode,150-0013,addr
+1915024922,opening_hours,wd 06:45-22:30; Sa 07:30-21:00,regular
+1915275319,shop,dry_cleaning,regular
+1915275326,sport,tennis,regular
+1915275326,landuse,recreation_ground,regular
+1915275399,name,辰,regular
+1915275399,amenity,pub,regular
+1915275399,en,Tatsu,name
+1917830069,name,カフェ・ド・クリエ,regular
+1917830069,wifi,free,regular
+1917830069,brand,Cafe de CRIE,regular
+1917830069,phone,+81-3-37702273,regular
+1917830069,branch,道玄坂上,regular
+1917830069,source,(URL),regular
+1917830069,amenity,cafe,regular
+1917830069,cuisine,coffee_shop,regular
+1917830069,en,Cafe de CRIE,name
+1917830069,ja,カフェ・ド・クリエ,name
+1917830069,smoking,separated,regular
+1917830069,website,http://www.pokkacreate.co.jp/,regular
+1917830069,operator,ポッカ・クリエイト,regular
+1917830069,ja_rm,Kafe Do Kurie,name
+1917830069,postcode,150-0044,addr
+1917830069,opening_hours,wd 07:00-21:00,regular
+1917897218,name,カフェ・ド・クリエ,regular
+1917897218,wifi,free,regular
+1917897218,brand,Cafe de CRIE,regular
+1917897218,phone,+81-3-59794335,regular
+1917897218,branch,ルミネ池袋,regular
+1917897218,source,(URL),regular
+1917897218,amenity,cafe,regular
+1917897218,cuisine,coffee_shop,regular
+1917897218,en,Cafe de CRIE,name
+1917897218,ja,カフェ・ド・クリエ,name
+1917897218,website,http://www.pokkacreate.co.jp/,regular
+1917897218,operator,ポッカ・クリエイト,regular
+1917897218,ja_rm,Kafe Do Kurie,name
+1917897218,postcode,171-0021,addr
+1917897218,opening_hours,"wd 06:30-22:50; Sa,Su,PH 07:30-22:50",regular
+1917941616,en,FamilyMart,name
+1917941616,shop,convenience,regular
+1917941616,wheelchair,no,toilets
+1917941616,wheelchair,yes,regular
+1917941617,name,カフェ・ド・クリエ,regular
+1917941617,brand,Cafe de CRIE,regular
+1917941617,phone,+81-3-59193281,regular
+1917941617,branch,新宿東新ビル,regular
+1917941617,source,(URL),regular
+1917941617,amenity,cafe,regular
+1917941617,cuisine,coffee_shop,regular
+1917941617,en,Cafe de CRIE,name
+1917941617,ja,カフェ・ド・クリエ,name
+1917941617,smoking,separated,regular
+1917941617,website,http://www.pokkacreate.co.jp/,regular
+1917941617,operator,ポッカ・クリエイト,regular
+1917941617,ja_rm,Kafe Do Kurie,name
+1917941617,postcode,160-0022,addr
+1917941617,opening_hours,Mo-Fr 07:30-22:00,regular
+1918393812,name,城南予備校,regular
+1918393812,phone,+81 0120-323-759,regular
+1918393812,branch,吉祥寺校,regular
+1918393812,amenity,school,regular
+1918393812,en,Johnan Prep School,name
+1918393812,ja,城南予備校,name
+1918393812,website,http://www.johnan.jp/,regular
+1918393812,city,武蔵野市,addr
+1918393812,full,〒180-0003　武蔵野市吉祥寺南町1-9-4,addr
+1918393812,ja_rm,Jonan Yobiko,name
+1918393812,country,JP,addr
+1918393812,ja_kana,じょうなんよびこう,name
+1918393812,postcode,180-0003,addr
+1918393812,province,東京都,addr
+1918510435,amenity,bank,regular
+1918510435,atm,yes,regular
+1918510435,branch,本店,regular
+1918510435,name,八千代銀行,regular
+1918510435,en,Yachiyo Bank,name
+1918510435,ja,八千代銀行,name
+1918510435,source,Bing 2010,regular
+1918510435,wheelchair,limited,regular
+1918510441,postcode,160-0022,addr
+1918510441,amenity,cafe,regular
+1918510441,branch,新宿5丁目,regular
+1918510441,brand,Cafe de CRIE,regular
+1918510441,cuisine,coffee_shop,regular
+1918510441,name,カフェ・ド・クリエ,regular
+1918510441,en,Cafe de CRIE,name
+1918510441,ja,カフェ・ド・クリエ,name
+1918510441,ja_rm,Kafe Do Kurie,name
+1918510441,opening_hours,"wd 07:00-21:00; Sa,Su,PH 08:00-20:00",regular
+1918510441,operator,ポッカ・クリエイト,regular
+1918510441,phone,+81-3-33521664,regular
+1918510441,source,(URL),regular
+1918510441,website,http://www.pokkacreate.co.jp/,regular
+1918510441,wheelchair,no,regular
+1918510441,wifi,free,regular
+1918510741,full,東京都新宿区新宿5-11-2,addr
+1918510741,postcode,160-0022,addr
+1918510741,atm,yes,regular
+1918510741,branch,新宿5丁目靖国通り,regular
+1918510741,brand,7 ELEVEN,regular
+1918510741,internet_access,wlan,regular
+1918510741,level,0,regular
+1918510741,name,セブン-イレブン,regular
+1918510741,en,Seven-Eleven,name
+1918510741,ja,セブン-イレブン,name
+1918510741,ja_rm,Sebun Irebun,name
+1918510741,opening_hours,24/7,regular
+1918510741,operator,セブンイレブン・ジャパン,regular
+1918510741,phone,03-3351-3995,regular
+1918510741,shop,convenience,regular
+1918510741,source,(URL) 2015,regular
+1918510741,website,http://www.sej.co.jp/,regular
+1918510741,wheelchair,yes,regular
+1918510741,wikidata,Q259340,regular
+1918510741,wikipedia,ja:セブン-イレブン,regular
+1918516057,amenity,place_of_worship,regular
+1918516057,name,成覚寺,regular
+1918516057,religion,buddhist,regular
+1918516057,source,Bing 2010,regular
+1918516057,wheelchair,limited,regular
+1918518980,amenity,fast_food,regular
+1918518980,brand,すき家,regular
+1918518980,name,すき家,regular
+1918518980,en,SUKIYA,name
+1918518980,ja,すき家,name
+1918518980,ja_rm,Sukiya,name
+1918518980,source,Bing 2010,regular
+1918518980,wheelchair,no,regular
+1918595971,name,カフェ・ド・クリエプラス,regular
+1918595971,wifi,free,regular
+1918595971,brand,Cafe de CRIE plus,regular
+1918595971,phone,+81-3-59601217,regular
+1918595971,branch,南池袋,regular
+1918595971,source,(URL),regular
+1918595971,amenity,cafe,regular
+1918595971,cuisine,coffee_shop,regular
+1918595971,en,Cafe de CRIE plus,name
+1918595971,ja,カフェ・ド・クリエプラス,name
+1918595971,website,http://www.pokkacreate.co.jp/,regular
+1918595971,operator,ポッカ・クリエイト,regular
+1918595971,ja_rm,Kafe Do Kurie pulasu,name
+1918595971,postcode,171-0022,addr
+1918595971,opening_hours,"wd 07:30-22:30; Sa,Su,PH 08:30-23:00",regular
+1918813509,source,Bing,regular
+1918813509,highway,traffic_signals,regular
+1918881233,source,Bing,regular
+1918881233,barrier,bollard,regular
+1918935246,name,カフェ・ド・クリエ,regular
+1918935246,brand,Cafe de CRIE,regular
+1918935246,level,0,regular
+1918935246,phone,+81-3-33530571,regular
+1918935246,source,(URL),regular
+1918935246,amenity,cafe,regular
+1918935246,cuisine,coffee_shop,regular
+1918935246,en,Cafe de CRIE,name
+1918935246,ja,カフェ・ド・クリエ,name
+1918935246,website,http://www.pokkacreate.co.jp/,regular
+1918935246,operator,ポッカ・クリエイト,regular
+1918935246,ja_rm,Kafe Do Kurie,name
+1918935246,postcode,151-0051,addr
+1918935246,opening_hours,Mo-Fr 06:30-21:00; Sa 08:00-19:00,regular
+1918935257,full,東京都渋谷区千駄ヶ谷5-23-17,addr
+1918935257,postcode,151-0051,addr
+1918935257,atm,yes,regular
+1918935257,branch,代々木イースト,regular
+1918935257,brand,7 ELEVEN,regular
+1918935257,internet_access,wlan,regular
+1918935257,level,0,regular
+1918935257,name,セブン-イレブン,regular
+1918935257,en,7-Eleven,name
+1918935257,ja,セブン-イレブン,name
+1918935257,ja_rm,Sebun Irebun,name
+1918935257,opening_hours,24/7,regular
+1918935257,operator,セブンイレブン・ジャパン,regular
+1918935257,phone,+81-3-33578812,regular
+1918935257,shop,convenience,regular
+1918935257,source,Bing 2010; (URL),regular
+1918935257,website,http://www.sej.co.jp/,regular
+1918935257,wikidata,Q259340,regular
+1918935257,wikipedia,ja:セブン-イレブン,regular
+1918940218,name,カフェ・ド・クリエ,regular
+1918940218,wifi,free,regular
+1918940218,brand,Cafe de CRIE,regular
+1918940218,level,0,regular
+1918940218,phone,+81-3-34187175,regular
+1918940218,branch,三軒茶屋,regular
+1918940218,source,(URL),regular
+1918940218,amenity,cafe,regular
+1918940218,cuisine,coffee_shop,regular
+1918940218,en,Cafe de CRIE,name
+1918940218,ja,カフェ・ド・クリエ,name
+1918940218,website,http://www.pokkacreate.co.jp/,regular
+1918940218,operator,ポッカ・クリエイト,regular
+1918940218,ja_rm,Kafe Do Kurie,name
+1918940218,postcode,154-0004,addr
+1918940218,opening_hours,Mo-Su 08:00-21:00,regular
+1919596539,name,Odakyu OX,regular
+1919596539,shop,supermarket,regular
+1919596539,brand,Odakyu OX,regular
+1919596539,phone,+81-3-57797758,regular
+1919596539,branch,池尻店,regular
+1919596539,source,Bing 2010; (URL),regular
+1919596539,en,Odakyu OX,name
+1919596539,ja,Odakyu OX,name
+1919596539,website,http://www.odakyu-ox.net/,regular
+1919596539,operator,小田急商事,regular
+1919596539,ja_rm,Odakyu Oekus,name
+1919596539,postcode,154-0001,addr
+1919596539,opening_hours,24/7,regular
+1919601345,name,Odakyu OX,regular
+1919601345,shop,supermarket,regular
+1919601345,brand,Odakyu OX,regular
+1919601345,branch,三鷹台店,regular
+1919601345,source,Bing 2010; (URL),regular
+1919601345,en,Odakyu OX,name
+1919601345,ja,Odakyu OX,name
+1919601345,website,http://www.odakyu-ox.net/,regular
+1919601345,operator,Odakyu OX,regular
+1919601345,ja_rm,Odakyu Oekus,name
+1919601345,opening_hours,24/7,regular
+1919626726,name,Odakyu OX,regular
+1919626726,shop,supermarket,regular
+1919626726,brand,Odakyu OX,regular
+1919626726,phone,+81-3-34398181,regular
+1919626726,branch,経堂店,regular
+1919626726,source,(URL),regular
+1919626726,en,Odakyu OX,name
+1919626726,ja,Odakyu OX,name
+1919626726,website,http://www.odakyu-ox.net/,regular
+1919626726,operator,小田急商事,regular
+1919626726,ja_rm,Odakyu Oekus,name
+1919626726,postcode,156-0052,addr
+1919626726,opening_hours,Mo-Su 10:00-23:00,regular
+1919626727,amenity,bank,regular
+1919626727,atm,yes,regular
+1919626727,name,三菱東京UFJ銀行,regular
+1919626727,source,Bing 2010,regular
+1919639293,name,Odakyu OX,regular
+1919639293,shop,supermarket,regular
+1919639293,brand,Odakyu OX,regular
+1919639293,phone,+81-3-34251051,regular
+1919639293,source,(URL),regular
+1919639293,en,Odakyu OX,name
+1919639293,ja,Odakyu OX,name
+1919639293,website,http://www.odakyu-ox.net/,regular
+1919639293,operator,小田急商事,regular
+1919639293,ja_rm,Odakyu Oekus,name
+1919639293,postcode,156-0052,addr
+1919639293,opening_hours,Mo-Su 10:00-23:45,regular
+1919676074,highway,bus_stop,regular
+1919704663,highway,bus_stop,regular
+1919704664,highway,bus_stop,regular
+1919719252,name,島忠ホームセンター,regular
+1919719252,shop,doityourself,regular
+1919719252,brand,Simachu,regular
+1919719252,phone,+81-3-53426311,regular
+1919719252,branch,中野店,regular
+1919719252,source,Bing 2010; (URL),regular
+1919719252,en,Simachu Home Center,name
+1919719252,ja,島忠ホームセンター,name
+1919719252,website,http://www.shimachu.co.jp/,regular
+1919719252,operator,島忠,regular
+1919719252,ja_rm,Simachu,name
+1919719252,ja_kana,しまちゅうホームセンター,name
+1919719252,postcode,164-0001,addr
+1919719252,opening_hours,Mo-Su 10:00-20:00,regular
+1919728900,name,トヨタレンタリース,regular
+1919728900,branch,中野駅前店,regular
+1919728900,source,Bing 2010,regular
+1919728900,amenity,car_rental,regular
+1919728900,ja,トヨタレンタリース,name
+1919728900,ja_kana,トヨタレンタリース,name
+1919728900,opening_hours,7:00-22:00,regular
+1920164991,source,Bing,regular
+1920164991,barrier,bollard,regular
+1920165019,source,Bing,regular
+1920165019,highway,crossing,regular
+1920165022,source,Bing,regular
+1920165022,barrier,bollard,regular
+1920242122,source,Bing,regular
+1920242122,barrier,bollard,regular
+1920242127,source,Bing,regular
+1920242127,barrier,bollard,regular
+1920242144,source,Bing,regular
+1920242144,barrier,bollard,regular
+1920242152,source,Bing,regular
+1920242152,barrier,bollard,regular
+1920242168,source,Bing,regular
+1920242168,barrier,bollard,regular
+1920242289,source,Bing,regular
+1920242289,highway,crossing,regular
+1920307424,source,Bing,regular
+1920307424,barrier,bollard,regular
+1921120318,postcode,182-0003,addr
+1921120318,branch,仙川店,regular
+1921120318,brand,HOME'S,regular
+1921120318,name,島忠ホームズ,regular
+1921120318,en,HOME'S,name
+1921120318,ja,ホームズ,name
+1921120318,ja_rm,Homuzu,name
+1921120318,opening_hours,Mo-Su 10:00-20:00,regular
+1921120318,operator,島忠,regular
+1921120318,phone,+81-3-53143300,regular
+1921120318,shop,doityourself,regular
+1921120318,source,Bing 2010; (URL),regular
+1921120318,wheelchair,yes,toilets
+1921120318,website,http://www.shimachu.co.jp/,regular
+1921120318,wheelchair,yes,regular
+1921120318,wikidata,Q11476337,regular
+1921120318,wikipedia,ja:島忠,regular
+1921435386,postcode,169-0074,addr
+1921435386,amenity,cafe,regular
+1921435386,branch,新宿フロントタワー,regular
+1921435386,brand,Cafe de CRIE,regular
+1921435386,cuisine,coffee_shop,regular
+1921435386,name,カフェ・ド・クリエ,regular
+1921435386,en,Cafe de CRIE,name
+1921435386,ja,カフェ・ド・クリエ,name
+1921435386,ja_rm,Kafe Do Kurie,name
+1921435386,opening_hours,"wd 07:00-21:00; Sa,Su,PH 08:00-19:00",regular
+1921435386,operator,ポッカ・クリエイト,regular
+1921435386,phone,+81-3-53860848,regular
+1921435386,smoking,separated,regular
+1921435386,source,(URL),regular
+1921435386,website,http://www.pokkacreate.co.jp/,regular
+1921435386,wheelchair,yes,regular
+1921435386,wifi,free,regular
+1923662593,amenity,post_box,regular
+1923662711,amenity,post_box,regular
+1923662839,name,ファミリーマート あぶらや給田三丁目店,regular
+1923662839,shop,convenience,regular
+1923664538,full,東京都世田谷区給田3-1-16,addr
+1923664538,postcode,157-0064,addr
+1923664538,atm,yes,regular
+1923664538,branch,世田谷給田,regular
+1923664538,brand,7 ELEVEN,regular
+1923664538,internet_access,wlan,regular
+1923664538,level,0,regular
+1923664538,name,セブン-イレブン,regular
+1923664538,en,Seven-Eleven,name
+1923664538,ja,セブン-イレブン,name
+1923664538,ja_rm,Sebun Irebun,name
+1923664538,opening_hours,24/7,regular
+1923664538,operator,セブンイレブン・ジャパン,regular
+1923664538,phone,03-3300-2624,regular
+1923664538,ref,34499,regular
+1923664538,shop,convenience,regular
+1923664538,source,(URL) 2015,regular
+1923664538,website,http://www.sej.co.jp/,regular
+1923664538,wikidata,Q259340,regular
+1923664538,wikipedia,ja:セブン-イレブン,regular
+1923664968,name,サンクス 世田谷南烏山六丁目店,regular
+1923664968,shop,convenience,regular
+1923665369,name,Breadal One,regular
+1923665369,shop,bakery,regular
+1923669294,name,ローソン,regular
+1923669294,shop,convenience,regular
+1923669294,brand,LAWSON,regular
+1923669294,en,LAWSON,name
+1923669294,ja,ローソン,name
+1923669294,ja_rm,Rōson,name
+1923671104,name,スターバックス,regular
+1923671104,wifi,yes,regular
+1923671104,brand,Starbucks,regular
+1923671104,phone,03-5316-6502,regular
+1923671104,branch,芦花公園店,regular
+1923671104,source,(URL) 2015,regular
+1923671104,amenity,cafe,regular
+1923671104,cuisine,coffee_shop,regular
+1923671104,en,Starbucks,name
+1923671104,ja,スターバックス,name
+1923671104,website,http://www.starbucks.co.jp/,regular
+1923671104,operator,スターバックスコーヒージャパン,regular
+1923671104,takeaway,yes,regular
+1923671104,full,東京都世田谷区南烏山1-2-17,addr
+1923671104,ja_rm,Sutah-bakkusu,name
+1923671104,postcode,157-0062,addr
+1923671104,drive_through,no,regular
+1923671104,opening_hours,Mo-Su 06:00-26:00,regular
+1923680722,name,まいばすけっと,regular
+1923680722,shop,convenience,regular
+1923680724,amenity,car_rental,regular
+1923680724,name,ニッポンレンタカー,regular
+1923680725,name,ローソン,regular
+1923680725,shop,convenience,regular
+1923680725,brand,LAWSON,regular
+1923680725,level,0,regular
+1923680725,phone,+81-3-33026003,regular
+1923680725,branch,高井戸陸橋,regular
+1923680725,source,Bing 2010; (URL),regular
+1923680725,en,LAWSON,name
+1923680725,ja,ローソン,name
+1923680725,website,http://www.lawson.co.jp/,regular
+1923680725,operator,ローソン,regular
+1923680725,ja_rm,Rōson,name
+1923680725,opening_hours,24/7,regular
+1923681929,barrier,bollard,regular
+1924964808,name,サンクス,regular
+1924964808,shop,convenience,regular
+1924964808,brand,sunkus サンクス,regular
+1924964808,en,sunkus,name
+1924964808,ja,サンクス,name
+1924964808,ja_rm,Sankusu,name
+1924964810,name,ニッポンレンタカー,regular
+1924964810,amenity,car_rental,regular
+1924964827,name,まいばすけっと,regular
+1924964827,shop,convenience,regular
+1924964827,opening_hours,08:00-24:00,regular
+1924964830,full,東京都調布市仙川町3-9-10,addr
+1924964830,postcode,182-0002,addr
+1924964830,atm,yes,regular
+1924964830,branch,調布仙川3丁目,regular
+1924964830,brand,7 ELEVEN,regular
+1924964830,internet_access,wlan,regular
+1924964830,level,0,regular
+1924964830,name,セブン-イレブン,regular
+1924964830,en,Seven-Eleven,name
+1924964830,ja,セブン-イレブン,name
+1924964830,ja_rm,Sebun Irebun,name
+1924964830,opening_hours,24/7,regular
+1924964830,operator,セブンイレブン・ジャパン,regular
+1924964830,phone,03-3326-7134,regular
+1924964830,shop,convenience,regular
+1924964830,source,(URL) 2015,regular
+1924964830,website,http://www.sej.co.jp/,regular
+1924964830,wikidata,Q259340,regular
+1924964830,wikipedia,ja:セブン-イレブン,regular
+1925087935,postcode,164-0001,addr
+1925087935,amenity,cafe,regular
+1925087935,branch,中野店,regular
+1925087935,brand,CAFÉ VELOCE,regular
+1925087935,cuisine,coffee_shop,regular
+1925087935,level,0,regular
+1925087935,name,カフェ・ベローチェ,regular
+1925087935,en,CAFE VELOCE,name
+1925087935,ja,カフェ・ベローチェ,name
+1925087935,ja_rm,Kafe Beroche,name
+1925087935,opening_hours,Mo-Su 07:00-23:00,regular
+1925087935,operator,シャノアール,regular
+1925087935,smoking,no,regular
+1925087935,source,(URL),regular
+1925087935,website,http://chatnoir-company.com/chatnoir/html/brand/brand_veloce.html,regular
+1925087935,wikidata,Q11294597,regular
+1925087935,wikipedia,ja:カフェ・ベローチェ,regular
+1925097265,postcode,164-0001,addr
+1925097265,amenity,cafe,regular
+1925097265,branch,中野駅南口店,regular
+1925097265,brand,CAFÉ VELOCE,regular
+1925097265,cuisine,coffee_shop,regular
+1925097265,level,0,regular
+1925097265,name,カフェ・ベローチェ,regular
+1925097265,en,CAFE VELOCE,name
+1925097265,ja,カフェ・ベローチェ,name
+1925097265,ja_rm,Kafe Beroche,name
+1925097265,opening_hours,Mo-Su 07:00-23:00,regular
+1925097265,operator,シャノアール,regular
+1925097265,smoking,separated,regular
+1925097265,source,(URL),regular
+1925097265,website,http://www.chatnoir-jp.com/,regular
+1925097265,wikidata,Q11294597,regular
+1925097265,wikipedia,ja:カフェ・ベローチェ,regular
+1925130457,postcode,164-0012,addr
+1925130457,amenity,cafe,regular
+1925130457,branch,新中野店,regular
+1925130457,brand,CAFÉ VELOCE,regular
+1925130457,cuisine,coffee_shop,regular
+1925130457,level,0,regular
+1925130457,name,カフェ・ベローチェ,regular
+1925130457,en,CAFE VELOCE,name
+1925130457,ja,カフェ・ベローチェ,name
+1925130457,ja_rm,Kafe Beroche,name
+1925130457,opening_hours,Mo-Su 07:00-23:00,regular
+1925130457,operator,シャノアール,regular
+1925130457,smoking,no,regular
+1925130457,source,(URL),regular
+1925130457,website,http://www.chatnoir-jp.com/,regular
+1925130457,wikidata,Q11294597,regular
+1925130457,wikipedia,ja:カフェ・ベローチェ,regular
+1925130485,ref,2,regular
+1925130485,railway,subway_entrance,regular
+1925130496,name,ファミリーマート,regular
+1925130496,shop,convenience,regular
+1925130496,brand,FamilyMart,regular
+1925130496,source,Bing 2010,regular
+1925130496,en,FamilyMart,name
+1925130496,ja,ファミリーマート,name
+1925130496,ja_rm,Famirī Mato,name
+1925130500,ref,1,regular
+1925130500,railway,subway_entrance,regular
+1925156294,atm,yes,regular
+1925156294,name,東京都民銀行,regular
+1925156294,branch,中野支店,regular
+1925156294,source,Bing 2010,regular
+1925156294,amenity,bank,regular
+1925156294,ja,東京都民銀行,name
+1925180301,name,カフェ・ベローチェ,regular
+1925180301,brand,CAFÉ VELOCE,regular
+1925180301,level,0,regular
+1925180301,phone,03-3307-0970,regular
+1925180301,branch,シャノアール,regular
+1925180301,source,(URL) 2015,regular
+1925180301,amenity,cafe,regular
+1925180301,cuisine,coffee_shop,regular
+1925180301,en,CAFE VELOCE,name
+1925180301,ja,カフェ・ベローチェ,name
+1925180301,smoking,separated,regular
+1925180301,website,http://chatnoir-company.com/chatnoir/html/brand/brand_veloce.html,regular
+1925180301,full,東京都世田谷区南烏山4-12-10,addr
+1925180301,ja_rm,Kafe Beroche,name
+1925180301,postcode,157-0062,addr
+1925180301,opening_hours,Mo-Su 07:00-23:00,regular
+1925180301,housename,フロンティアビル1F,addr
+1925693015,ele,62.0000000,regular
+1925693015,name,??,regular
+1925693017,ele,68.0000000,regular
+1925693017,name,??,regular
+1925693018,ele,71.0000000,regular
+1925693018,name,??,regular
+1925693019,ele,67.0000000,regular
+1925693019,name,??,regular
+1925693020,ele,60.0000000,regular
+1925693020,name,??,regular
+1925693022,ele,63.0000000,regular
+1925693022,name,??,regular
+1925693057,highway,traffic_signals,regular
+1926239440,colour,green,regular
+1926239440,name,代々木公園,regular
+1926239440,en,Yoyogi-koen,name
+1926239440,fr,Yoyogi-kōen,name
+1926239440,ja,代々木公園,name
+1926239440,ja_kana,よよぎこうえん,name
+1926239440,ja_rm,Yoyogi kōen,name
+1926239440,ru,Ёёги Коэн,name
+1926239440,network,千代田線,regular
+1926239440,operator,東京メトロ,regular
+1926239440,public_transport,station,regular
+1926239440,railway,station,regular
+1926239440,ref,C02,regular
+1926239440,source,Survey,regular
+1926239440,station,subway,regular
+1926239440,subway,yes,regular
+1926239440,transport,subway,regular
+1926239440,wheelchair,yes,regular
+1926239440,wikidata,Q347796,regular
+1926239440,wikipedia,ja:代々木公園駅,regular
+1926277321,name,中野坂上,regular
+1926277321,en,Nakano-sakaue,name
+1926277321,ja,中野坂上,name
+1926277321,ja_kana,なかのさかうえ,name
+1926277321,ja_rm,Nakano sakaue,name
+1926277321,ru,Накано Сакауэ,name
+1926277321,operator,東京地下鉄,regular
+1926277321,platforms,4,regular
+1926277321,public_transport,station,regular
+1926277321,railway,station,regular
+1926277321,ref,M06,regular
+1926277321,wikidata,Q275436,regular
+1926277321,wikipedia,ja:中野坂上駅,regular
+1926277346,colour,red,regular
+1926277346,name,新宿,regular
+1926277346,en,Shinjuku,name
+1926277346,fr,Shinjuku,name
+1926277346,ja,新宿,name
+1926277346,ja_kana,しんじゅく,name
+1926277346,ja_rm,Shinjuku,name
+1926277346,ko,신주쿠,name
+1926277346,ru,Синдзюку,name
+1926277346,operator,東京地下鉄,regular
+1926277346,platforms,2,regular
+1926277346,railway,station,regular
+1926277346,ref,M08,regular
+1926277346,station,subway,regular
+1926277346,subway,yes,regular
+1926277346,transport,subway,regular
+1926277346,wheelchair,yes,regular
+1926277346,wikidata,Q801447,regular
+1926277346,wikipedia,ja:新宿駅,regular
+1926277366,name,西新宿,regular
+1926277366,en,Nishi-shinjuku,name
+1926277366,ja,西新宿,name
+1926277366,ja_kana,にししんじゅく,name
+1926277366,ja_rm,Nishi Shinjuku,name
+1926277366,ko,니시신주쿠,name
+1926277366,ru,Ниси Синдзюку,name
+1926277366,operator,東京地下鉄,regular
+1926277366,platforms,2,regular
+1926277366,public_transport,station,regular
+1926277366,railway,station,regular
+1926277366,ref,M07,regular
+1926277366,wikidata,Q138555,regular
+1926277366,wikipedia,ja:西新宿駅,regular
+1926376076,colour,yellow,regular
+1926376076,name,千川,regular
+1926376076,en,Senkawa,name
+1926376076,ja,千川,name
+1926376076,ja_kana,せんかわ,name
+1926376076,ja_rm,Senkawa,name
+1926376076,ru,Сэнкава,name
+1926376076,operator,東京地下鉄,regular
+1926376076,public_transport,station,regular
+1926376076,railway,station,regular
+1926376076,ref,Y07;F07,regular
+1926376076,station,subway,regular
+1926376076,subway,yes,regular
+1926376076,transport,subway,regular
+1926376076,wikidata,Q128304,regular
+1926376076,wikipedia,ja:千川駅,regular
+1926376083,aerialway,station,regular
+1926376083,name,池袋,regular
+1926376083,en,Ikebukuro,name
+1926376083,fr,Le sac de l'étang,name
+1926376083,ja,池袋,name
+1926376083,ja_kana,いけぶくろ,name
+1926376083,ja_rm,Ikebukuro,name
+1926376083,ru,Икебукуро,name
+1926376083,railway,station,regular
+1926376083,ref,Y09,regular
+1926376083,subway,yes,regular
+1926376083,wheelchair,yes,regular
+1926376083,wikidata,Q173919,regular
+1926376083,wikipedia,ja:池袋駅,regular
+1926376084,colour,yellow,regular
+1926376084,name,要町,regular
+1926376084,en,Kanamecho,name
+1926376084,ja,要町,name
+1926376084,ja_kana,かなめちょう,name
+1926376084,ja_rm,Kanamechō,name
+1926376084,ru,Канамэтё,name
+1926376084,operator,東京地下鉄,regular
+1926376084,public_transport,station,regular
+1926376084,railway,station,regular
+1926376084,ref,Y08;F08,regular
+1926376084,station,subway,regular
+1926376084,subway,yes,regular
+1926376084,transport,subway,regular
+1926376084,wikidata,Q128296,regular
+1926376084,wikipedia,ja:要町駅,regular
+1926587028,name,エクセルシオール カフェ,regular
+1926587028,brand,EXCELSIOR CAFFE,regular
+1926587028,level,-1,regular
+1926587028,phone,+81-3-53233936,regular
+1926587028,branch,新宿パークタワー店,regular
+1926587028,source,(URL),regular
+1926587028,amenity,cafe,regular
+1926587028,cuisine,coffee_shop,regular
+1926587028,en,EXCELSIOR CAFFE,name
+1926587028,ja,エクセルシオール カフェ,name
+1926587028,website,http://www.doutor.co.jp/exc/,regular
+1926587028,operator,ドトールコーヒー,regular
+1926587028,ja_rm,Ekuserusiohru Kafe,name
+1926587028,wheelchair,yes,regular
+1926587028,opening_hours,"Mo-Fr 07:00-22:00; Sa 07:30-20:00; Su,PH 08:00-22:00",regular
+1926613715,name,エクセルシオール カフェ,regular
+1926613715,brand,EXCELSIOR CAFFE,regular
+1926613715,level,0,regular
+1926613715,phone,+81-3-54489446,regular
+1926613715,branch,恵比寿ガーデンプレイス店,regular
+1926613715,source,(URL),regular
+1926613715,amenity,cafe,regular
+1926613715,cuisine,coffee_shop,regular
+1926613715,en,EXCELSIOR CAFFE,name
+1926613715,ja,エクセルシオール カフェ,name
+1926613715,website,http://www.doutor.co.jp/exc/,regular
+1926613715,operator,ドトールコーヒー,regular
+1926613715,ja_rm,Ekuserusiohru Kafe,name
+1926613715,opening_hours,"wd 07:30-22:30; Sa 08:00-22:30; Su,PH 08:00-22:00",regular
+1926613733,aeroway,helipad,regular
+1926673950,name,エクセルシオール カフェ,regular
+1926673950,brand,EXCELSIOR CAFFE,regular
+1926673950,level,0,regular
+1926673950,phone,+81-3-54283638,regular
+1926673950,branch,渋谷道玄坂店,regular
+1926673950,source,(URL),regular
+1926673950,amenity,cafe,regular
+1926673950,cuisine,coffee_shop,regular
+1926673950,en,EXCELSIOR CAFFE,name
+1926673950,ja,エクセルシオール カフェ,name
+1926673950,website,http://www.doutor.co.jp/exc/,regular
+1926673950,operator,ドトールコーヒー,regular
+1926673950,ja_rm,Ekuserusiohru Kafe,name
+1926673950,opening_hours,Mo-Su 06:00-24:00,regular
+1926694823,name,エクセルシオール カフェ,regular
+1926694823,brand,EXCELSIOR CAFFE,regular
+1926694823,level,0,regular
+1926694823,phone,+81-3-54285460,regular
+1926694823,branch,渋谷マークシティ店,regular
+1926694823,source,(URL),regular
+1926694823,amenity,cafe,regular
+1926694823,cuisine,coffee_shop,regular
+1926694823,en,EXCELSIOR CAFFE,name
+1926694823,ja,エクセルシオール カフェ,name
+1926694823,website,http://www.doutor.co.jp/exc/,regular
+1926694823,operator,ドトールコーヒー,regular
+1926694823,ja_rm,Ekuserusiohru Kafe,name
+1926694823,opening_hours,wd 07:00-23:00,regular
+1926698251,name,エクセルシオール カフェ,regular
+1926698251,brand,EXCELSIOR CAFFE,regular
+1926698251,level,0,regular
+1926698251,phone,+81-3-54281550,regular
+1926698251,branch,渋谷宇田川町店,regular
+1926698251,source,(URL),regular
+1926698251,amenity,cafe,regular
+1926698251,cuisine,coffee_shop,regular
+1926698251,en,EXCELSIOR CAFFE,name
+1926698251,ja,エクセルシオール カフェ,name
+1926698251,website,http://www.doutor.co.jp/exc/,regular
+1926698251,operator,ドトールコーヒー,regular
+1926698251,ja_rm,Ekuserusiohru Kafe,name
+1926698251,opening_hours,"wd 07:30-23:00; Sa,Su,PH 08:00-23:00",regular
+1926700040,name,池袋,regular
+1926700040,en,Ikebukuro,name
+1926700040,fr,Le sac de l'étang,name
+1926700040,ja,池袋,name
+1926700040,ja_kana,いけぶくろ,name
+1926700040,ja_rm,Ikebukuro,name
+1926700040,ru,Икебукуро,name
+1926700040,operator,東京地下鉄,regular
+1926700040,railway,station,regular
+1926700040,ref,M25,regular
+1926700040,wheelchair,yes,regular
+1926700040,wikidata,Q173919,regular
+1926700040,wikipedia,ja:池袋駅,regular
+1926708603,name,エクセルシオール カフェ,regular
+1926708603,brand,EXCELSIOR CAFFE,regular
+1926708603,level,0,regular
+1926708603,phone,+81-3-53380941,regular
+1926708603,branch,新宿小滝橋通り店,regular
+1926708603,source,(URL),regular
+1926708603,amenity,cafe,regular
+1926708603,cuisine,coffee_shop,regular
+1926708603,en,EXCELSIOR CAFFE,name
+1926708603,ja,エクセルシオール カフェ,name
+1926708603,website,http://www.doutor.co.jp/exc/,regular
+1926708603,operator,ドトールコーヒー,regular
+1926708603,ja_rm,Ekuserusiohru Kafe,name
+1926708603,opening_hours,"wd 06:45-22:00; Sa 07:30-22:00; Su,PH 08:00-21:00",regular
+1927319804,name,台北,regular
+1927319804,level,-1,regular
+1927319804,amenity,pub,regular
+1927319805,name,ネオスタンダード,regular
+1927319805,shop,pawnbroker,regular
+1927319805,level,0,regular
+1927319805,phone,042-486-4424,regular
+1927319805,branch,柴崎店,regular
+1927319805,source,survey,regular
+1927319805,opening_hours,11:00-18:00; Tu OFF,regular
+1927319806,name,Iwasaki,regular
+1927319806,shop,hairdresser,regular
+1927319807,name,長岡屋,regular
+1927319807,amenity,restaurant,regular
+1927373731,source,Bing 2010,regular
+1927373731,highway,crossing,regular
+1927429684,source,Bing 2010,regular
+1927429684,highway,crossing,regular
+1927429708,highway,traffic_signals,regular
+1927429708,name,仲宿,regular
+1927429708,en,Nakajuku,name
+1927429708,source,Bing,regular
+1927429713,highway,traffic_signals,regular
+1927429713,name,仲宿,regular
+1927429713,en,Nakajuku,name
+1927429713,source,Bing,regular
+1927429719,highway,traffic_signals,regular
+1927429719,name,仲宿,regular
+1927429719,en,Nakajuku,name
+1927429719,source,Bing,regular
+1927560009,source,Bing,regular
+1927560009,railway,level_crossing,regular
+1927560015,source,Bing,regular
+1927560015,railway,level_crossing,regular
+1927560021,source,Bing,regular
+1927560021,railway,level_crossing,regular
+1927560033,source,Bing,regular
+1927560033,railway,level_crossing,regular
+1927560156,source,Bing,regular
+1927560156,highway,crossing,regular
+1927560449,source,Bing,regular
+1927560449,highway,crossing,regular
+1927560456,source,Bing,regular
+1927560456,railway,level_crossing,regular
+1927630509,full,東京都渋谷区恵比寿南3-2-17,addr
+1927630509,postcode,150-0022,addr
+1927630509,atm,yes,regular
+1927630509,branch,渋谷恵比寿南3丁目,regular
+1927630509,brand,7 ELEVEN,regular
+1927630509,internet_access,wlan,regular
+1927630509,level,0,regular
+1927630509,name,セブン-イレブン,regular
+1927630509,en,Seven-Eleven,name
+1927630509,ja,セブン-イレブン,name
+1927630509,ja_rm,Sebun Irebun,name
+1927630509,opening_hours,24/7,regular
+1927630509,operator,セブンイレブン・ジャパン,regular
+1927630509,phone,+81-3-37917799,regular
+1927630509,shop,convenience,regular
+1927630509,source,(URL),regular
+1927630509,website,http://www.sej.co.jp/,regular
+1927630509,wikidata,Q259340,regular
+1927630509,wikipedia,ja:セブン-イレブン,regular
+1927634877,full,東京都渋谷区代官山町14-23,addr
+1927634877,postcode,150-0034,addr
+1927634877,atm,yes,regular
+1927634877,branch,渋谷代官山,regular
+1927634877,brand,7 ELEVEN,regular
+1927634877,internet_access,wlan,regular
+1927634877,level,0,regular
+1927634877,name,セブン-イレブン,regular
+1927634877,en,Seven-Eleven,name
+1927634877,ja,セブン-イレブン,name
+1927634877,ja_rm,Sebun Irebun,name
+1927634877,opening_hours,24/7,regular
+1927634877,operator,セブンイレブン・ジャパン,regular
+1927634877,phone,+81-3-37706997,regular
+1927634877,shop,convenience,regular
+1927634877,source,Bing 2010; (URL),regular
+1927634877,website,http://www.sej.co.jp/,regular
+1927634877,wikidata,Q259340,regular
+1927634877,wikipedia,ja:セブン-イレブン,regular
+1927642008,full,東京都渋谷区恵比寿1-7-9,addr
+1927642008,postcode,150-0011,addr
+1927642008,atm,yes,regular
+1927642008,branch,渋谷東3丁目,regular
+1927642008,brand,7 ELEVEN,regular
+1927642008,internet_access,no,regular
+1927642008,level,0,regular
+1927642008,name,セブン-イレブン,regular
+1927642008,en,Seven-Eleven,name
+1927642008,ja,セブン-イレブン,name
+1927642008,ja_rm,Sebun Irebun,name
+1927642008,opening_hours,24/7,regular
+1927642008,operator,セブンイレブン・ジャパン,regular
+1927642008,phone,+81-3-54699975,regular
+1927642008,shop,convenience,regular
+1927642008,source,(URL),regular
+1927642008,website,http://www.sej.co.jp/,regular
+1927642008,wikidata,Q259340,regular
+1927642008,wikipedia,ja:セブン-イレブン,regular
+1927649079,full,東京都渋谷区東4-8-1,addr
+1927649079,postcode,150-0011,addr
+1927649079,atm,yes,regular
+1927649079,branch,渋谷東4丁目,regular
+1927649079,brand,7 ELEVEN,regular
+1927649079,internet_access,wlan,regular
+1927649079,level,0,regular
+1927649079,name,セブン-イレブン,regular
+1927649079,en,Seven-Eleven,name
+1927649079,ja,セブン-イレブン,name
+1927649079,ja_rm,Sebun Irebun,name
+1927649079,opening_hours,24/7,regular
+1927649079,operator,セブンイレブン・ジャパン,regular
+1927649079,phone,+81-3-34005251,regular
+1927649079,shop,convenience,regular
+1927649079,source,Bing 2010; (URL),regular
+1927649079,website,http://www.sej.co.jp/,regular
+1927649079,wikidata,Q259340,regular
+1927649079,wikipedia,ja:セブン-イレブン,regular
+1927673971,full,東京都渋谷区恵比寿南1-25-1,addr
+1927673971,postcode,150-0022,addr
+1927673971,atm,yes,regular
+1927673971,branch,恵比寿アメリカ橋,regular
+1927673971,brand,7 ELEVEN,regular
+1927673971,internet_access,no,regular
+1927673971,level,0,regular
+1927673971,name,セブン-イレブン,regular
+1927673971,en,Seven-Eleven,name
+1927673971,ja,セブン-イレブン,name
+1927673971,ja_rm,Sebun Irebun,name
+1927673971,opening_hours,24/7,regular
+1927673971,operator,セブンイレブン・ジャパン,regular
+1927673971,phone,+81-3-37912355,regular
+1927673971,shop,convenience,regular
+1927673971,source,(URL),regular
+1927673971,website,http://www.sej.co.jp/,regular
+1927673971,wikidata,Q259340,regular
+1927673971,wikipedia,ja:セブン-イレブン,regular
+1927691763,highway,bus_stop,regular
+1927691764,bus,yes,regular
+1927691764,highway,bus_stop,regular
+1927691764,public_transport,platform,regular
+1927691781,full,東京都目黒区中目黒2-7-14,addr
+1927691781,postcode,153-0061,addr
+1927691781,atm,yes,regular
+1927691781,branch,中目黒,regular
+1927691781,brand,7 ELEVEN,regular
+1927691781,internet_access,wlan,regular
+1927691781,level,0,regular
+1927691781,name,セブン-イレブン,regular
+1927691781,en,Seven-Eleven,name
+1927691781,ja,セブン-イレブン,name
+1927691781,ja_rm,Sebun Irebun,name
+1927691781,opening_hours,24/7,regular
+1927691781,operator,セブンイレブン・ジャパン,regular
+1927691781,phone,+81-3-37197785,regular
+1927691781,shop,convenience,regular
+1927691781,source,(URL),regular
+1927691781,website,http://www.sej.co.jp/,regular
+1927691781,wikidata,Q259340,regular
+1927691781,wikipedia,ja:セブン-イレブン,regular
+1927698693,source,Bing,regular
+1927698693,highway,traffic_signals,regular
+1927698700,source,Bing,regular
+1927698700,railway,level_crossing,regular
+1927698739,railway,level_crossing,regular
+1927698740,source,Bing,regular
+1927698740,highway,traffic_signals,regular
+1927698800,source,Bing,regular
+1927698800,railway,level_crossing,regular
+1927725908,source,Bing,regular
+1927725908,barrier,bollard,regular
+1927811993,source,Bing,regular
+1927811993,highway,traffic_signals,regular
+1927812003,source,Bing,regular
+1927812003,highway,traffic_signals,regular
+1927910482,full,東京都世田谷区赤堤2-43-10,addr
+1927910482,postcode,156-0044,addr
+1927910482,atm,yes,regular
+1927910482,branch,世田谷松原駅前,regular
+1927910482,brand,7 ELEVEN,regular
+1927910482,internet_access,wlan,regular
+1927910482,level,0,regular
+1927910482,name,セブン-イレブン,regular
+1927910482,en,Seven-Eleven,name
+1927910482,ja,セブン-イレブン,name
+1927910482,ja_rm,Sebun Irebun,name
+1927910482,operator,セブンイレブン・ジャパン,regular
+1927910482,phone,03-3327-8685,regular
+1927910482,shop,convenience,regular
+1927910482,source,Bing 2010; (URL),regular
+1927910482,website,http://www.sej.co.jp/,regular
+1927910482,wikidata,Q259340,regular
+1927910482,wikipedia,ja:セブン-イレブン,regular
+1927910778,name,スーパーオオゼキ,regular
+1927910778,shop,supermarket,regular
+1927910778,source,Bing 2010,regular
+1928070379,highway,bus_stop,regular
+1928070398,aeroway,helipad,regular
+1928070403,full,世田谷区北烏山9-17-18,addr
+1928070403,postcode,157-0061,addr
+1928070403,atm,yes,regular
+1928070403,branch,世田谷北烏山,regular
+1928070403,brand,7 ELEVEN,regular
+1928070403,internet_access,wlan,regular
+1928070403,level,0,regular
+1928070403,name,セブン-イレブン,regular
+1928070403,en,Seven-Eleven,name
+1928070403,ja,セブン-イレブン,name
+1928070403,ja_rm,Sebun Irebun,name
+1928070403,opening_hours,24/7,regular
+1928070403,operator,セブンイレブン・ジャパン,regular
+1928070403,phone,+81-3-33056116,regular
+1928070403,shop,convenience,regular
+1928070403,source,(URL),regular
+1928070403,website,http://www.sej.co.jp/,regular
+1928070403,wikidata,Q259340,regular
+1928070403,wikipedia,ja:セブン-イレブン,regular
+1928077230,full,東京都練馬区高野台1-7-20,addr
+1928077230,postcode,177-0033,addr
+1928077230,atm,yes,regular
+1928077230,branch,練馬高野台駅前,regular
+1928077230,brand,7 ELEVEN,regular
+1928077230,internet_access,wlan,regular
+1928077230,level,0,regular
+1928077230,name,セブン-イレブン,regular
+1928077230,en,Seven-Eleven,name
+1928077230,ja,セブン-イレブン,name
+1928077230,ja_rm,Sebun Irebun,name
+1928077230,opening_hours,24/7,regular
+1928077230,operator,セブンイレブン・ジャパン,regular
+1928077230,phone,+81-3-39957752,regular
+1928077230,shop,convenience,regular
+1928077230,source,(URL),regular
+1928077230,website,http://www.sej.co.jp/,regular
+1928077230,wikidata,Q259340,regular
+1928077230,wikipedia,ja:セブン-イレブン,regular
+1928079713,full,東京都練馬区南田中3-17-25,addr
+1928079713,postcode,177-0035,addr
+1928079713,atm,yes,regular
+1928079713,branch,練馬南田中3丁目,regular
+1928079713,brand,7 ELEVEN,regular
+1928079713,internet_access,wlan,regular
+1928079713,level,0,regular
+1928079713,name,セブン-イレブン,regular
+1928079713,en,Seven-Eleven,name
+1928079713,ja,セブン-イレブン,name
+1928079713,ja_rm,Sebun Irebun,name
+1928079713,opening_hours,24/7,regular
+1928079713,operator,セブンイレブン・ジャパン,regular
+1928079713,phone,+81-3-53931410,regular
+1928079713,shop,convenience,regular
+1928079713,source,(URL),regular
+1928079713,website,http://www.sej.co.jp/,regular
+1928079713,wikidata,Q259340,regular
+1928079713,wikipedia,ja:セブン-イレブン,regular
+1928079716,name,ツルハドラッグ,regular
+1928079716,source,Bing 2010,regular
+1928079716,amenity,pharmacy,regular
+1928092364,full,東京都中野区鷺宮6-30-18,addr
+1928092364,postcode,165-0032,addr
+1928092364,atm,yes,regular
+1928092364,branch,中野鷺宮6丁目,regular
+1928092364,brand,7 ELEVEN,regular
+1928092364,internet_access,wlan,regular
+1928092364,level,0,regular
+1928092364,name,セブン-イレブン,regular
+1928092364,en,Seven-Eleven,name
+1928092364,ja,セブン-イレブン,name
+1928092364,ja_rm,Sebun Irebun,name
+1928092364,opening_hours,24/7,regular
+1928092364,operator,セブンイレブン・ジャパン,regular
+1928092364,phone,+81-3-38252840,regular
+1928092364,shop,convenience,regular
+1928092364,source,"Bing 2010, (URL)",regular
+1928092364,website,http://www.sej.co.jp/,regular
+1928092364,wikidata,Q259340,regular
+1928092364,wikipedia,ja:セブン-イレブン,regular
+1928104352,full,東京都練馬区富士見台4-12-14,addr
+1928104352,postcode,177-0034,addr
+1928104352,atm,yes,regular
+1928104352,branch,練馬富士見台4丁目,regular
+1928104352,brand,7 ELEVEN,regular
+1928104352,internet_access,wlan,regular
+1928104352,level,0,regular
+1928104352,name,セブン-イレブン,regular
+1928104352,en,7-Eleven,name
+1928104352,ja,セブン-イレブン,name
+1928104352,ja_rm,Sebun Irebun,name
+1928104352,opening_hours,24/7,regular
+1928104352,operator,セブンイレブン・ジャパン,regular
+1928104352,phone,+81-3-39995569,regular
+1928104352,shop,convenience,regular
+1928104352,source,(URL),regular
+1928104352,website,http://www.sej.co.jp/,regular
+1928104352,wikidata,Q259340,regular
+1928104352,wikipedia,ja:セブン-イレブン,regular
+1928106985,name,ファミリーマート,regular
+1928106985,shop,convenience,regular
+1928106985,brand,FamilyMart,regular
+1928106985,branch,練馬高松1丁目店,regular
+1928106985,source,Bing 2010; survey,regular
+1928106985,en,FamilyMart,name
+1928106985,ja,ファミリーマート,name
+1928106985,ja_rm,Famirī Mato,name
+1928112616,full,東京都練馬区春日町5-24-15,addr
+1928112616,postcode,179-0074,addr
+1928112616,atm,yes,regular
+1928112616,branch,練馬春日町5丁目,regular
+1928112616,brand,7 ELEVEN,regular
+1928112616,internet_access,wlan,regular
+1928112616,level,0,regular
+1928112616,name,セブン-イレブン,regular
+1928112616,en,Seven-Eleven,name
+1928112616,ja,セブン-イレブン,name
+1928112616,ja_rm,Sebun Irebun,name
+1928112616,opening_hours,24/7,regular
+1928112616,operator,セブンイレブン・ジャパン,regular
+1928112616,phone,+81-3-35770701,regular
+1928112616,shop,convenience,regular
+1928112616,source,Bing 2010; (URL),regular
+1928112616,website,http://www.sej.co.jp/,regular
+1928112616,wikidata,Q259340,regular
+1928112616,wikipedia,ja:セブン-イレブン,regular
+1928162149,name,一彩,regular
+1928162149,amenity,restaurant,regular
+1928162149,cuisine,noodle,regular
+1928162150,name,島津接骨院,regular
+1928162150,shop,massage,regular
+1928162150,phone,0424-89-4808,regular
+1928162150,opening_hours,"Mo-Fr 9:00-12:00,15:00-19:00; Sa 9:00-12:00; Su,PH OFF",regular
+1928162151,name,大谷歯科医院,regular
+1928162151,phone,0424-86-8680,regular
+1928162151,amenity,dentist,regular
+1928162151,opening_hours,"Mo-We,Fr 9:00-13:00,14:30-19:00; Sa 9:00-13:00,14:30-16:00; Th,Su,PH OFF",regular
+1928229705,barrier,toll_booth,regular
+1928229723,source,Bing,regular
+1928229723,barrier,toll_booth,regular
+1928229738,ref,509,regular
+1928229738,name,北池袋,regular
+1928229738,source,Bing,regular
+1928229738,highway,motorway_junction,regular
+1928229738,en,Kita-Ikebukuro,name
+1928229738,ja,北池袋,name
+1928229738,ja_rm,Kitaikebukuro,name
+1928229739,highway,motorway_junction,regular
+1928229739,name,北池袋,regular
+1928229739,en,Kita-Ikebukuro,name
+1928229739,ja,北池袋,name
+1928229739,ja_rm,Kitaikebukuro,name
+1928229739,ref,509,regular
+1928229739,source,Bing,regular
+1928229740,name,熊野町,regular
+1928229740,source,Bing,regular
+1928229740,highway,traffic_signals,regular
+1928229741,name,熊野町,regular
+1928229741,source,Bing,regular
+1928229741,highway,traffic_signals,regular
+1928229742,ref,C28,regular
+1928229742,name,高松,regular
+1928229742,source,Bing,regular
+1928229742,highway,motorway_junction,regular
+1928229742,en,Takamatsu,name
+1928229742,ja,高松,name
+1928229742,ja_rm,Takamatsu,name
+1928485105,name,初台,regular
+1928485105,highway,traffic_signals,regular
+1928485105,en,Hatsudai,name
+1928485105,ja,初台,name
+1928485105,ja_rm,Hatsudai,name
+1928586811,name,好日（ラーメン）,regular
+1928586811,amenity,restaurant,regular
+1928586811,cuisine,japanese,regular
+1928607412,highway,crossing,regular
+1928607412,crossing,uncontrolled,regular
+1928777797,shop,rice,regular
+1928839928,name,ヘアーサロン さつき,regular
+1928839928,shop,hairdresser,regular
+1928839928,phone,03-3489-8051,regular
+1928839928,en,Hair Salon Satsuki,name
+1928840029,name,狛江ハイタウン東,regular
+1928840029,highway,traffic_signals,regular
+1928840029,en,Komae Hi-TOWN East,name
+1928885686,source,Bing,regular
+1928885686,barrier,toll_booth,regular
+1928885702,ref,511,regular
+1928885702,name,板橋本町,regular
+1928885702,source,Bing,regular
+1928885702,highway,motorway_junction,regular
+1928885706,ref,511,regular
+1928885706,name,板橋本町,regular
+1928885706,source,Bing,regular
+1928885706,highway,motorway_junction,regular
+1929035519,en,Kokemusazu,name
+1929035519,ja,こけむさズ,name
+1929035519,website,http://kokemusazu.com/,regular
+1929092668,source,Bing,regular
+1929092668,barrier,gate,regular
+1929189221,building,yes,regular
+1929364570,source,Bing,regular
+1929364570,railway,level_crossing,regular
+1929364577,source,Bing,regular
+1929364577,railway,buffer_stop,regular
+1929364633,source,Bing,regular
+1929364633,railway,buffer_stop,regular
+1929364759,source,Bing,regular
+1929364759,railway,buffer_stop,regular
+1929364774,source,Bing,regular
+1929364774,railway,buffer_stop,regular
+1929364785,source,Bing,regular
+1929364785,railway,buffer_stop,regular
+1929364792,source,Bing,regular
+1929364792,railway,buffer_stop,regular
+1929364794,source,Bing,regular
+1929364794,railway,level_crossing,regular
+1929364801,source,Bing,regular
+1929364801,railway,level_crossing,regular
+1929364809,source,Bing,regular
+1929364809,railway,level_crossing,regular
+1929364822,source,Bing,regular
+1929364822,railway,buffer_stop,regular
+1929364833,source,Bing,regular
+1929364833,railway,buffer_stop,regular
+1929364836,source,Bing,regular
+1929364836,railway,level_crossing,regular
+1929364839,source,Bing,regular
+1929364839,railway,level_crossing,regular
+1929364842,source,Bing,regular
+1929364842,railway,level_crossing,regular
+1929364847,source,Bing,regular
+1929364847,railway,level_crossing,regular
+1929364873,source,Bing,regular
+1929364873,railway,level_crossing,regular
+1929364883,source,Bing,regular
+1929364883,railway,level_crossing,regular
+1929364888,source,Bing,regular
+1929364888,railway,level_crossing,regular
+1929364898,source,Bing,regular
+1929364898,railway,level_crossing,regular
+1929403994,name,Yamashiro-ya,regular
+1929403994,amenity,restaurant,regular
+1929788005,name,エクセルシオール カフェ,regular
+1929788005,brand,EXCELSIOR CAFFE,regular
+1929788005,level,0,regular
+1929788005,phone,+81-3-39737801,regular
+1929788005,branch,大山駅前店,regular
+1929788005,source,(URL),regular
+1929788005,amenity,cafe,regular
+1929788005,cuisine,coffee_shop,regular
+1929788005,en,EXCELSIOR CAFFE,name
+1929788005,ja,エクセルシオール カフェ,name
+1929788005,website,http://www.excelsiorcaffe.com/,regular
+1929788005,operator,ドトールコーヒー,regular
+1929788005,ja_rm,Ekuserusiohru Kafe,name
+1929788005,opening_hours,"Mo-Fr 07:00-22:00; Sa,Su,PH 08:00-21:00",regular
+1929833979,source,Bing,regular
+1929833979,barrier,bollard,regular
+1929833983,source,Bing,regular
+1929833983,barrier,bollard,regular
+1929838997,source,Bing,regular
+1929838997,railway,level_crossing,regular
+1930003588,shop,books,regular
+1930003643,shop,convenience,regular
+1930011852,amenity,vending_machine,regular
+1930011862,amenity,vending_machine,regular
+1930126693,branch,荻窪駅南口,regular
+1930126693,brand,LAWSON,regular
+1930126693,level,0,regular
+1930126693,name,ローソン,regular
+1930126693,en,LAWSON,name
+1930126693,ja,ローソン,name
+1930126693,ja_rm,Rōson,name
+1930126693,opening_hours,24/7,regular
+1930126693,operator,ローソン,regular
+1930126693,phone,+81-3-33928171,regular
+1930126693,shop,convenience,regular
+1930126693,source,Bing 2010; (URL),regular
+1930126693,website,http://www.lawson.co.jp/,regular
+1930126693,wikidata,Q1557223,regular
+1930126693,wikipedia,ja:ローソン,regular
+1930132227,name,ローソン,regular
+1930132227,shop,convenience,regular
+1930132227,brand,LAWSON,regular
+1930132227,level,0,regular
+1930132227,phone,+81-3-33907765,regular
+1930132227,branch,西荻窪駅北,regular
+1930132227,source,Bing 2010; (URL),regular
+1930132227,en,LAWSON,name
+1930132227,ja,ローソン,name
+1930132227,website,http://www.lawson.co.jp/,regular
+1930132227,operator,ローソン,regular
+1930132227,ja_rm,Rōson,name
+1930132227,opening_hours,24/7,regular
+1930154641,name,ローソン,regular
+1930154641,shop,convenience,regular
+1930154641,brand,LAWSON,regular
+1930154641,level,0,regular
+1930154641,phone,+81-422-226281,regular
+1930154641,branch,吉祥寺井の頭通,regular
+1930154641,en,LAWSON,name
+1930154641,ja,ローソン,name
+1930154641,website,http://www.lawson.co.jp/,regular
+1930154641,operator,ローソン,regular
+1930154641,ja_rm,Rōson,name
+1930154641,opening_hours,24/7,regular
+1930365092,amenity,restaurant,regular
+1930365093,amenity,restaurant,regular
+1930365094,amenity,cafe,regular
+1930488603,name,ローソン,regular
+1930488603,shop,convenience,regular
+1930488603,brand,LAWSON,regular
+1930488603,level,0,regular
+1930488603,phone,+81-422-510313,regular
+1930488603,branch,武蔵野タワーズ,regular
+1930488603,source,Bing 2010; (URL),regular
+1930488603,en,LAWSON,name
+1930488603,ja,ローソン,name
+1930488603,website,http://www.lawson.co.jp/,regular
+1930488603,operator,ローソン,regular
+1930488603,ja_rm,Rōson,name
+1930488603,opening_hours,24/7,regular
+1930488604,aeroway,helipad,regular
+1930489748,name,ローソン,regular
+1930489748,shop,convenience,regular
+1930489748,brand,LAWSON,regular
+1930489748,level,0,regular
+1930489748,phone,+81-422-363435,regular
+1930489748,branch,武蔵野中町二丁目,regular
+1930489748,source,Bing 2010; (URL),regular
+1930489748,en,LAWSON,name
+1930489748,ja,ローソン,name
+1930489748,website,http://www.lawson.co.jp/,regular
+1930489748,operator,ローソン,regular
+1930489748,ja_rm,Rōson,name
+1930489748,opening_hours,24/7,regular
+1930501755,branch,阿佐ヶ谷駅南口店,regular
+1930501755,brand,LAWSON,regular
+1930501755,level,0,regular
+1930501755,name,ローソン,regular
+1930501755,en,LAWSON,name
+1930501755,ja,ローソン,name
+1930501755,ja_rm,Rōson,name
+1930501755,opening_hours,24/7,regular
+1930501755,operator,ローソン,regular
+1930501755,phone,+81-3-53785035,regular
+1930501755,shop,convenience,regular
+1930501755,source,Bing 2010; (URL),regular
+1930501755,website,http://www.lawson.co.jp/,regular
+1930543647,name,すずかけ小路,regular
+1930543647,highway,bus_stop,regular
+1930543647,local_ref,35,regular
+1930543649,name,西門前,regular
+1930543649,highway,bus_stop,regular
+1930543650,name,けやき並木,regular
+1930543650,highway,bus_stop,regular
+1930543650,local_ref,36,regular
+1930543651,name,扶桑通り,regular
+1930543651,highway,bus_stop,regular
+1930564453,name,成蹊通り,regular
+1930564453,highway,bus_stop,regular
+1930564453,local_ref,37,regular
+1930564455,name,本町四丁目,regular
+1930564455,highway,bus_stop,regular
+1930564455,local_ref,38-1,regular
+1930775430,name,ローソン,regular
+1930775430,shop,convenience,regular
+1930775430,brand,LAWSON,regular
+1930775430,level,0,regular
+1930775430,phone,+81-3-53852457,regular
+1930775430,branch,H中野二丁目,regular
+1930775430,source,Bing 2010; (URL),regular
+1930775430,en,LAWSON,name
+1930775430,ja,ローソン,name
+1930775430,website,http://www.lawson.co.jp/,regular
+1930775430,operator,ローソン,regular
+1930775430,ja_rm,Rōson,name
+1930775430,opening_hours,24/7,regular
+1930791471,branch,中野新井一丁目,regular
+1930791471,brand,LAWSON,regular
+1930791471,level,0,regular
+1930791471,name,ローソン,regular
+1930791471,en,LAWSON,name
+1930791471,ja,ローソン,name
+1930791471,ja_rm,Rōson,name
+1930791471,opening_hours,24/7,regular
+1930791471,operator,ローソン,regular
+1930791471,phone,+81-3-33881981,regular
+1930791471,shop,convenience,regular
+1930791471,source,Bing 2010; (URL),regular
+1930791471,website,http://www.lawson.co.jp/,regular
+1930982717,atm,yes,regular
+1930982717,name,ローソン,regular
+1930982717,shop,convenience,regular
+1930982717,brand,LAWSON,regular
+1930982717,level,0,regular
+1930982717,phone,+81-3-34850440,regular
+1930982717,branch,北沢五丁目,regular
+1930982717,source,(URL),regular
+1930982717,en,LAWSON,name
+1930982717,ja,ローソン,name
+1930982717,website,http://www.lawson.co.jp/,regular
+1930982717,operator,ローソン,regular
+1930982717,ja_rm,Rōson,name
+1930982717,opening_hours,24/7,regular
+1930985812,atm,yes,regular
+1930985812,name,ローソン,regular
+1930985812,shop,convenience,regular
+1930985812,brand,LAWSON,regular
+1930985812,level,0,regular
+1930985812,phone,+81-3-34606055,regular
+1930985812,branch,東北沢駅前,regular
+1930985812,source,Bing 2010; (URL),regular
+1930985812,en,LAWSON,name
+1930985812,ja,ローソン,name
+1930985812,website,http://www.lawson.co.jp/,regular
+1930985812,operator,ローソン,regular
+1930985812,ja_rm,Rōson,name
+1930985812,opening_hours,24/7,regular
+1930985813,atm,yes,regular
+1930985813,name,東日本銀行,regular
+1930985813,branch,東北沢支店,regular
+1930985813,source,survey,regular
+1930985813,amenity,bank,regular
+1930985813,opening_hours,"WD 8:00-21:00; Sa,Su,PH 9:00-17:00",atm
+1931003566,name,ローソン,regular
+1931003566,shop,convenience,regular
+1931003566,brand,LAWSON,regular
+1931003566,level,0,regular
+1931003566,phone,+81-3-33817544,regular
+1931003566,branch,中野南台五丁目,regular
+1931003566,source,Bing 2010; (URL),regular
+1931003566,en,LAWSON,name
+1931003566,ja,ローソン,name
+1931003566,website,http://www.lawson.co.jp/,regular
+1931003566,operator,ローソン,regular
+1931003566,ja_rm,Rōson,name
+1931003566,opening_hours,24/7,regular
+1931033788,name,まいばすけっと,regular
+1931033788,shop,convenience,regular
+1931033788,brand,LAWSON,regular
+1931033788,level,1,regular
+1931033788,phone,+81-3-5305-5601,regular
+1931033788,branch,高円寺南一丁目,regular
+1931033788,en,My Basket,name
+1931033788,ja,まいばすけっと,name
+1931033788,operator,まいばすけっと,regular
+1931060950,full,東京都杉並区井草3-22-10,addr
+1931060950,atm,yes,regular
+1931060950,branch,井草三丁目,regular
+1931060950,brand,LAWSON,regular
+1931060950,internet_access,wlan,regular
+1931060950,level,0,regular
+1931060950,name,ローソン,regular
+1931060950,en,LAWSON,name
+1931060950,ja,ローソン,name
+1931060950,ja_rm,Rōson,name
+1931060950,opening_hours,24/7,regular
+1931060950,operator,ローソン,regular
+1931060950,phone,+81-3-33979267,regular
+1931060950,shop,convenience,regular
+1931060950,source,Bing 2010; (URL),regular
+1931060950,website,http://www.lawson.co.jp/,regular
+1931060950,wikidata,Q1557223,regular
+1931060950,wikipedia,ja:ローソン,regular
+1931177739,name,ローソン,regular
+1931177739,shop,convenience,regular
+1931177739,brand,LAWSON,regular
+1931177739,level,0,regular
+1931177739,phone,+81-3-33311431,regular
+1931177739,branch,上高井戸二丁目,regular
+1931177739,source,Bing 2010; (URL),regular
+1931177739,en,LAWSON,name
+1931177739,ja,ローソン,name
+1931177739,website,http://www.lawson.co.jp/,regular
+1931177739,operator,ローソン,regular
+1931177739,ja_rm,Rōson,name
+1931177739,opening_hours,24/7,regular
+1931187876,name,ローソン,regular
+1931187876,shop,convenience,regular
+1931187876,brand,LAWSON,regular
+1931187876,level,0,regular
+1931187876,phone,+81-3-53367231,regular
+1931187876,branch,松庵二丁目,regular
+1931187876,source,Bing 2010; (URL),regular
+1931187876,en,LAWSON,name
+1931187876,ja,ローソン,name
+1931187876,website,http://www.lawson.co.jp/,regular
+1931187876,operator,ローソン,regular
+1931187876,ja_rm,Rōson,name
+1931187876,opening_hours,24/7,regular
+1931189599,name,コナカ,regular
+1931189599,shop,clothes,regular
+1931189599,brand,紳士服コナカ,regular
+1931189599,en,KONAKA,name
+1931189599,ja,コナカ,name
+1931189599,ja_rm,Konaka,name
+1931199144,name,ローソン,regular
+1931199144,shop,convenience,regular
+1931199144,brand,LAWSON,regular
+1931199144,level,0,regular
+1931199144,phone,+81-422-706632,regular
+1931199144,branch,吉祥寺南町,regular
+1931199144,source,Bing 2010; (URL),regular
+1931199144,en,LAWSON,name
+1931199144,ja,ローソン,name
+1931199144,website,http://www.lawson.co.jp/,regular
+1931199144,operator,ローソン,regular
+1931199144,ja_rm,Rōson,name
+1931199144,opening_hours,24/7,regular
+1931199156,name,ガスト,regular
+1931199156,amenity,restaurant,regular
+1931504924,amenity,taxi,regular
+1931617281,amenity,toilets,regular
+1931844614,name,千里眼,regular
+1931844614,source,survey,regular
+1931844614,amenity,restaurant,regular
+1931844614,cuisine,noodle,regular
+1931878068,name,学習院下,regular
+1931878068,en,Gakushuinshita,name
+1931878068,ja,学習院下,name
+1931878068,ja_kana,がくしゅういんした,name
+1931878068,ja_rm,Gakushūin shita,name
+1931878068,operator,東京都交通局,regular
+1931878068,railway,tram_stop,regular
+1931878068,start_date,1914-12-25,regular
+1931878068,wikidata,Q10945769,regular
+1931878068,wikipedia,ja:学習院下停留場,regular
+1931879420,name,面影橋,regular
+1931879420,en,Omokagebashi,name
+1931879420,fr,Omokagebashi Station,name
+1931879420,ja,面影橋,name
+1931879420,ja_kana,おもかげばし,name
+1931879420,ja_rm,Omokagebashi,name
+1931879420,operator,東京都交通局,regular
+1931879420,railway,tram_stop,regular
+1931879420,start_date,1930-03-30,regular
+1931879420,wikidata,Q11663788,regular
+1931879420,wikipedia,ja:面影橋停留場,regular
+1932473528,name,ローソン,regular
+1932473528,shop,convenience,regular
+1932473528,brand,LAWSON,regular
+1932473528,level,0,regular
+1932473528,phone,+81-3-34836980,regular
+1932473528,branch,祖師谷,regular
+1932473528,source,Bing 2010; (URL),regular
+1932473528,en,LAWSON,name
+1932473528,ja,ローソン,name
+1932473528,website,http://www.lawson.co.jp/,regular
+1932473528,operator,ローソン,regular
+1932473528,ja_rm,Rōson,name
+1932473528,opening_hours,24/7,regular
+1932484365,name,ローソン,regular
+1932484365,shop,convenience,regular
+1932484365,brand,LAWSON,regular
+1932484365,level,0,regular
+1932484365,phone,+81-3-34849660,regular
+1932484365,branch,成城,regular
+1932484365,source,Bing 2010; (URL),regular
+1932484365,en,LAWSON,name
+1932484365,ja,ローソン,name
+1932484365,website,http://www.lawson.co.jp/,regular
+1932484365,operator,ローソン,regular
+1932484365,ja_rm,Rōson,name
+1932484365,opening_hours,24/7,regular
+1932488774,name,ローソン,regular
+1932488774,shop,convenience,regular
+1932488774,brand,LAWSON,regular
+1932488774,level,0,regular
+1932488774,phone,+81-3-34848878,regular
+1932488774,branch,成城六丁目,regular
+1932488774,source,Bing 2010; (URL),regular
+1932488774,en,LAWSON,name
+1932488774,ja,ローソン,name
+1932488774,website,http://www.lawson.co.jp/,regular
+1932488774,operator,ローソン,regular
+1932488774,ja_rm,Rōson,name
+1932488774,opening_hours,24/7,regular
+1932499775,name,ローソン,regular
+1932499775,shop,convenience,regular
+1932499775,brand,LAWSON,regular
+1932499775,level,0,regular
+1932499775,phone,+81-3-37496506,regular
+1932499775,branch,成城学園前駅西口,regular
+1932499775,source,survey; photo; (URL),regular
+1932499775,en,LAWSON,name
+1932499775,ja,ローソン,name
+1932499775,website,http://www.lawson.co.jp/,regular
+1932499775,operator,ローソン,regular
+1932499775,ja_rm,Rōson,name
+1932499775,phone,receipt,source
+1932499775,opening_hours,24/7,regular
+1932500640,full,東京都世田谷区成城5-1-25,addr
+1932500640,postcode,157-0066,addr
+1932500640,amenity,bank,regular
+1932500640,atm,yes,regular
+1932500640,branch,成城支店,regular
+1932500640,brand,みずほ銀行,regular
+1932500640,name,みずほ銀行 (Mizuho Bank),regular
+1932500640,en,Mizuho Bank,name
+1932500640,ja,みずほ銀行,name
+1932500640,ja_rm,Mizuho Ginkou,name
+1932500640,opening_hours,Mo-Fr 09:00-15:00,regular
+1932500640,operator,みずほ銀行,regular
+1932500640,phone,+81-3-34828611,regular
+1932500640,ref,445,regular
+1932500640,source,Bing 2010; (URL),regular
+1932500640,website,http://www.mizuhobank.co.jp/,regular
+1932500640,wheelchair,yes,regular
+1932500640,wikidata,Q2882956,regular
+1932500640,wikipedia,ja:みずほ銀行,regular
+1932504725,name,ローソン,regular
+1932504725,shop,convenience,regular
+1932504725,brand,LAWSON,regular
+1932504725,level,0,regular
+1932504725,phone,+81-3-34173137,regular
+1932504725,branch,成城二丁目,regular
+1932504725,source,Bing 2010; (URL),regular
+1932504725,en,LAWSON,name
+1932504725,ja,ローソン,name
+1932504725,website,http://www.lawson.co.jp/,regular
+1932504725,operator,ローソン,regular
+1932504725,ja_rm,Rōson,name
+1932504725,phone,receipt,source
+1932504725,opening_hours,24/7,regular
+1932861460,highway,bus_stop,regular
+1932861465,full,東京都中野区中野5-66-4,addr
+1932861465,postcode,164-0001,addr
+1932861465,atm,yes,regular
+1932861465,branch,中野駅北口,regular
+1932861465,brand,7 ELEVEN,regular
+1932861465,internet_access,wlan,regular
+1932861465,level,0,regular
+1932861465,name,セブン-イレブン,regular
+1932861465,en,Seven-Eleven,name
+1932861465,ja,セブン-イレブン,name
+1932861465,ja_rm,Sebun Irebun,name
+1932861465,opening_hours,24/7,regular
+1932861465,operator,セブンイレブン・ジャパン,regular
+1932861465,phone,+81-3-33876906,regular
+1932861465,shop,convenience,regular
+1932861465,source,Bing 2010; (URL),regular
+1932861465,website,http://www.sej.co.jp/,regular
+1932861465,wikidata,Q259340,regular
+1932861465,wikipedia,ja:セブン-イレブン,regular
+1932865303,full,東京都中野区新井2-31-1,addr
+1932865303,postcode,165-0026,addr
+1932865303,atm,yes,regular
+1932865303,branch,中野新井,regular
+1932865303,brand,7 ELEVEN,regular
+1932865303,internet_access,wlan,regular
+1932865303,level,0,regular
+1932865303,name,セブン-イレブン,regular
+1932865303,en,Seven-Eleven,name
+1932865303,ja,セブン-イレブン,name
+1932865303,ja_rm,Sebun Irebun,name
+1932865303,opening_hours,24/7,regular
+1932865303,operator,セブンイレブン・ジャパン,regular
+1932865303,phone,+81-3-33850415,regular
+1932865303,shop,convenience,regular
+1932865303,source,Bing 2010; (URL),regular
+1932865303,website,http://www.sej.co.jp/,regular
+1932865303,wikidata,Q259340,regular
+1932865303,wikipedia,ja:セブン-イレブン,regular
+1932870878,full,東京都中野区新井4-1-1,addr
+1932870878,postcode,165-0026,addr
+1932870878,atm,yes,regular
+1932870878,branch,中野新井4丁目,regular
+1932870878,brand,7 ELEVEN,regular
+1932870878,internet_access,wlan,regular
+1932870878,level,0,regular
+1932870878,name,セブン-イレブン,regular
+1932870878,en,Seven-Eleven,name
+1932870878,ja,セブン-イレブン,name
+1932870878,ja_rm,Sebun Irebun,name
+1932870878,opening_hours,24/7,regular
+1932870878,operator,セブンイレブン・ジャパン,regular
+1932870878,phone,+81-3-33890838,regular
+1932870878,shop,convenience,regular
+1932870878,source,Bing 2010; (URL),regular
+1932870878,website,http://www.sej.co.jp/,regular
+1932870878,wikidata,Q259340,regular
+1932870878,wikipedia,ja:セブン-イレブン,regular
+1932876342,full,東京都中野区上高田2-40-14,addr
+1932876342,postcode,164-0002,addr
+1932876342,atm,yes,regular
+1932876342,branch,中野上高田,regular
+1932876342,brand,7 ELEVEN,regular
+1932876342,internet_access,wlan,regular
+1932876342,level,0,regular
+1932876342,name,セブン-イレブン,regular
+1932876342,en,Seven-Eleven,name
+1932876342,ja,セブン-イレブン,name
+1932876342,ja_rm,Sebun Irebun,name
+1932876342,opening_hours,24/7,regular
+1932876342,operator,セブンイレブン・ジャパン,regular
+1932876342,phone,+81-3-33885701,regular
+1932876342,shop,convenience,regular
+1932876342,source,Bing 2010; (URL),regular
+1932876342,website,http://www.sej.co.jp/,regular
+1932876342,wikidata,Q259340,regular
+1932876342,wikipedia,ja:セブン-イレブン,regular
+1932883186,full,東京都中野区中野6-14-6,addr
+1932883186,postcode,164-0001,addr
+1932883186,atm,yes,regular
+1932883186,branch,中野6丁目,regular
+1932883186,brand,7 ELEVEN,regular
+1932883186,internet_access,wlan,regular
+1932883186,level,0,regular
+1932883186,name,セブン-イレブン,regular
+1932883186,en,Seven-Eleven,name
+1932883186,ja,セブン-イレブン,name
+1932883186,ja_rm,Sebun Irebun,name
+1932883186,opening_hours,24/7,regular
+1932883186,operator,セブンイレブン・ジャパン,regular
+1932883186,phone,+81-3-33620633,regular
+1932883186,shop,convenience,regular
+1932883186,source,Bing 2010; (URL),regular
+1932883186,website,http://www.sej.co.jp/,regular
+1932883186,wikidata,Q259340,regular
+1932883186,wikipedia,ja:セブン-イレブン,regular
+1932887798,full,東京都中野区中央4-53-4,addr
+1932887798,housename,ベルプラザ1F,addr
+1932887798,postcode,164-0011,addr
+1932887798,atm,yes,regular
+1932887798,branch,中野中央4丁目,regular
+1932887798,brand,7 ELEVEN,regular
+1932887798,internet_access,wlan,regular
+1932887798,level,0,regular
+1932887798,name,セブン-イレブン,regular
+1932887798,en,Seven-Eleven,name
+1932887798,ja,セブン-イレブン,name
+1932887798,ja_rm,Sebun Irebun,name
+1932887798,opening_hours,24/7,regular
+1932887798,operator,セブンイレブン・ジャパン,regular
+1932887798,phone,+81 03 3383 3597,regular
+1932887798,shop,convenience,regular
+1932887798,source,Bing 2010;(URL),regular
+1932887798,website,http://www.sej.co.jp/,regular
+1932887798,wikidata,Q259340,regular
+1932887798,wikipedia,ja:セブン-イレブン,regular
+1932893071,full,東京都中野区中野1-32-6,addr
+1932893071,postcode,164-0001,addr
+1932893071,atm,yes,regular
+1932893071,branch,中野一丁目,regular
+1932893071,brand,7 ELEVEN,regular
+1932893071,internet_access,wlan,regular
+1932893071,level,0,regular
+1932893071,name,セブン-イレブン,regular
+1932893071,en,Seven-Eleven,name
+1932893071,ja,セブン-イレブン,name
+1932893071,ja_rm,Sebun Irebun,name
+1932893071,opening_hours,24/7,regular
+1932893071,operator,セブンイレブン・ジャパン,regular
+1932893071,phone,+81-3-33611777,regular
+1932893071,shop,convenience,regular
+1932893071,source,Bing 2010; (URL),regular
+1932893071,wheelchair,no,toilets
+1932893071,website,http://www.sej.co.jp/,regular
+1932893071,wheelchair,yes,regular
+1932893071,wikidata,Q259340,regular
+1932893071,wikipedia,ja:セブン-イレブン,regular
+1932896475,highway,bus_stop,regular
+1932896476,highway,bus_stop,regular
+1932896477,full,東京都中野区中央4-22-18,addr
+1932896477,postcode,164-0011,addr
+1932896477,atm,yes,regular
+1932896477,branch,中野中央,regular
+1932896477,brand,7 ELEVEN,regular
+1932896477,internet_access,wlan,regular
+1932896477,level,0,regular
+1932896477,name,セブン-イレブン,regular
+1932896477,en,Seven-Eleven,name
+1932896477,ja,セブン-イレブン,name
+1932896477,ja_rm,Sebun Irebun,name
+1932896477,opening_hours,24/7,regular
+1932896477,operator,セブンイレブン・ジャパン,regular
+1932896477,phone,+81-3-33827011,regular
+1932896477,shop,convenience,regular
+1932896477,source,Bing 2010; (URL),regular
+1932896477,website,http://www.sej.co.jp/,regular
+1932896477,wikidata,Q259340,regular
+1932896477,wikipedia,ja:セブン-イレブン,regular
+1932898276,full,東京都中野区中央5-10-30,addr
+1932898276,postcode,164-0011,addr
+1932898276,atm,yes,regular
+1932898276,branch,中野中央5丁目,regular
+1932898276,brand,7 ELEVEN,regular
+1932898276,internet_access,wlan,regular
+1932898276,level,0,regular
+1932898276,name,セブン-イレブン,regular
+1932898276,en,Seven-Eleven,name
+1932898276,ja,セブン-イレブン,name
+1932898276,ja_rm,Sebun Irebun,name
+1932898276,opening_hours,24/7,regular
+1932898276,operator,セブンイレブン・ジャパン,regular
+1932898276,phone,+81-3-33811577,regular
+1932898276,shop,convenience,regular
+1932898276,source,Bing 2010; (URL),regular
+1932898276,website,http://www.sej.co.jp/,regular
+1932898276,wikidata,Q259340,regular
+1932898276,wikipedia,ja:セブン-イレブン,regular
+1932901644,full,東京都中野区本町4-36-3,addr
+1932901644,postcode,164-0012,addr
+1932901644,atm,yes,regular
+1932901644,branch,中野鍋横,regular
+1932901644,brand,7 ELEVEN,regular
+1932901644,internet_access,wlan,regular
+1932901644,level,0,regular
+1932901644,name,セブン-イレブン,regular
+1932901644,en,Seven-Eleven,name
+1932901644,ja,セブン-イレブン,name
+1932901644,ja_rm,Sebun Irebun,name
+1932901644,opening_hours,24/7,regular
+1932901644,operator,セブンイレブン・ジャパン,regular
+1932901644,phone,+81-3-33826520,regular
+1932901644,shop,convenience,regular
+1932901644,source,Bing 2010; (URL),regular
+1932901644,website,http://www.sej.co.jp/,regular
+1932901644,wikidata,Q259340,regular
+1932901644,wikipedia,ja:セブン-イレブン,regular
+1932901675,bus,yes,regular
+1932901675,name,十貫坂上,regular
+1932901675,highway,bus_stop,regular
+1932901675,operator,京王バス東,regular
+1932901675,public_transport,platform,regular
+1932901678,bus,yes,regular
+1932901678,name,十貫坂上,regular
+1932901678,highway,bus_stop,regular
+1932901678,operator,京王バス東,regular
+1932901678,public_transport,platform,regular
+1933235509,name,正蔵院,regular
+1933235509,source,Bing 2010,regular
+1933235509,amenity,place_of_worship,regular
+1933235509,ja,正蔵院,name
+1933235509,religion,buddhist,regular
+1933235525,highway,bus_stop,regular
+1933235527,bus,yes,regular
+1933235527,name,富士高校,regular
+1933235527,highway,bus_stop,regular
+1933235527,operator,京王バス東,regular
+1933235527,public_transport,platform,regular
+1933274592,amenity,place_of_worship,regular
+1933274592,name,神明氷川神社,regular
+1933274592,en,Shimmei-hikawa-jinja Shrine,name
+1933274592,ja,神明氷川神社,name
+1933274592,religion,buddhist,regular
+1933274592,source,Bing 2010,regular
+1933277284,name,一風堂,regular
+1933277284,amenity,restaurant,regular
+1933277284,cuisine,japanese,regular
+1933277284,en,Ippudo,name
+1933277284,website,www.ippudo.com,regular
+1933277284,int_name,Ippudo Ramen,regular
+1933284404,amenity,restaurant,regular
+1933284404,cuisine,japanese,regular
+1933284404,name,ひじり屋,regular
+1933284404,en,Hijiriya,name
+1933284404,special,ラーメン,regular
+1933284499,name,ファミリーマート新宿アイタウン店,regular
+1933284499,en,FamilyMart,name
+1933284499,shop,convenience,regular
+1933285212,amenity,hospital,regular
+1933285212,emergency,no,regular
+1933285212,name,新都心十二社クリニック,regular
+1933285212,en,Shintoshin Junisha Clinic,name
+1933287184,name,マルエツプチ,regular
+1933287184,shop,supermarket,regular
+1933287184,int_name,Maruetsu petit,regular
+1933287308,name,Lawson,regular
+1933287308,shop,convenience,regular
+1933288236,amenity,parking,regular
+1933322589,full,東京都中野区中央2-5-4,addr
+1933322589,postcode,164-0011,addr
+1933322589,atm,yes,regular
+1933322589,branch,中野坂上駅西,regular
+1933322589,brand,7 ELEVEN,regular
+1933322589,internet_access,no,regular
+1933322589,level,0,regular
+1933322589,name,セブン-イレブン,regular
+1933322589,en,Seven-Eleven,name
+1933322589,ja,セブン-イレブン,name
+1933322589,ja_rm,Sebun Irebun,name
+1933322589,opening_hours,24/7,regular
+1933322589,operator,セブンイレブン・ジャパン,regular
+1933322589,phone,+81-3-33719770,regular
+1933322589,shop,convenience,regular
+1933322589,source,(URL),regular
+1933322589,website,http://www.sej.co.jp/,regular
+1933322589,wikidata,Q259340,regular
+1933322589,wikipedia,ja:セブン-イレブン,regular
+1933322591,full,東京都中野区中央2-5-4,addr
+1933322591,postcode,164-0011,addr
+1933322591,amenity,cafe,regular
+1933322591,branch,中野坂上店,regular
+1933322591,brand,サンマルクカフェ,regular
+1933322591,cuisine,coffee_shop,regular
+1933322591,name,サンマルクカフェ,regular
+1933322591,en,ST-MARC CAFE,name
+1933322591,ja,サンマルクカフェ,name
+1933322591,ja_rm,Sanmaruku Kafe,name
+1933322591,opening_hours,Mo-Su 07:00-22:00,regular
+1933322591,operator,サンマルクカフェ,regular
+1933322591,phone,03-5332-5309,regular
+1933322591,source,(URL) 2015,regular
+1933322591,website,http://www.saint-marc-hd.com/cafe/,regular
+1933322591,wikidata,Q11305989,regular
+1933322591,wikipedia,ja:サンマルクホールディングス,regular
+1933322594,name,すき家,regular
+1933322594,brand,すき家,regular
+1933322594,amenity,fast_food,regular
+1933322594,en,SUKIYA,name
+1933322594,ja,すき家,name
+1933322594,ja_rm,Sukiya,name
+1933329120,name,Nishiwaseda station bicycle parking,regular
+1933329120,amenity,bicycle_parking,regular
+1933331505,full,東京都中野区東中野2-1-2,addr
+1933331505,postcode,164-0003,addr
+1933331505,atm,yes,regular
+1933331505,branch,東中野2丁目,regular
+1933331505,brand,7 ELEVEN,regular
+1933331505,internet_access,wlan,regular
+1933331505,level,0,regular
+1933331505,name,セブン-イレブン,regular
+1933331505,en,Seven-Eleven,name
+1933331505,ja,セブン-イレブン,name
+1933331505,ja_rm,Sebun Irebun,name
+1933331505,opening_hours,24/7,regular
+1933331505,operator,セブンイレブン・ジャパン,regular
+1933331505,phone,+81-3-53891333,regular
+1933331505,shop,convenience,regular
+1933331505,source,Bing 2010; (URL),regular
+1933331505,website,http://www.sej.co.jp/,regular
+1933331505,wikidata,Q259340,regular
+1933331505,wikipedia,ja:セブン-イレブン,regular
+1933331510,highway,bus_stop,regular
+1933333156,highway,bus_stop,regular
+1933333435,name,西早稲田駅　1番出入口,regular
+1933333435,railway,subway_entrance,regular
+1933333435,int_name,Nishiwaseda station (Exit 1),regular
+1933333435,platforms,2,regular
+1933333436,block_number,13,addr
+1933333436,city,新宿区,addr
+1933333436,housenumber,1-103,addr
+1933333436,neighbourhood,3,addr
+1933333436,postcode,169-0072,addr
+1933333436,province,東京都,addr
+1933333436,quarter,大久保,addr
+1933333436,description,"2002年に西早稲田にオープンした当店、乗り物・スポーツとしての自転車だけではなく生活の一部、ファッションの一部としての自転車を見つける事が出来る、そんなお店を目指しています！
+
+ビギナーの方、女性が一人でもふらっと立ち寄っていただけるお店です。
+自転車を選ぶのは初めての方でもお気軽にご相談ください。",regular
+1933333436,name,Lipit-Ischtar,regular
+1933333436,opening_hours,Fr-We 11:00-19:00,regular
+1933333436,phone,03-5155-6412,regular
+1933333436,shop,bicycle,regular
+1933333436,website,http://www.lipit-ischtar.jp/,regular
+1933334418,full,東京都中野区東中野1-1-19,addr
+1933334418,postcode,164-0003,addr
+1933334418,atm,yes,regular
+1933334418,branch,東中野末広橋,regular
+1933334418,brand,7 ELEVEN,regular
+1933334418,internet_access,wlan,regular
+1933334418,level,0,regular
+1933334418,name,セブン-イレブン,regular
+1933334418,en,Seven-Eleven,name
+1933334418,ja,セブン-イレブン,name
+1933334418,ja_rm,Sebun Irebun,name
+1933334418,opening_hours,24/7,regular
+1933334418,operator,セブンイレブン・ジャパン,regular
+1933334418,phone,+81-3-53892951,regular
+1933334418,shop,convenience,regular
+1933334418,source,Bing 2010; (URL),regular
+1933334418,website,http://www.sej.co.jp/,regular
+1933334418,wikidata,Q259340,regular
+1933334418,wikipedia,ja:セブン-イレブン,regular
+1933336109,housename,佐藤ビル,addr
+1933336109,amenity,bar,regular
+1933336109,cuisine,asian,regular
+1933336109,name,お前まんまるやん！,regular
+1933337334,name,安兵衛 鮨,regular
+1933337334,amenity,restaurant,regular
+1933337334,cuisine,sushi,regular
+1933337334,int_name,Yasube Sushi,regular
+1933340025,name,カフェ　ツバメ,regular
+1933340025,amenity,cafe,regular
+1933340025,int_name,Cafe Tsubame,regular
+1933340959,full,東京都中野区東中野2-24-1,addr
+1933340959,postcode,164-0003,addr
+1933340959,atm,yes,regular
+1933340959,branch,東中野駅南,regular
+1933340959,brand,7 ELEVEN,regular
+1933340959,internet_access,wlan,regular
+1933340959,level,0,regular
+1933340959,name,セブン-イレブン,regular
+1933340959,en,Seven-Eleven,name
+1933340959,ja,セブン-イレブン,name
+1933340959,ja_rm,Sebun Irebun,name
+1933340959,opening_hours,24/7,regular
+1933340959,operator,セブンイレブン・ジャパン,regular
+1933340959,phone,+81-3-53484009,regular
+1933340959,shop,convenience,regular
+1933340959,source,Bing 2010; (URL),regular
+1933340959,website,http://www.sej.co.jp/,regular
+1933340959,wikidata,Q259340,regular
+1933340959,wikipedia,ja:セブン-イレブン,regular
+1933341822,full,東京都新宿区西早稲田3-15-3,addr
+1933341822,postcode,169-0051,addr
+1933341822,atm,yes,regular
+1933341822,branch,新宿西早稲田3丁目,regular
+1933341822,brand,7 ELEVEN,regular
+1933341822,internet_access,wlan,regular
+1933341822,level,0,regular
+1933341822,name,セブン-イレブン,regular
+1933341822,en,7-Eleven,name
+1933341822,ja,セブン-イレブン,name
+1933341822,ja_rm,Sebun Irebun,name
+1933341822,opening_hours,24/7,regular
+1933341822,operator,セブンイレブン・ジャパン - 7 eleven,regular
+1933341822,phone,03-3208-5286,regular
+1933341822,shop,convenience,regular
+1933341822,source,(URL) 2015,regular
+1933341822,website,http://www.sej.co.jp/,regular
+1933341822,wikidata,Q259340,regular
+1933341822,wikipedia,ja:セブン-イレブン,regular
+1933343714,name,ローソン,regular
+1933343714,shop,convenience,regular
+1933343714,brand,LAWSON,regular
+1933343714,en,LAWSON,name
+1933343714,ja,ローソン,name
+1933343714,operator,ローソン,regular
+1933343714,ja_rm,Rōson,name
+1933343714,internet_access,wlan,regular
+1933346129,amenity,cafe,regular
+1933346129,name,西東詩集,regular
+1933346658,name,スパゲッティキッチン オットー,regular
+1933346658,amenity,restaurant,regular
+1933346658,cuisine,italian,regular
+1933346658,en,Spaghetteria Otto,name
+1933346658,int_name,Otto Pasta,regular
+1933346913,shop,laundry,regular
+1933353821,amenity,hospital,regular
+1933353821,emergency,no,regular
+1933353821,name,大久保医院,regular
+1933353821,en,Okubo Clinic,name
+1933353826,name,MAX,regular
+1933353826,amenity,cafe,regular
+1933353829,name,ファミリーマート新宿アトラスタワー店,regular
+1933353829,en,FamilyMart,name
+1933353829,shop,convenience,regular
+1933360849,amenity,restaurant,regular
+1933360849,cuisine,japanese,regular
+1933360849,name,孝林,regular
+1933360849,en,Korin,name
+1933363523,name,えぞ菊 本店 ラーメン,regular
+1933363523,amenity,restaurant,regular
+1933363523,cuisine,japanese,regular
+1933363523,int_name,Ezogiku Ramen,regular
+1933369878,name,Maruetsu petit,regular
+1933369878,shop,supermarket,regular
+1933369881,name,もとまちUNION,regular
+1933369881,shop,supermarket,regular
+1933369881,wheelchair,yes,regular
+1933369884,name,EAST WAY CAFFE,regular
+1933369884,amenity,cafe,regular
+1933369887,name,スターバックス,regular
+1933369887,wifi,yes,regular
+1933369887,brand,STARBUCKS,regular
+1933369887,phone,03-3342-7337,regular
+1933369887,branch,新宿グリーンタワービル店,regular
+1933369887,source,(URL) 2015,regular
+1933369887,amenity,cafe,regular
+1933369887,cuisine,coffee_shop,regular
+1933369887,en,Starbucks,name
+1933369887,ja,スターバックス,name
+1933369887,website,http://www.starbucks.co.jp/,regular
+1933369887,operator,スターバックスコーヒージャパン,regular
+1933369887,takeaway,yes,regular
+1933369887,full,東京都新宿区西新宿6-14-1,addr
+1933369887,ja_rm,Sutābakkusu,name
+1933369887,postcode,160-0023,addr
+1933369887,drive_through,no,regular
+1933369887,opening_hours,"Mo-Fr 07:00-20:00; Sa,Su,PH 07:30-19:30",regular
+1933369887,housename,新宿グリーンタワー,addr
+1933369890,bus,yes,regular
+1933369890,name,十二社池の下,regular
+1933369890,highway,bus_stop,regular
+1933369890,public_transport,platform,regular
+1933369893,name,RIE coffee,regular
+1933369893,amenity,cafe,regular
+1933369900,name,肉のハナマサ,regular
+1933369900,shop,supermarket,regular
+1933369900,wheelchair,yes,regular
+1933369901,bus,yes,regular
+1933369901,name,十二社池の下,regular
+1933369901,highway,bus_stop,regular
+1933369901,public_transport,platform,regular
+1933370204,amenity,atm,regular
+1933370501,name,ドラッグ　セイムス,regular
+1933370501,amenity,pharmacy,regular
+1933370502,amenity,hospital,regular
+1933370502,emergency,no,regular
+1933370502,name,西新宿十二社歯科,regular
+1933370502,en,Nishi-Shinjuku Junisha Dental Clinic,name
+1933371455,name,Olympic,regular
+1933371455,shop,doityourself,regular
+1933449462,name,ゆみのハートクリニック,regular
+1933449462,amenity,clinic,regular
+1933449462,website,http://yumino-clinic.com/,regular
+1933449462,int_name,Yumino Heart Clinic,regular
+1933449462,emergency,no,regular
+1934049722,name,もうやんカレー,regular
+1934049722,amenity,restaurant,regular
+1934049722,cuisine,japanese,regular
+1934428119,name,コチン・ニヴァース,regular
+1934428119,amenity,restaurant,regular
+1934428119,cuisine,indian,regular
+1934478422,brand,NATURAL LAWSON,regular
+1934478422,name,ナチュラルローソン,regular
+1934478422,en,NATURAL LAWSON,name
+1934478422,ja,ナチュラルローソン,name
+1934478422,ja_rm,Nachuraru Rōson,name
+1934478422,shop,convenience,regular
+1934478422,wheelchair,yes,regular
+1934478440,name,Bar,regular
+1934478440,amenity,pub,regular
+1934478631,name,McDonalds,regular
+1934478631,amenity,fast_food,regular
+1934478631,cuisine,burger,regular
+1934478632,name,東急ステイ,regular
+1934478632,en,Tokyu Stay,name
+1934478632,tourism,hotel,regular
+1934491713,name,甲州屋蕎麦店,regular
+1934491713,amenity,restaurant,regular
+1934491713,cuisine,japanese,regular
+1934494250,name,タケコシ,regular
+1934494250,shop,dry_cleaning,regular
+1934494896,name,スワローチェーン,regular
+1934494896,shop,dry_cleaning,regular
+1934495655,shop,florist,regular
+1934499173,name,理容ダイカイ,regular
+1934499173,shop,hairdresser,regular
+1934499174,full,東京都中野区東中野3-8-15,addr
+1934499174,postcode,164-0003,addr
+1934499174,atm,yes,regular
+1934499174,branch,東中野3丁目,regular
+1934499174,brand,7 ELEVEN,regular
+1934499174,internet_access,wlan,regular
+1934499174,level,0,regular
+1934499174,name,セブン-イレブン,regular
+1934499174,en,Seven-Eleven,name
+1934499174,ja,セブン-イレブン,name
+1934499174,ja_rm,Sebun Irebun,name
+1934499174,opening_hours,24/7,regular
+1934499174,operator,セブンイレブン・ジャパン,regular
+1934499174,phone,+81-3-33622852,regular
+1934499174,shop,convenience,regular
+1934499174,source,Bing 2010; (URL),regular
+1934499174,website,http://www.sej.co.jp/,regular
+1934499174,wikidata,Q259340,regular
+1934499174,wikipedia,ja:セブン-イレブン,regular
+1934500742,full,東京都中野区東中野1-36-7,addr
+1934500742,postcode,164-0003,addr
+1934500742,atm,yes,regular
+1934500742,branch,東中野1丁目,regular
+1934500742,brand,7 ELEVEN,regular
+1934500742,internet_access,wlan,regular
+1934500742,level,0,regular
+1934500742,name,セブン-イレブン,regular
+1934500742,en,Seven-Eleven,name
+1934500742,ja,セブン-イレブン,name
+1934500742,ja_rm,Sebun Irebun,name
+1934500742,opening_hours,24/7,regular
+1934500742,operator,セブンイレブン・ジャパン,regular
+1934500742,phone,+81-3-33613101,regular
+1934500742,shop,convenience,regular
+1934500742,source,Bing 2010; (URL),regular
+1934500742,website,http://www.sej.co.jp/,regular
+1934500742,wikidata,Q259340,regular
+1934500742,wikipedia,ja:セブン-イレブン,regular
+1934500773,full,東京都新宿区高田馬場1-13-1,addr
+1934500773,postcode,169-0075,addr
+1934500773,name,aqua,regular
+1934500773,shop,hairdresser,regular
+1934502632,full,東京都中野区中央3-22-2,addr
+1934502632,postcode,164-0011,addr
+1934502632,atm,yes,regular
+1934502632,branch,中野中央3丁目,regular
+1934502632,brand,7 ELEVEN,regular
+1934502632,internet_access,wlan,regular
+1934502632,level,0,regular
+1934502632,name,セブン-イレブン,regular
+1934502632,en,Seven-Eleven,name
+1934502632,ja,セブン-イレブン,name
+1934502632,ja_rm,Sebun Irebun,name
+1934502632,opening_hours,24/7,regular
+1934502632,operator,セブンイレブン・ジャパン,regular
+1934502632,phone,+81-3-33682438,regular
+1934502632,shop,convenience,regular
+1934502632,source,Bing 2010; (URL),regular
+1934502632,website,http://www.sej.co.jp/,regular
+1934502632,wikidata,Q259340,regular
+1934502632,wikipedia,ja:セブン-イレブン,regular
+1934503115,name,ザッシカフェ,regular
+1934503115,amenity,cafe,regular
+1934503115,int_name,Zassi Cafe,regular
+1934505582,full,東京都中野区本町3-11-5,addr
+1934505582,postcode,164-0012,addr
+1934505582,atm,yes,regular
+1934505582,branch,中野新橋,regular
+1934505582,brand,7 ELEVEN,regular
+1934505582,internet_access,wlan,regular
+1934505582,level,0,regular
+1934505582,name,セブン-イレブン,regular
+1934505582,en,Seven-Eleven,name
+1934505582,ja,セブン-イレブン,name
+1934505582,ja_rm,Sebun Irebun,name
+1934505582,opening_hours,24/7,regular
+1934505582,operator,セブンイレブン・ジャパン,regular
+1934505582,phone,+81-3-33723305,regular
+1934505582,shop,convenience,regular
+1934505582,source,Bing 2010; (URL),regular
+1934505582,website,http://www.sej.co.jp/,regular
+1934505582,wikidata,Q259340,regular
+1934505582,wikipedia,ja:セブン-イレブン,regular
+1934526245,highway,bus_stop,regular
+1934526248,full,東京都中野区弥生町2-17-5,addr
+1934526248,postcode,164-0013,addr
+1934526248,atm,yes,regular
+1934526248,branch,中野弥生町2丁目,regular
+1934526248,brand,7 ELEVEN,regular
+1934526248,internet_access,wlan,regular
+1934526248,level,0,regular
+1934526248,name,セブン-イレブン,regular
+1934526248,en,Seven-Eleven,name
+1934526248,ja,セブン-イレブン,name
+1934526248,ja_rm,Sebun Irebun,name
+1934526248,opening_hours,24/7,regular
+1934526248,operator,セブンイレブン・ジャパン,regular
+1934526248,phone,+81-3-33734404,regular
+1934526248,shop,convenience,regular
+1934526248,source,Bing 2010; (URL),regular
+1934526248,website,http://www.sej.co.jp/,regular
+1934526248,wikidata,Q259340,regular
+1934526248,wikipedia,ja:セブン-イレブン,regular
+1934526255,highway,bus_stop,regular
+1934526257,highway,bus_stop,regular
+1934532445,amenity,public_bath,regular
+1934532943,name,西光山福寿院,regular
+1934532943,source,Bing 2010,regular
+1934532943,amenity,place_of_worship,regular
+1934532943,ja,西光山福寿院,name
+1934532943,religion,buddhist,regular
+1934635559,area,yes,regular
