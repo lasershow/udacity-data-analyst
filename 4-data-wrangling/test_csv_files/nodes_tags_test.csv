@@ -1,0 +1,86 @@
+id,key,value,type
+345528456,name,浜田山一丁目,regular
+345528456,highway,traffic_signals,regular
+345528456,en,Hamadayama 1,name
+345528456,ja,浜田山一丁目,name
+357171063,name,鎌倉橋,regular
+357171063,highway,traffic_signals,regular
+366830761,amenity,toilets,regular
+416406805,ref,和田堀線 178,regular
+416406805,power,tower,regular
+416406808,ref,和田堀線 179,regular
+416406808,power,tower,regular
+422908029,ref,北堀線 21,regular
+422908029,power,tower,regular
+422908029,height,34,regular
+422908029,operator,東京電力,regular
+422908029,start_date,1970-06,regular
+422908148,power,tower,regular
+428799594,ref,北堀線 22,regular
+428799594,power,tower,regular
+428799594,height,40,regular
+428799594,source,survey,regular
+428799594,operator,東京電力,regular
+428799594,start_date,1991-05,regular
+443395934,barrier,bollard,regular
+443395936,barrier,bollard,regular
+443397545,name,八幡神社,regular
+443397545,amenity,place_of_worship,regular
+443397545,religion,shinto,regular
+443397610,barrier,bollard,regular
+443397647,barrier,bollard,regular
+443398007,ref,和田堀線 177,regular
+443398007,power,tower,regular
+443398697,ref,和田堀線 176,regular
+443398697,power,tower,regular
+443399613,barrier,bollard,regular
+443399626,barrier,bollard,regular
+569099165,barrier,bollard,regular
+595804432,barrier,bollard,regular
+595804433,barrier,bollard,regular
+595804440,barrier,bollard,regular
+595804441,barrier,bollard,regular
+595804557,amenity,post_box,regular
+595804731,amenity,post_box,regular
+1420765997,name,下高井戸保育園,regular
+1420765997,note,"National-Land Numerical Information (Public Facility) 2006, MLIT Japan",regular
+1420765997,source,KSJ2,regular
+1420765997,amenity,kindergarten,regular
+1420765997,ja,国土数値情報（公共施設データ）平成19年　国土交通省,note
+1420765997,KSJ2:ADS,下高井戸3-31-11,regular
+1420765997,source_ref,http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html,regular
+1420765997,KSJ2:AdminArea,東京都杉並区,regular
+1420765997,KSJ2:PubFacAdmin,市区町村,regular
+1420765998,name,下高井戸児童館,regular
+1420765998,note,"National-Land Numerical Information (Public Facility) 2006, MLIT Japan",regular
+1420765998,source,KSJ2,regular
+1420765998,amenity,community_centre,regular
+1420765998,ja,国土数値情報（公共施設データ）平成19年　国土交通省,note
+1420765998,KSJ2:ADS,下高井戸4-19-6,regular
+1420765998,source_ref,http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html,regular
+1420765998,KSJ2:AdminArea,東京都杉並区,regular
+1420765998,KSJ2:PubFacAdmin,市区町村,regular
+1420765999,name,下高井戸子供園,regular
+1420765999,note,"National-Land Numerical Information (Public Facility) 2006, MLIT Japan",regular
+1420765999,source,KSJ2,regular
+1420765999,amenity,kindergarten,regular
+1420765999,ja,国土数値情報（公共施設データ）平成19年　国土交通省,note
+1420765999,source_ref,http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html,regular
+1655902883,name,下高井戸敬老会館,regular
+1655902883,note,"National-Land Numerical Information (Public Facility) 2006, MLIT Japan",regular
+1655902883,source,KSJ2,regular
+1655902883,amenity,social_facility,regular
+1655902883,ja,国土数値情報（公共施設データ）平成19年　国土交通省,note
+1655902883,KSJ2:ADS,下高井戸3-31-11,regular
+1655902883,source_ref,http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html,regular
+1655902883,KSJ2:AdminArea,東京都杉並区,regular
+1655902883,social_facility,group_home,regular
+1655902883,KSJ2:PubFacAdmin,市区町村,regular
+3116390270,amenity,drinking_water,regular
+3116390272,amenity,drinking_water,regular
+3116390289,amenity,bicycle_parking,regular
+3157750945,tourism,information,regular
+3157750945,information,board,regular
+3157752769,amenity,drinking_water,regular
+4946697558,name,VILLA,regular
+4946697558,shop,hairdresser,regular

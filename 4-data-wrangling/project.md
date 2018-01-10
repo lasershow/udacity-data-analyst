@@ -1,7 +1,7 @@
 # OpenStreetMap Data Case Study
 
 ### Map Area
-Tokyo, Japan
+Suginami,Tokyo,Japan
 
 - [mapzen tokyo](https://mapzen.com/data/metro-extracts/metro/tokyo_japan/)
 
@@ -76,26 +76,118 @@ After initially downloading a small sample size of the Tokyo area and running it
 <tag k="name:en" v="Hino brdg."/>
 ```
 
-
 ## Data Audit
 First of all, I decided to audit the XML file.
+TODO
 
+`data.py`
 
 ### Unique Tags
 As the beginning of the audit, I measured unique tags.
 
+```py
+{'node': 864177, 'nd': 1055982, 'bounds': 1, 'member': 15818, 'tag': 560767, 'relation': 791, 'way': 171563, 'osm': 1}
+```
 
 ### Patterns in the Tags
 Then I examined the type of tag.
 
-## Change to the correct name
+```py
+{'problemchars': 0, 'lower': 498542, 'other': 9043, 'lower_colon': 53182}
+```
+
+### Change to the correct name
+
+`python3-code/audit.py`
 
 ```
-Sta.
-Ent.
-brdg.
-インターチェンジ
-ＩＣ
-ＪＣＴ
-ジャンクション
+udagawacho → '宇田川町'
+takadanobaba → '高田馬場'
+sakuragaoka-cho →　'桜ヶ丘町'
+dogenzaka → '道玄坂'
+jingumae →　'神宮前'
+shinsen → '神泉'
+Matsubara →　'松原'
+Nerima → '練馬'
+Omotesando → '表参道'
 ```
+
+## Process your Dataset
+
+### data to csv
+Converting data from XML to CSV format. Then import the cleaned .csv files into a SQL database
+
+`data_to_csv.py`
+
+### create database
+
+`create_database.py`
+
+## Explore your Database
+
+`query.py`
+
+- size of the file
+- number of unique users
+- number of nodes and ways
+- number of chosen type of nodes, like cafes, shops etc.
+
+
+### size of the file
+### number of unique users
+
+`query.py`
+
+```sql
+sqlite> SELECT COUNT(DISTINCT(e.uid))          
+FROM (SELECT uid FROM nodes UNION ALL SELECT uid FROM ways) e;
+```
+
+```
+Number of unique users:  15
+```
+
+### number of nodes and ways
+
+```sql
+sqlite> SELECT COUNT(*) FROM nodes
+```
+
+```sql
+sqlite> SELECT COUNT(*) FROM ways
+```
+
+```
+Number of nodes:  815
+Number of ways:  184
+```
+
+### number of chosen type of nodes, like cafes, shops etc.
+
+`Top contributing users`
+
+```sql
+sqlite> SELECT e.user, COUNT(*) as num
+FROM (SELECT user FROM nodes UNION ALL SELECT user FROM ways) e
+GROUP BY e.user
+ORDER BY num DESC
+LIMIT 10;
+```
+
+```
+Top contributing users:  [(u'roguish', 233), (u'ribbon', 196), (u'Nahainec', 186), (u'yoshitk', 142), (u'kurauchi', 113), (u'futurumspes', 90), (u'TCGshinta', 24), (u'luschi', 4), (u'RichRico', 2), (u'Rub21', 2)]
+```
+
+## Ideas for additional improvements
+
+I will describe two additional problems related to improvement.
+
+`The value of input varies depending on the person.`
+
+We should prepare some conventions for those who register. For example IC, ic,インターチェンジ unified in IC.
+
+`Even the same thing means that the number of input information is different.`
+
+Likewise, Should be suggested to some extent what value should be entered.We can not remember this, so I think that it is better to encourage using the system.For example, when you enter a bridge, items to be entered are displayed.
+
+## Files
