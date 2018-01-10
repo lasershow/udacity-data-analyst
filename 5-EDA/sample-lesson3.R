@@ -74,3 +74,5 @@ p1 <- qplot(x = friend_count, data=pf)
 p2 <- qplot(x = log10(friend_count), data=pf)
 p3 <- qplot(x = sqrt(friend_count), data=pf)
 grid.arrange(p1,p2,p3,ncol=1)
+
+p1 <- ggplot(aes(x=friend_count),data=pf)
