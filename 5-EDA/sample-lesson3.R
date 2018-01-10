@@ -75,4 +75,31 @@ p2 <- qplot(x = log10(friend_count), data=pf)
 p3 <- qplot(x = sqrt(friend_count), data=pf)
 grid.arrange(p1,p2,p3,ncol=1)
 
-p1 <- ggplot(aes(x=friend_count),data=pf)
+p1 <- ggplot(aes(x=friend_count),data=pf) + geom_histogram()
+p2 <- p1 + scale_x_log10()
+p3 <- p1 + scale_x_sqrt()
+
+ggplot(aes(x = friend_count, y = ..count../sum(..count..)),
+       data = subset(pf, !is.na(gender))) +
+  geom_freqpoly(aes(color = gender), binwidth=10) +
+  scale_x_continuous(limits = c(0, 1000), breaks = seq(0, 1000, 50)) +
+  xlab('Friend Count') +
+  ylab('Proportion of users with that friend count')
+
+ggplot(aes(x = www_likes), data = subset(pf, !is.na(gender))) +
+  geom_freqpoly(aes(color = gender)) +
+  scale_x_log10()
+
+by(pf$www_likes, pf$gender, sum)
+
+qplot(x=gender, y=friend_count,data=subset(pf, !is.na(gender)),geom = 'boxplot', ylim = c(0,1000))
+
+qplot(x=gender, y=friend_count,data=subset(pf, !is.na(gender)),
+      geom = 'boxplot', ylim = c(0,1000)) +
+  scale_y_continuous(limits = c(0,1000))
+
+qplot(x=gender, y=friendships_initiated,data=subset(pf, !is.na(gender)),
+      geom = 'boxplot') +
+  coord_cartesian(ylim  = c(0,150))
+
+by(pf$friendships_initiated, pf$gender, summary)
