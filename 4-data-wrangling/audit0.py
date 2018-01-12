@@ -6,10 +6,10 @@ import re
 import pprint
 
 street_type_re = re.compile(r'\b\S+\.?$', re.IGNORECASE)
-TEST_FLAG = False
+TEST_FLAG = True
 
 if TEST_FLAG:
-    OSMFILE = "/Users/akihiro/Downloads/tokyo_suginami_sample.osm"
+    OSMFILE = "tokyo-sample.osm"
 else:
     OSMFILE = "/Users/akihiro/Downloads/suginami_tokyo.osm"
 
@@ -24,10 +24,15 @@ mapping = { "St": "Street",
             'Sta.': 'Station',
             'Ent.': 'Entrance',
             'brdg.': 'Bridge',
-            'インターチェンジ': 'IC',
-            'ＩＣ': 'IC',
-            'ＪＣＴ': 'JCT',
-            'ジャンクション': 'JCT',
+            'udagawacho': '宇田川町',
+            'takadanobaba': '高田馬場',
+            'sakuragaoka-cho': '桜ヶ丘町',
+            'dogenzaka': '道玄坂',
+            'jingumae': '神宮前',
+            'shinsen': '神泉',
+            'Nerima': '練馬',
+            'Omotesando': '表参道',
+            'Matsubara': '松原'
             }
 
 def audit_street_type(street_types, street_name):
@@ -41,6 +46,8 @@ def audit_street_type(street_types, street_name):
 def is_street_name(elem):
     return (elem.attrib['k'] == "addr:street")
 
+def is_station_name(elem):
+    return (elem.attrib['k'] == "motorway_junction")
 
 def audit(osmfile):
     osm_file = open(osmfile, "r")
@@ -60,19 +67,20 @@ def update_name(name, mapping):
     for key in keys:
         if key in name:
             print mapping[key]
-            return re.sub(key, mapping[key], name)
+            try:
+                re.sub(key, mapping[key], name)
+            except UnicodeDecodeError:
+                print "UnicodeDecodeError"
+            else:
+                return re.sub(key, mapping[key], name)
     return name
 
 
-def test():
+if __name__ == '__main__':
     st_types = audit(OSMFILE)
-    # assert len(st_types) == 3
     pprint.pprint(dict(st_types))
 
-    for st_type, ways in st_types.iteritems():
+    for st_type, ways in st_types.items():
         for name in ways:
             better_name = update_name(name, mapping)
             print name, "=>", better_name
-
-if __name__ == '__main__':
-    test()

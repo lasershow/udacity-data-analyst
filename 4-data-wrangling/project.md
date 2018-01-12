@@ -191,3 +191,14 @@ We should prepare some conventions for those who register. For example IC, ic,ã‚
 Likewise, Should be suggested to some extent what value should be entered.We can not remember this, so I think that it is better to encourage using the system.For example, when you enter a bridge, items to be entered are displayed.
 
 ## Files
+
+- tokyo_sample.osm : sample data of the OSM file
+- data.py : build CSV files from OSM and also parse, clean and shape data
+- python3-code/audit.py : audit street, city and update their names
+- database.py : create database of the CSV files
+- schema.py : database schema file
+- mapparser.py : find unique tags in the data
+- query.py : different queries about the database using SQL
+- report.pdf : pdf of this document
+- sample.py : extract sample data from the OSM file
+- tags.py : count multiple patterns in the tags
