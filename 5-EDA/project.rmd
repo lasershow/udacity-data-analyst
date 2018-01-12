@@ -95,3 +95,41 @@ str(data)
 
 ### Output variable (based on sensory data):
 12 - quality (score between 0 and 10)
+
+## overview
+
+```{r}
+summary(data)
+```
+
+## Univariate Plots Section
+
+```{r echo=FALSE, Univariate_Plots}
+qplot(data=data, x = quality, fill= I("#099DD9")) + 
+  ggtitle('Quality')
+```
+
+When plotting Quality, 5 and 6 appear most frequently. The summary also shows that the average quality is about 5.6.
+
+### density
+
+Looking at sumarry, it seemed that there was not much difference between maximum and minimum in density. So I plot it and see what kind of distribution it is.
+
+```{r}
+qplot(data=data, x = density, fill= I("#099DD9")) + 
+  ggtitle('density')
+```
+
+Confirming the distribution of density, the average is 0.997. It is understood that it is a normal distribution.
+
+Let's check the binwidth of x in more detail.
+
+```{r}
+qplot(data=data, x = density, binwidth = 0.0001, fill= I("#099DD9")) + 
+  ggtitle('Density')
+```
+
+If I reduce the size of bin, I can see that there is a much count bin nearby 0.99.
+
+
+
