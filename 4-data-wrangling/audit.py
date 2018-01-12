@@ -62,7 +62,7 @@ def audit(osmfile):
     return street_types
 
 
-def update_name(name, mapping):
+def update_name(name):
     keys = mapping.keys()
     for key in keys:
         if key in name:
@@ -70,6 +70,7 @@ def update_name(name, mapping):
             try:
                 re.sub(key, mapping[key], name)
             except UnicodeDecodeError:
+                return re.sub(key, mapping[key], name.encode('utf-8'))
                 print "UnicodeDecodeError"
             else:
                 return re.sub(key, mapping[key], name)
@@ -82,5 +83,5 @@ if __name__ == '__main__':
 
     for st_type, ways in st_types.items():
         for name in ways:
-            better_name = update_name(name, mapping)
+            better_name = update_name(name)
             print name, "=>", better_name

@@ -8,10 +8,12 @@ import xml.etree.cElementTree as ET
 import cerberus
 import schema
 
-TEST_FLAG = False
+import audit
+
+TEST_FLAG = True
 
 if TEST_FLAG:
-    OSM_PATH = "/Users/akihiro/Downloads/tokyo_suginami_sample.osm"
+    OSM_PATH = "tokyo-sample.osm"
     NODES_PATH = "./test_csv_files/nodes_test.csv"
     NODE_TAGS_PATH = "./test_csv_files/nodes_tags_test.csv"
     WAYS_PATH = "./test_csv_files/ways_test.csv"
@@ -82,6 +84,10 @@ def shape_element(element, node_attr_fields=NODE_FIELDS, way_attr_fields=WAY_FIE
             way_node = {}
 
             if child.tag == 'tag':
+                if audit.is_street_name(child):
+                    print child.attrib['k']
+                    child.attrib['k'] = audit.update_name(child.attrib['v'])
+                    print child.attrib['k']
                 if LOWER_COLON.match(child.attrib['k']):
                     way_tag['type'] = child.attrib['k'].split(':',1)[0]
                     way_tag['key'] = child.attrib['k'].split(':',1)[1]

@@ -1,86 +1,1072 @@
 id,key,value,type
-345528456,name,浜田山一丁目,regular
-345528456,highway,traffic_signals,regular
-345528456,en,Hamadayama 1,name
-345528456,ja,浜田山一丁目,name
-357171063,name,鎌倉橋,regular
-357171063,highway,traffic_signals,regular
-366830761,amenity,toilets,regular
-416406805,ref,和田堀線 178,regular
-416406805,power,tower,regular
-416406808,ref,和田堀線 179,regular
-416406808,power,tower,regular
-422908029,ref,北堀線 21,regular
-422908029,power,tower,regular
-422908029,height,34,regular
-422908029,operator,東京電力,regular
-422908029,start_date,1970-06,regular
-422908148,power,tower,regular
-428799594,ref,北堀線 22,regular
-428799594,power,tower,regular
-428799594,height,40,regular
-428799594,source,survey,regular
-428799594,operator,東京電力,regular
-428799594,start_date,1991-05,regular
-443395934,barrier,bollard,regular
-443395936,barrier,bollard,regular
-443397545,name,八幡神社,regular
-443397545,amenity,place_of_worship,regular
-443397545,religion,shinto,regular
-443397610,barrier,bollard,regular
-443397647,barrier,bollard,regular
-443398007,ref,和田堀線 177,regular
-443398007,power,tower,regular
-443398697,ref,和田堀線 176,regular
-443398697,power,tower,regular
-443399613,barrier,bollard,regular
-443399626,barrier,bollard,regular
-569099165,barrier,bollard,regular
-595804432,barrier,bollard,regular
-595804433,barrier,bollard,regular
-595804440,barrier,bollard,regular
-595804441,barrier,bollard,regular
-595804557,amenity,post_box,regular
-595804731,amenity,post_box,regular
-1420765997,name,下高井戸保育園,regular
-1420765997,note,"National-Land Numerical Information (Public Facility) 2006, MLIT Japan",regular
-1420765997,source,KSJ2,regular
-1420765997,amenity,kindergarten,regular
-1420765997,ja,国土数値情報（公共施設データ）平成19年　国土交通省,note
-1420765997,KSJ2:ADS,下高井戸3-31-11,regular
-1420765997,source_ref,http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html,regular
-1420765997,KSJ2:AdminArea,東京都杉並区,regular
-1420765997,KSJ2:PubFacAdmin,市区町村,regular
-1420765998,name,下高井戸児童館,regular
-1420765998,note,"National-Land Numerical Information (Public Facility) 2006, MLIT Japan",regular
-1420765998,source,KSJ2,regular
-1420765998,amenity,community_centre,regular
-1420765998,ja,国土数値情報（公共施設データ）平成19年　国土交通省,note
-1420765998,KSJ2:ADS,下高井戸4-19-6,regular
-1420765998,source_ref,http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html,regular
-1420765998,KSJ2:AdminArea,東京都杉並区,regular
-1420765998,KSJ2:PubFacAdmin,市区町村,regular
-1420765999,name,下高井戸子供園,regular
-1420765999,note,"National-Land Numerical Information (Public Facility) 2006, MLIT Japan",regular
-1420765999,source,KSJ2,regular
-1420765999,amenity,kindergarten,regular
-1420765999,ja,国土数値情報（公共施設データ）平成19年　国土交通省,note
-1420765999,source_ref,http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html,regular
-1655902883,name,下高井戸敬老会館,regular
-1655902883,note,"National-Land Numerical Information (Public Facility) 2006, MLIT Japan",regular
-1655902883,source,KSJ2,regular
-1655902883,amenity,social_facility,regular
-1655902883,ja,国土数値情報（公共施設データ）平成19年　国土交通省,note
-1655902883,KSJ2:ADS,下高井戸3-31-11,regular
-1655902883,source_ref,http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html,regular
-1655902883,KSJ2:AdminArea,東京都杉並区,regular
-1655902883,social_facility,group_home,regular
-1655902883,KSJ2:PubFacAdmin,市区町村,regular
-3116390270,amenity,drinking_water,regular
-3116390272,amenity,drinking_water,regular
-3116390289,amenity,bicycle_parking,regular
-3157750945,tourism,information,regular
-3157750945,information,board,regular
-3157752769,amenity,drinking_water,regular
-4946697558,name,VILLA,regular
-4946697558,shop,hairdresser,regular
+251717420,name,すずらん通り入口,regular
+251717420,source,Bing 2007,regular
+251717420,highway,traffic_signals,regular
+251717420,en,Suzurandori Ent.,name
+251717420,ja,すずらん通り入口,name
+254242579,highway,traffic_signals,regular
+349407094,name,成田西児童館前,regular
+349407094,amenity,community_centre,regular
+349407094,highway,traffic_signals,regular
+349407094,en,Naritanishijidokan,name
+349407094,ja,成田西児童館前,name
+440097318,name,杉並警察署前,regular
+440097318,source,Bing 2007,regular
+440097318,highway,traffic_signals,regular
+440097318,en,Suginami Police Sta.,name
+440097318,ja,杉並警察署前,name
+440101909,name,杉並区役所前,regular
+440101909,source,Bing 2007,regular
+440101909,highway,traffic_signals,regular
+440101909,en,Suginamikuyakusho,name
+440101909,ja,杉並区役所前,name
+440101909,ja_rm,Suginamikuyakusho,name
+440116505,full,東京都杉並区阿佐谷南3-1-36,addr
+440116505,postcode,166-0004,addr
+440116505,amenity,bank,regular
+440116505,atm,yes,regular
+440116505,branch,阿佐ヶ谷支店,regular
+440116505,brand,みずほ銀行,regular
+440116505,name,みずほ銀行,regular
+440116505,en,Mizuho Bank,name
+440116505,ja,みずほ銀行,name
+440116505,ja_rm,Mizuho Ginkou,name
+440116505,opening_hours,Mo-Fr 09:00-15:00,regular
+440116505,operator,みずほ銀行,regular
+440116505,phone,+81-3-33928581,regular
+440116505,ref,529,regular
+440116505,source,"Bing 2010, (URL)",regular
+440116505,website,http://www.mizuhobank.co.jp/,regular
+440116505,wheelchair,yes,regular
+440116505,wikidata,Q2882956,regular
+440116505,wikipedia,ja:みずほ銀行,regular
+477241639,amenity,toilets,regular
+504010993,barrier,bollard,regular
+504017121,barrier,bollard,regular
+564720798,name,鎌倉街道,regular
+564720798,highway,bus_stop,regular
+564720798,public_transport,platform,regular
+581713281,barrier,bollard,regular
+581713284,barrier,bollard,regular
+581739588,name,中村外科医院,regular
+581739588,amenity,doctors,regular
+597750632,name,成三会館,regular
+597750632,source,survey,regular
+597750632,amenity,community_centre,regular
+597751572,ref,1-11,regular
+597751572,source,survey,regular
+597751572,amenity,post_box,regular
+597751572,collection_times,"Mo-Th 9:40,14:10,16:25,18:20; Fr 9:40,13:40,15:40,18:20; Sa 9:40,14:10,16:35,18:20; Su,PH 8:40,14:10",regular
+597752680,name,ビューティサロンつだ,regular
+597752680,shop,hairdresser,regular
+597754909,name,ほがらか整骨院,regular
+597754909,shop,massage,regular
+597754909,phone,3312-5539,regular
+597754909,source,survey,regular
+597755018,ref,667,regular
+597755018,name,オリジン弁当,regular
+597755018,brand,オリジン弁当,regular
+597755018,branch,杉並成田東店,regular
+597755018,source,survey,regular
+597755018,amenity,fast_food,regular
+597755018,en,Origin Bento,name
+597755018,ja,オリジン弁当,name
+597755018,ja_rm,Orijin Bento,name
+598170919,highway,traffic_signals,regular
+598171376,name,高円寺肉汁うどん,regular
+598171376,amenity,restaurant,regular
+598171976,name,鳥一,regular
+598171976,note,焼き鳥,regular
+598172303,name,たけうち内科,regular
+598172303,amenity,doctors,regular
+598173765,name,パーマヘア高越,regular
+598173765,shop,hairdresser,regular
+598173880,barrier,bollard,regular
+598176609,amenity,post_box,regular
+598176845,name,尾崎熊野神社,regular
+598176845,amenity,place_of_worship,regular
+598176845,religion,shinto,regular
+598177505,name,交通公園入口,regular
+598177505,highway,traffic_signals,regular
+598177505,en,Kotsu Koen,name
+598177505,ja,交通公園入口,name
+598177717,name,交通公園入口,regular
+598177717,highway,traffic_signals,regular
+598177717,en,Kotsu Koen,name
+598177717,ja,交通公園入口,name
+598177947,source,Bing 2010,regular
+598177947,highway,crossing,regular
+718383251,name,杉並区,regular
+718383251,is_in,東京都 (Tokyo Metropolis),regular
+718383251,place,city,regular
+718383251,de,Suginami,name
+718383251,en,Suginami,name
+718383251,fr,Suginami,name
+718383251,ja,杉並区,name
+718383251,ko,스기나미 구,name
+718383251,lt,Suginamis,name
+718383251,pl,Suginami,name
+718383251,ru,Сугинами,name
+718383251,uk,Суґінамі,name
+718383251,zh,杉並區,name
+718383251,wikidata,Q232631,regular
+718383251,wikipedia,ja:杉並区,regular
+718383251,ja_rm,Suginami-ku,name
+718383251,population,540180,regular
+718383251,ja_kana,すぎなみく,name
+718383251,country,Japan,is_in
+718383251,continent,Asia,is_in
+821604904,name,成田東四丁目,regular
+821604904,source,Bing 2007,regular
+821604904,highway,traffic_signals,regular
+821604904,en,Naritahigashi 4,name
+821604904,ja,成田東四丁目,name
+916627953,name,Neo Philia,regular
+916627953,shop,hairdresser,regular
+916653859,name,海雲寺,regular
+916653859,amenity,place_of_worship,regular
+916653859,religion,buddhist,regular
+916655081,name,天桂寺,regular
+916655081,amenity,place_of_worship,regular
+916655081,religion,buddhist,regular
+916673984,source,Bing 2010,regular
+916673984,highway,crossing,regular
+916691885,name,大和屋,regular
+916691885,shop,pawnbroker,regular
+916724189,name,創価学会 南阿佐谷会館,regular
+916724189,amenity,place_of_worship,regular
+916724189,ja,創価学会,religion
+916728496,amenity,vending_machine,regular
+916728496,vending,drinks,regular
+942536646,barrier,bollard,regular
+1072760754,name,松よし,regular
+1072760754,amenity,restaurant,regular
+1072760754,cuisine,cutlet,regular
+1162466414,name,南阿佐ヶ谷,regular
+1162466414,railway,subway_entrance,regular
+1162792625,source,Bing,regular
+1420780460,name,成田西児童館,regular
+1420780460,note,"National-Land Numerical Information (Public Facility) 2006, MLIT Japan",regular
+1420780460,source,KSJ2,regular
+1420780460,amenity,community_centre,regular
+1420780460,source_ref,http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html,regular
+1420780460,description,学童有り 30年度に（仮称）子ども・子育てプラザ成田西に転用予定,regular
+1420780461,name,成田西子供園,regular
+1420780461,note,"National-Land Numerical Information (Public Facility) 2006, MLIT Japan",regular
+1420780461,source,KSJ2,regular
+1420780461,amenity,kindergarten,regular
+1420780461,int_name,Naritanishi Kindergarten,regular
+1420780461,source_ref,http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html,regular
+1420782067,name,杉並保育園,regular
+1420782067,note,"National-Land Numerical Information (Public Facility) 2006, MLIT Japan",regular
+1420782067,source,KSJ2,regular
+1420782067,amenity,kindergarten,regular
+1420782067,source_ref,http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html,regular
+1420782090,postcode,166-8570,addr
+1420782090,amenity,townhall,regular
+1420782090,name,杉並区役所,regular
+1420782090,en,Suginami City Hall,name
+1420782090,ja,杉並区,name
+1420782090,note,"National-Land Numerical Information (Public Facility) 2006, MLIT Japan",regular
+1420782090,ja,国土数値情報（公共施設データ）平成19年　国土交通省,note
+1420782090,opening_hours,Mo-Fr 08:30-17:00; PH off,regular
+1420782090,phone,+81-3-33122111,regular
+1420782090,source,KSJ2; (URL),regular
+1420782090,source_ref,http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html,regular
+1420782090,website,http://www.city.suginami.tokyo.jp/,regular
+1420782090,wheelchair,yes,regular
+1420782090,wikidata,Q11521681,regular
+1420782090,wikipedia,ja:杉並区役所,regular
+1420782142,postcode,166-0015,addr
+1420782142,amenity,library,regular
+1420782142,description,指定管理者が管理,regular
+1420782142,name,杉並区立成田図書館,regular
+1420782142,note,"National-Land Numerical Information (Public Facility) 2006, MLIT Japan",regular
+1420782142,phone,+81-3-33170341,regular
+1420782142,source,KSJ2;(URL),regular
+1420782142,source_ref,http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html,regular
+1420782142,website,https://www.library.city.suginami.tokyo.jp/,regular
+1420782142,wheelchair,yes,regular
+1420782142,wikidata,Q11521689,regular
+1420782142,wikipedia,ja:杉並区立図書館,regular
+1420782187,name,杉並成田西郵便局,regular
+1420782187,note,"National-Land Numerical Information (Public Facility) 2006, MLIT Japan",regular
+1420782187,source,KSJ2,regular
+1420782187,amenity,post_office,regular
+1420782187,source_ref,http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html,regular
+1420782212,amenity,police,regular
+1420782212,name,杉並警察署,regular
+1420782212,en,Suginami Police Station,name
+1420782212,ja,杉並警察署,name
+1420782212,note,"National-Land Numerical Information (Public Facility) 2006, MLIT Japan",regular
+1420782212,operator,警視庁第四方面本部,regular
+1420782212,source,KSJ2; (URL) 2013,regular
+1420782212,source_ref,http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html,regular
+1420782212,website,http://www.keishicho.metro.tokyo.jp/4/suginami/,regular
+1420782212,wikidata,Q11521713,regular
+1420782212,wikipedia,ja:杉並警察署,regular
+1420782217,name,杉並警察署成田交番,regular
+1420782217,note,"National-Land Numerical Information (Public Facility) 2006, MLIT Japan",regular
+1420782217,source,KSJ2,regular
+1420782217,amenity,police,regular
+1420782217,source_ref,http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html,regular
+1420782218,name,杉並警察署成田西駐在所,regular
+1420782218,note,"National-Land Numerical Information (Public Facility) 2006, MLIT Japan",regular
+1420782218,source,KSJ2,regular
+1420782218,amenity,police,regular
+1420782218,source_ref,http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html,regular
+1420782220,name,杉並警察署東田町交番,regular
+1420782220,note,"National-Land Numerical Information (Public Facility) 2006, MLIT Japan",regular
+1420782220,source,KSJ2,regular
+1420782220,amenity,police,regular
+1420782220,source_ref,http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html,regular
+1420782227,amenity,post_office,regular
+1420782227,name,杉並郵便局,regular
+1420782227,note,"National-Land Numerical Information (Public Facility) 2006, MLIT Japan",regular
+1420782227,source,KSJ2,regular
+1420782227,source_ref,http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html,regular
+1420782227,website,http://map.japanpost.jp/pc/syousai.php?id=300101313000,regular
+1420782227,wikidata,Q11521714,regular
+1420782227,wikipedia,ja:杉並郵便局,regular
+1420783027,name,東京国税局杉並税務署,regular
+1420783027,note,"National-Land Numerical Information (Public Facility) 2006, MLIT Japan",regular
+1420783027,source,KSJ2,regular
+1420783027,amenity,public_building,regular
+1420783027,source_ref,http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html,regular
+1420785291,name,東京都主税局杉並都税事務所,regular
+1420785291,note,"National-Land Numerical Information (Public Facility) 2006, MLIT Japan",regular
+1420785291,source,KSJ2,regular
+1420785291,amenity,public_building,regular
+1420785291,ja,東京都主税局杉並都税事務所,name
+1420785291,ja,国土数値情報（公共施設データ）平成19年　国土交通省,note
+1420785291,source_ref,http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html,regular
+1420799698,name,阿佐谷南児童館,regular
+1420799698,note,"National-Land Numerical Information (Public Facility) 2006, MLIT Japan",regular
+1420799698,source,KSJ2,regular
+1420799698,amenity,community_centre,regular
+1420799698,source_ref,http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html,regular
+1551878129,name,寶昌寺,regular
+1551878129,amenity,place_of_worship,regular
+1551878129,religion,buddhist,regular
+1551878129,denomination,soto,regular
+1551878129,ja,曹洞宗,denomination
+1551977958,name,安盛堂,regular
+1551977958,shop,stationery,regular
+1551977958,source,"image,2013-03;Bing",regular
+1552821221,foot,no,regular
+1552821221,barrier,entrance,regular
+1553897031,ref,24,regular
+1553897031,highway,bus_stop,regular
+1553897031,public_transport,platform,regular
+1553897052,ref,29,regular
+1553897052,highway,bus_stop,regular
+1553897052,public_transport,platform,regular
+1553897070,foot,yes,regular
+1553897070,barrier,bollard,regular
+1553897070,bicycle,yes,regular
+1553897190,shop,greengrocer,regular
+1553897242,name,井上武道具,regular
+1553897242,shop,sports,regular
+1553897242,ja,井上武道具,name
+1553897243,name,南阿佐ヶ谷薬局,regular
+1553897243,amenity,pharmacy,regular
+1553897243,dispensing,yes,regular
+1553897244,name,南阿佐ヶ谷駅前,regular
+1553897244,highway,bus_stop,regular
+1553897244,ja,南阿佐ヶ谷駅前,name
+1553897244,public_transport,platform,regular
+1553897249,name,赤沢歯科クリニック,regular
+1553897249,level,1,regular
+1553897249,amenity,dentist,regular
+1553897250,amenity,pub,regular
+1553897250,level,2,regular
+1553897250,name,豊後高田どり酒場,regular
+1553958874,full,東京都杉並区成田東5-42-14,addr
+1553958874,postcode,166-0015,addr
+1553958874,atm,yes,regular
+1553958874,branch,南阿佐谷駅前,regular
+1553958874,brand,7 ELEVEN,regular
+1553958874,internet_access,wlan,regular
+1553958874,level,0,regular
+1553958874,name,セブン-イレブン,regular
+1553958874,en,Seven-Eleven,name
+1553958874,ja,セブン-イレブン,name
+1553958874,ja_rm,Sebun Irebun,name
+1553958874,opening_hours,24/7,regular
+1553958874,operator,セブンイレブン・ジャパン,regular
+1553958874,phone,03-5378-8890,regular
+1553958874,shop,convenience,regular
+1553958874,source,"Bing 2010, (URL)",regular
+1553958874,website,http://www.sej.co.jp/,regular
+1553958874,wikidata,Q259340,regular
+1553958874,wikipedia,ja:セブン-イレブン,regular
+1553958879,name,デニーズ,regular
+1553958879,brand,Denny's,regular
+1553958879,amenity,restaurant,regular
+1553958879,en,Denny's,name
+1553958879,ja,デニーズ,name
+1553958879,ja_rm,Denizu,name
+1553959232,name,南阿佐ヶ谷駅,regular
+1553959232,railway,subway_entrance,regular
+1553959234,name,杉並区役所前,regular
+1553959234,highway,bus_stop,regular
+1553959242,ref,30,regular
+1553959242,name,杉並区役所前,regular
+1553959242,highway,bus_stop,regular
+1553959242,public_transport,platform,regular
+1553959253,name,竹八,regular
+1553959253,shop,confectionery,regular
+1592969724,amenity,telephone,regular
+1592969740,name,ミニストップ,regular
+1592969740,shop,convenience,regular
+1592969740,brand,MINISTOP,regular
+1592969740,level,0,regular
+1592969740,phone,+81-3-53061838,regular
+1592969740,branch,杉並成田西店,regular
+1592969740,source,Bing 2010; (URL),regular
+1592969740,en,MINISTOP,name
+1592969740,ja,ミニストップ,name
+1592969740,website,http://www.ministop.co.jp/,regular
+1592969740,operator,ミニストップ,regular
+1592969740,full,東京都杉並区成田西3-2-7,addr
+1592969740,ja_rm,Mini Sutoppu,name
+1592969740,opening_hours,24/7,regular
+1592969753,name,志村牛肉店,regular
+1592969753,shop,butcher,regular
+1592969756,name,杉並第2小学校前,regular
+1592969756,highway,bus_stop,regular
+1592969756,public_transport,platform,regular
+1594738668,name,Hina-Hana Cafe,regular
+1594738668,source,survey,regular
+1594738668,amenity,cafe,regular
+1594738668,disused,yes,regular
+1594738671,name,IL SALOTTO,regular
+1594738671,shop,motorcycle,regular
+1594738675,name,どっぐ・わーるど,regular
+1594738675,shop,pet,regular
+1594738691,name,サトーでんき,regular
+1594738691,shop,electronics,regular
+1594738855,amenity,post_box,regular
+1594739264,name,ミキモト,regular
+1594739264,shop,hairdresser,regular
+1594739265,name,加冨山米店,regular
+1594739265,shop,yes,regular
+1594739266,name,善福寺川緑地公園前,regular
+1594739266,highway,bus_stop,regular
+1594739267,name,成田東三丁目 (Naritahigashi 3),regular
+1594739267,highway,bus_stop,regular
+1594739268,name,田中デンキ,regular
+1594739268,shop,electronics,regular
+1594739269,name,鳥一,regular
+1594739269,shop,butcher,regular
+1595411951,name,じてんしゃらんど,regular
+1595411951,shop,bicycle,regular
+1595411951,bicycle:retail,yes,service
+1599670355,source,Bing 2010,regular
+1599670355,highway,crossing,regular
+1655895145,name,あしたの会中途障害者の第一作業所,regular
+1655895145,note,"National-Land Numerical Information (Public Facility) 2006, MLIT Japan",regular
+1655895145,source,KSJ2,regular
+1655895145,amenity,social_facility,regular
+1655895145,ja,国土数値情報（公共施設データ）平成19年　国土交通省,note
+1655895145,KSJ2:ADS,成田東5-39-10畠山ビル2F,regular
+1655895145,source_ref,http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html,regular
+1655895145,KSJ2:AdminArea,東京都杉並区,regular
+1655895145,social_facility,assisted_living,regular
+1655895145,KSJ2:PubFacAdmin,民間,regular
+1655907167,name,在宅介護支援センターケア２４成田,regular
+1655907167,note,"National-Land Numerical Information (Public Facility) 2006, MLIT Japan",regular
+1655907167,source,KSJ2,regular
+1655907167,amenity,social_facility,regular
+1655907167,source_ref,http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html,regular
+1655907167,social_facility,group_home,regular
+1712263549,amenity,drinking_water,regular
+1712263837,amenity,drinking_water,regular
+1712264876,name,ロケット公園自動販売機,regular
+1712264876,amenity,vending_machine,regular
+1800969048,source,Bing 2010,regular
+1800969048,highway,crossing,regular
+1801022603,name,杉並警察署前,regular
+1801022603,source,Bing 2007,regular
+1801022603,highway,traffic_signals,regular
+1801022603,en,Suginami Police Sta.,name
+1801022603,ja,杉並警察署前,name
+1801022620,name,すずらん通り入口,regular
+1801022620,source,Bing 2007,regular
+1801022620,highway,traffic_signals,regular
+1801022620,en,Suzurandori Ent.,name
+1801022620,ja,すずらん通り入口,name
+1801022657,name,成田東四丁目,regular
+1801022657,source,Bing 2007,regular
+1801022657,highway,traffic_signals,regular
+1801022657,en,Naritahigashi 4,name
+1801022657,ja,成田東四丁目,name
+1801047976,name,杉並区役所前,regular
+1801047976,source,Bing 2007,regular
+1801047976,highway,traffic_signals,regular
+1801047976,en,Suginamikuyakusho,name
+1801047976,ja,杉並区役所前,name
+1801047976,ja_rm,Suginamikuyakusho,name
+1829226220,name,南阿佐ヶ谷駅前,regular
+1829226220,highway,bus_stop,regular
+1829226220,ja,南阿佐ヶ谷駅前,name
+1829226220,public_transport,platform,regular
+1852393651,full,東京都杉並区阿佐ヶ谷南1-34-6,addr
+1852393651,postcode,166-0004,addr
+1852393651,amenity,car_rental,regular
+1852393651,branch,阿佐ヶ谷南営業所,regular
+1852393651,brand,ニッポンレンタカー,regular
+1852393651,fax,+81-3-53054090,regular
+1852393651,name,阿佐ヶ谷南営業所 (Asagaya-Minami),regular
+1852393651,en,Asagaya-Minami,name
+1852393651,ja,阿佐ヶ谷南営業所,name
+1852393651,ja_kana,あさがやみなみ,name
+1852393651,ja_rm,Asagaya Minami,name
+1852393651,opening_hours,24/7,regular
+1852393651,operator,ニッポンレンタカー,regular
+1852393651,phone,+81-3-53064190,regular
+1852393651,source,(URL) 2012,regular
+1852393651,website,http://www.nipponrentacar.co.jp/,regular
+1852393651,wikidata,Q11086533,regular
+1852393651,wikipedia,ja:ニッポンレンタカー,regular
+1852395059,full,東京都杉並区成田東4-34-15,addr
+1852395059,postcode,166-0015,addr
+1852395059,atm,yes,regular
+1852395059,branch,杉並成田東4丁目,regular
+1852395059,brand,7 ELEVEN,regular
+1852395059,internet_access,wlan,regular
+1852395059,level,0,regular
+1852395059,name,セブン-イレブン,regular
+1852395059,en,Seven-Eleven,name
+1852395059,ja,セブン-イレブン,name
+1852395059,ja_rm,Sebun Irebun,name
+1852395059,opening_hours,24/7,regular
+1852395059,operator,セブンイレブン・ジャパン,regular
+1852395059,phone,03-3311-0188,regular
+1852395059,shop,convenience,regular
+1852395059,source,"Bing 2010, (URL)",regular
+1852395059,website,http://www.sej.co.jp/,regular
+1852395059,wikidata,Q259340,regular
+1852395059,wikipedia,ja:セブン-イレブン,regular
+1868434216,name,サミット,regular
+1868434216,shop,supermarket,regular
+1868434224,highway,bus_stop,regular
+1868434227,full,東京都杉並区成田東1-32-12,addr
+1868434227,postcode,166-0015,addr
+1868434227,atm,yes,regular
+1868434227,branch,杉並成田東1丁目,regular
+1868434227,brand,7 ELEVEN,regular
+1868434227,internet_access,wlan,regular
+1868434227,level,0,regular
+1868434227,name,セブン-イレブン,regular
+1868434227,en,Seven-Eleven,name
+1868434227,ja,セブン-イレブン,name
+1868434227,ja_rm,Sebun Irebun,name
+1868434227,opening_hours,24/7,regular
+1868434227,operator,セブンイレブン・ジャパン,regular
+1868434227,phone,03-3317-1626,regular
+1868434227,ref,136219,regular
+1868434227,shop,convenience,regular
+1868434227,source,survey; (URL) 2015,regular
+1868434227,website,http://www.sej.co.jp/,regular
+1868434227,wikidata,Q259340,regular
+1868434227,wikipedia,ja:セブン-イレブン,regular
+1868434237,highway,bus_stop,regular
+1956618925,full,東京都杉並区阿佐谷南1-15-5,addr
+1956618925,postcode,166-0004,addr
+1956618925,amenity,fast_food,regular
+1956618925,branch,南阿佐谷,regular
+1956618925,brand,ミスタードーナツ,regular
+1956618925,cuisine,donut; Dim Sum,regular
+1956618925,drive_through,no,regular
+1956618925,name,ミスタードーナツ,regular
+1956618925,en,Mister Donut,name
+1956618925,ja,ミスタードーナツ,name
+1956618925,ja_rm,Misuta Dohnatsu,name
+1956618925,opening_hours,Mo-Su 07:30-00:00,regular
+1956618925,operator,ダスキン,regular
+1956618925,phone,+81-3-33123331,regular
+1956618925,ref,0450,regular
+1956618925,smoking,separated,regular
+1956618925,source,(URL),regular
+1956618925,website,http://www.misterdonut.jp/,regular
+1956618925,wifi,no,regular
+1999892191,bicycle,designated,regular
+1999892191,highway,crossing,regular
+1999892191,crossing,traffic_signals,regular
+1999892192,bicycle,designated,regular
+1999892192,highway,crossing,regular
+1999892192,crossing,traffic_signals,regular
+1999892196,bicycle,designated,regular
+1999892196,highway,crossing,regular
+1999892196,crossing,traffic_signals,regular
+1999892202,highway,crossing,regular
+1999892202,crossing,traffic_signals,regular
+1999892204,bicycle,designated,regular
+1999892204,highway,crossing,regular
+1999892204,crossing,traffic_signals,regular
+2000007700,source,Bing 2010,regular
+2000007700,bicycle,designated,regular
+2000007700,highway,crossing,regular
+2000007702,source,Bing 2010,regular
+2000007702,highway,crossing,regular
+2000007703,source,Bing 2010,regular
+2000007703,highway,crossing,regular
+2000007704,source,Bing 2010,regular
+2000007704,bicycle,designated,regular
+2000007704,highway,crossing,regular
+2000007707,source,Bing 2010,regular
+2000007707,highway,crossing,regular
+2000007708,source,Bing 2010,regular
+2000007708,highway,crossing,regular
+2000007709,source,Bing 2010,regular
+2000007709,highway,crossing,regular
+2000007711,source,Bing 2010,regular
+2000007711,bicycle,designated,regular
+2000007711,highway,crossing,regular
+2000007712,source,Bing 2010,regular
+2000007712,highway,crossing,regular
+2000007713,highway,crossing,regular
+2000007714,source,Bing 2010,regular
+2000007714,bicycle,designated,regular
+2000007714,highway,crossing,regular
+2000007716,source,Bing 2010,regular
+2000007716,highway,crossing,regular
+2186278971,name,警視庁杉並警察署浜田山駐在所,regular
+2186278971,source,"image,2013-03;Bing",regular
+2186278971,amenity,police,regular
+2186358851,source,Bing 2010,regular
+2186358851,highway,crossing,regular
+2186358876,source,Bing 2010,regular
+2186358876,highway,crossing,regular
+2187157665,name,三年坂,regular
+2187157665,source,"image,2013-03;Bing",regular
+2187157665,tourism,information,regular
+2187157665,information,board,regular
+2187158267,bus,yes,regular
+2187158267,ref,9,regular
+2187158267,source,"image,2013-03;Bing",regular
+2187158267,highway,bus_stop,regular
+2187158267,public_transport,platform,regular
+2187158365,ref,11,regular
+2187158365,name,鎌倉街道,regular
+2187158365,source,"image,2013-03;Bing",regular
+2187158365,highway,bus_stop,regular
+2187158365,public_transport,platform,regular
+2187198789,foot,yes,regular
+2187198789,barrier,bollard,regular
+2187198789,bicycle,yes,regular
+2187700965,name,杉並豊川稲荷,regular
+2187700965,source,"image,2013-03;Bing",regular
+2187700965,amenity,place_of_worship,regular
+2187700965,religion,shinto,regular
+2187711346,source,"image,2013-03;Bing",regular
+2187711346,amenity,telephone,regular
+2187711346,coins,yes,payment
+2187711375,bus,yes,regular
+2187711375,name,豊玉高校前,regular
+2187711375,source,"image,2013-03;Bing",regular
+2187711375,public_transport,stop_position,regular
+2380932808,source,Bing 2010,regular
+2380932808,highway,crossing,regular
+2380932809,source,Bing 2010,regular
+2380932809,highway,crossing,regular
+2380932810,source,Bing 2010,regular
+2380932810,highway,crossing,regular
+2380932811,source,Bing 2010,regular
+2380932811,highway,crossing,regular
+2381991695,source,Bing 2010,regular
+2381991695,highway,crossing,regular
+2381991702,source,Bing 2010,regular
+2381991702,highway,crossing,regular
+2381991705,source,Bing 2010,regular
+2381991705,highway,crossing,regular
+2381991706,source,Bing 2010,regular
+2381991706,highway,crossing,regular
+2381992714,source,Bing 2010,regular
+2381992714,highway,crossing,regular
+2381992715,source,Bing 2010,regular
+2381992715,highway,crossing,regular
+2381992716,source,Bing 2010,regular
+2381992716,highway,crossing,regular
+2381992717,source,Bing 2010,regular
+2381992717,highway,crossing,regular
+2382016968,source,Bing 2010,regular
+2382016968,highway,crossing,regular
+2382016971,source,Bing 2010,regular
+2382016971,highway,crossing,regular
+2382016972,source,Bing 2010,regular
+2382016972,highway,crossing,regular
+2382016975,source,Bing 2010,regular
+2382016975,highway,crossing,regular
+2382016976,source,Bing 2010,regular
+2382016976,highway,crossing,regular
+2382016979,source,Bing 2010,regular
+2382016979,highway,crossing,regular
+2389061832,name,南阿佐ヶ谷,regular
+2389061832,en,Minami-asagaya,name
+2389061832,ja,南阿佐ヶ谷,name
+2389061832,ja_kana,みなみあさがや,name
+2389061832,ja_rm,Minami Asagaya,name
+2389061832,ru,Минами Асагая,name
+2389061832,operator,東京地下鉄,regular
+2389061832,platforms,2,regular
+2389061832,public_transport,station,regular
+2389061832,railway,station,regular
+2389061832,ref,M02,regular
+2389061832,source,Bing 2010,regular
+2389061832,wikidata,Q1073001,regular
+2389061832,wikipedia,ja:南阿佐ケ谷駅,regular
+2394629817,source,Bing 2010,regular
+2394629817,highway,crossing,regular
+2433679189,office,newspaper,regular
+2433679427,name,ふるやま,regular
+2433679427,amenity,restaurant,regular
+2433679779,amenity,post_box,regular
+2433681096,name,長谷川歯科医院,regular
+2433681096,amenity,dentist,regular
+2433683012,amenity,parking,regular
+2433684153,amenity,cafe,regular
+2433684153,name,カフェ ポトロ,regular
+2479937062,amenity,pub,regular
+2479937062,name,なかよし,regular
+2479937357,amenity,telephone,regular
+2479937452,amenity,post_box,regular
+2479937685,amenity,pub,regular
+2479937685,name,八犬伝,regular
+2479938357,amenity,post_box,regular
+2479940859,name,吉野家,regular
+2479940859,brand,吉野家 YOSHINOYA,regular
+2479940859,amenity,fast_food,regular
+2479940859,en,YOSHINOYA,name
+2479940859,ja,吉野家,name
+2479940859,ja_rm,Yoshinoya,name
+2479942166,amenity,parking,regular
+2479942490,name,ルートイン,regular
+2479942490,smoking,isolated,regular
+2479942490,tourism,hotel,regular
+2613145173,amenity,restaurant,regular
+2613145173,level,1,regular
+2613145173,name,ROYAL,regular
+2685961666,source,"image,2014-02;Bing",regular
+2685961666,amenity,place_of_worship,regular
+2685961666,religion,shinto,regular
+2686534726,name,サニー,regular
+2686534726,shop,dry_cleaning,regular
+2686534726,source,"image,2014-02;Bing",regular
+2686535038,source,"image,2014-02;Bing",regular
+2686535038,building,apartments,regular
+2686535053,name,リカーショップ みきや,regular
+2686535053,shop,alcohol,regular
+2686535053,source,"image,2014-02;Bing",regular
+2686709336,source,"image,2014-02;Bing",regular
+2686709336,amenity,telephone,regular
+2686749656,name,今関医院,regular
+2686749656,source,"image,2014-02;Bing",regular
+2686749656,amenity,doctors,regular
+2686749657,name,後藤歯科クリニック,regular
+2686749657,source,"image,2014-02;Bing",regular
+2686749657,amenity,dentist,regular
+2803679957,name,白光舎,regular
+2803679957,shop,dry_cleaning,regular
+2803679957,source,survey,regular
+2803689722,name,日の出,regular
+2803689722,shop,hairdresser,regular
+2803689722,phone,3318-2305,regular
+2803689722,source,survey,regular
+2803689722,opening_hours,"Mo,Tu[2,3] OFF",regular
+2803689723,name,岡崎薬局,regular
+2803689723,source,survey,regular
+2803689723,amenity,pharmacy,regular
+2803689724,name,小原惣菜店,regular
+2803689724,shop,deli,regular
+2803689724,source,survey,regular
+2803689724,en,Kohara,name
+2803689725,name,東田無線,regular
+2803689725,shop,electronics,regular
+2803689725,phone,3311-7933,regular
+2803689725,source,survey,regular
+2803689725,en,Higashida,name
+2803692301,name,成田東三丁目,regular
+2803692301,highway,traffic_signals,regular
+2803692301,en,Naritahigashi 3,name
+3051556921,amenity,drinking_water,regular
+3051558039,ref,6,regular
+3051558039,name,阿佐谷住宅南,regular
+3051558039,highway,bus_stop,regular
+3051558039,public_transport,platform,regular
+3108501997,amenity,toilets,regular
+3108501998,amenity,toilets,regular
+3108501999,amenity,parking,regular
+3114548085,amenity,toilets,regular
+3118944238,amenity,drinking_water,regular
+3120516644,name,サンエトワール,regular
+3120516644,shop,bakery,regular
+3120516647,name,RECODS,regular
+3120516647,amenity,pharmacy,regular
+3189817600,name,FIELDS,regular
+3189817600,shop,clothes,regular
+3189817601,name,さとう整骨院,regular
+3189817601,shop,massage,regular
+3189817601,en,Satou osteopathic clinic,name
+3189817602,name,山下スマイル歯科,regular
+3189817602,amenity,dentist,regular
+3189817602,en,Yamashita smile,name
+3189817603,name,AVALON,regular
+3189817603,shop,hairdresser,regular
+3189817604,name,いちむら,regular
+3189817604,shop,yes,regular
+3189817604,en,Ichimura,name
+3189817605,name,フェアリーローズ,regular
+3189817605,shop,clothes,regular
+3189817605,en,Fairy rose,name
+3189817606,name,花匠美,regular
+3189817606,shop,florist,regular
+3189817606,en,Hana taku mi,name
+3189817607,name,パールセンターはりきゅう整骨院,regular
+3189817607,amenity,doctors,regular
+3189817607,en,Pearl center acupuncture/moxa cautery/osteopathic clinic,name
+3189817607,ja_rm,Pearl center Harikyuu seikotuin,name
+3189817608,name,菓遊庵,regular
+3189817608,shop,confectionery,regular
+3189817608,en,Kayuu-an,name
+3189817609,name,栄太楼,regular
+3189817609,shop,confectionery,regular
+3189817609,en,Eitarou,name
+3189817610,name,サプリ健康館,regular
+3189817610,shop,yes,regular
+3189817610,en,Sapuri Kenkou-kan,name
+3189817611,name,カットワン,regular
+3189817611,shop,hairdresser,regular
+3189817611,en,Cut One,name
+3189817612,name,COLOR,regular
+3189817612,shop,clothes,regular
+3189817613,name,菊池整体院,regular
+3189817613,shop,massage,regular
+3189817613,en,Kikuchi Chiropractic clinic,name
+3189817614,name,BROWN CHIP,regular
+3189817614,shop,tea,regular
+3189817615,name,ウィッチムーン,regular
+3189817615,shop,yes,regular
+3189817615,en,Witch Moon,name
+3189817615,city,杉並区 (Suginami),addr
+3189817615,street,阿佐ヶ谷パールセンター,addr
+3189817615,postcode,166-0004,addr
+3189817616,name,Santie,regular
+3189817616,shop,yes,regular
+3189817617,name,BENIYA,regular
+3189817617,amenity,restaurant,regular
+3189817618,name,繁田園,regular
+3189817618,shop,tea,regular
+3189817618,en,Handa-en,name
+3189817619,name,シャングリラ,regular
+3189817619,shop,yes,regular
+3189817619,en,Shangurila,name
+3189817620,name,ポケットハウス,regular
+3189817620,amenity,fast_food,regular
+3189817620,cuisine,japanese,regular
+3189817620,en,Pocket House,name
+3189817621,name,SiESTA,regular
+3189817621,shop,hairdresser,regular
+3189817622,name,中村生花店,regular
+3189817622,shop,florist,regular
+3189817622,en,Nakamura,name
+3189817623,name,コバヤシ,regular
+3189817623,shop,hairdresser,regular
+3189817623,en,Kobayashi,name
+3189817625,name,Fiore,regular
+3189817625,shop,clothes,regular
+3189817626,name,ちゃちゃ,regular
+3189817626,shop,second_hand,regular
+3189817626,en,Chacha,name
+3189817627,amenity,restaurant,regular
+3189817627,name,ちもと,regular
+3189817628,name,HORIKOSHI,regular
+3189817628,shop,yes,regular
+3189817629,name,パールセンター歯科,regular
+3189817629,amenity,dentist,regular
+3189817629,en,Pearl Center Shika,name
+3189817630,name,和菓子 福吉,regular
+3189817630,shop,confectionery,regular
+3189817630,en,Fukukichi,name
+3189817631,name,福与商店,regular
+3189817631,shop,tobacco,regular
+3189817631,en,Fukuyo store,name
+3189817632,name,みつや,regular
+3189817632,shop,alcohol,regular
+3189817632,en,Mitsuya,name
+3189817633,name,大佛堂,regular
+3189817633,shop,yes,regular
+3189817633,en,Daibutu-dou,name
+3189927076,name,国際都市,regular
+3189927076,office,estate_agent,regular
+3189927076,en,Kokusai Toshi,name
+3189927077,name,日本健康文化振興会,regular
+3189927077,office,yes,regular
+3189927077,en,Japan Health Culture Association,name
+3189927077,ja_rm,Nihon Kenkou Bunka Shinkoukai,name
+3189927078,name,玉野葬儀社,regular
+3189927078,shop,funeral_directors,regular
+3189927079,name,エクリュモダンオリエンタル,regular
+3189927079,shop,clothes,regular
+3189927079,en,Modern Oriental,name
+3343816578,name,南阿佐ケ谷第二自転車駐車場,regular
+3343816578,amenity,bicycle_parking,regular
+3363182327,foot,yes,regular
+3363182327,barrier,bollard,regular
+3363182327,bicycle,yes,regular
+3363183042,foot,yes,regular
+3363183042,barrier,bollard,regular
+3363183042,bicycle,yes,regular
+3363183043,colour,brown,regular
+3363183043,amenity,bench,regular
+3363183043,backrest,yes,regular
+3363183044,colour,brown,regular
+3363183044,amenity,bench,regular
+3363183044,backrest,yes,regular
+3363183046,colour,brown,regular
+3363183046,amenity,bench,regular
+3363183046,backrest,yes,regular
+3363197501,ref,4,regular
+3363197501,name,杉並税務署,regular
+3363197501,highway,bus_stop,regular
+3363197501,public_transport,platform,regular
+3363197502,ref,25,regular
+3363197502,name,阿佐谷住宅南,regular
+3363197502,highway,bus_stop,regular
+3363197502,public_transport,platform,regular
+3363197503,ref,5,regular
+3363197503,name,阿佐谷住宅東,regular
+3363197503,highway,bus_stop,regular
+3363197503,public_transport,platform,regular
+3363378798,name,サイカパーク,regular
+3363378798,amenity,bicycle_parking,regular
+3363378799,name,成宗湯,regular
+3363378799,amenity,public_bath,regular
+3363378799,en,Narimuneyu,name
+3364634710,name,種田医院,regular
+3364634710,amenity,doctors,regular
+3364697324,amenity,telephone,regular
+3364697327,name,ミカドスポーツ,regular
+3364697327,shop,sports,regular
+3364697328,name,半田屋,regular
+3364697328,shop,dry_cleaning,regular
+3364697329,name,沖縄そば すばる,regular
+3364697329,amenity,restaurant,regular
+3364697329,cuisine,noodle;soba,regular
+3364697330,name,渡辺正直堂,regular
+3364697330,shop,stationery,regular
+3364697331,name,豊年屋,regular
+3364697331,amenity,restaurant,regular
+3364697331,cuisine,noodle;soba,regular
+3708854101,full,東京都杉並区梅里2-40-10,addr
+3708854101,housename,メゾンローズ阿佐谷1F,addr
+3708854101,amenity,fast_food,regular
+3708854101,branch,高円寺店,regular
+3708854101,brand,銀のさら,regular
+3708854101,cuisine,sushi,regular
+3708854101,level,0,regular
+3708854101,name,銀のさら,regular
+3708854101,en,Ginnosara,name
+3708854101,ja,銀のさら,name
+3708854101,ja_rm,Ginnosara,name
+3708854101,opening_hours,Mo-Su 10:00-22:00,regular
+3708854101,operator,ライドオン・エクスプレス,regular
+3708854101,phone,03-5305-1941,regular
+3708854101,source,(URL) 2015,regular
+3708854101,takeaway,only,regular
+3708854101,website,http://www.ginsara.jp/,regular
+3708854101,wikidata,Q11649906,regular
+3708854101,wikipedia,ja:銀のさら,regular
+3950966780,name,かんざわ整形外科,regular
+3950966780,amenity,doctors,regular
+3950966780,wheelchair,limited,regular
+3950966795,amenity,restaurant,regular
+3950966795,cuisine,chinese,regular
+3950966795,layer,1,regular
+3950966795,level,1,regular
+3950966795,name,中華食堂 一番館,regular
+3950966796,name,旭プリント,regular
+3950966796,shop,copyshop,regular
+3951007724,foot,yes,regular
+3951007724,barrier,bollard,regular
+3951007724,bicycle,yes,regular
+3951007729,amenity,drinking_water,regular
+3951007730,amenity,bench,regular
+3951007730,backrest,yes,regular
+3951007749,foot,yes,regular
+3951007749,barrier,bollard,regular
+3951007749,bicycle,yes,regular
+3951070238,natural,tree,regular
+3951070240,natural,tree,regular
+3951070242,natural,tree,regular
+3951070246,natural,tree,regular
+3951070251,natural,tree,regular
+3951070292,name,らびっとわぁるど,regular
+3951070292,shop,pet,regular
+3951070297,natural,tree,regular
+3951072169,natural,tree,regular
+3951082401,name,きたむら,regular
+3951082401,amenity,restaurant,regular
+4561206894,city,杉並区,addr
+4561206894,amenity,pub,regular
+4561206894,level,1,regular
+4561206894,name,鳥貴族,regular
+4857298107,name,保育室南阿佐ケ谷,regular
+4857298107,amenity,childcare,regular
+4857298108,name,子ども家庭支援センター,regular
+4857298108,amenity,social_facility,regular
+4857298109,name,阿佐谷南児童館,regular
+4857298109,amenity,community_centre,regular
+4869071858,name,東田学童クラブ（校内）,regular
+4869071858,amenity,community_centre,regular
+4869071859,name,成田東みどりの里,regular
+4869071859,building,yes,regular
+4869075705,name,すぎなみ地域大学,regular
+4869075705,amenity,community_centre,regular
+4869100139,name,阿佐ヶ谷南保育園,regular
+4869100139,amenity,childcare,regular
+4869100148,name,杉並土木事務所,regular
+4869100148,building,yes,regular
+4869100149,name,杉二学童クラブ（校内）,regular
+4869100149,amenity,community_centre,regular
+4869193448,name,成田会議室,regular
+4869193448,amenity,community_centre,regular
+4881560194,name,デイサービス あすなろの家,regular
+4881560194,amenity,social_facility,regular
+4881560194,social_facility,outreach,regular
+4881560195,name,千手観音,regular
+4881560195,shop,variety_store,regular
+4881560196,shop,dry_cleaning,regular
+4881560197,name,三菱東京UFJ,regular
+4881560197,amenity,atm,regular
+4881560198,office,estate_agent,regular
+4881560199,shop,dry_cleaning,regular
+4881560200,name,まつもと整骨院,regular
+4881560200,shop,massage,regular
+4881560201,name,可可,regular
+4881560201,amenity,restaurant,regular
+4881560201,cuisine,chinese,regular
+4881560202,name,AndyCafe Dog Salon,regular
+4881560202,phone,03-3220-4821,regular
+4881560202,amenity,animal_boarding,regular
+4881560202,website,http://www.andycafe.com/asagaya/dogsalon/,regular
+4881560202,opening_hours,10:00-19:00,regular
+4881560202,animal_boarding,dog,regular
+4881560203,name,三井住友銀行,regular
+4881560203,amenity,bank,regular
+4935348924,name,J･LINKS,regular
+4935348924,office,estate_agent,regular
+4935348925,name,まごころ倶楽部,regular
+4935348925,shop,travel_agency,regular
+4940522752,amenity,post_box,regular
+4946813186,amenity,bench,regular
+4973478515,craft,handicraft,regular
+4973478515,name,MayField,regular
+4973478516,name,枡野書店,regular
+4973478516,office,company,regular
+4978670102,amenity,gambling,regular
+4978670102,gambling,pachinko,regular
+4978670102,name,ROYAL,regular
+4978670103,amenity,restaurant,regular
+4978670103,level,1,regular
+4978670103,name,ゆめ庵,regular
+4978673825,amenity,restaurant,regular
+4978673825,name,ガスト,regular
+4978673825,en,Gusto,name
+4986557402,amenity,restaurant,regular
+4986557402,name,丼丸,regular
+4986557403,name,ルピナス整骨院,regular
+4986557403,shop,massage,regular
+4986557404,amenity,restaurant,regular
+4986557404,cuisine,noodle;ramen,regular
+4986557404,name,萬福本舗,regular
+4986557405,name,HAIR ISM,regular
+4986557405,shop,hairdresser,regular
+4986557406,name,キクスイホームズ,regular
+4986557406,office,estate_agent,regular
+4986557407,level,1,regular
+4986557407,name,藤和ハウス,regular
+4986557407,office,estate_agent,regular
+4986590768,name,太陽堂,regular
+4986590768,shop,stationery,regular
+4986590769,name,NAKAMURA CLEANING,regular
+4986590769,shop,dry_cleaning,regular
+4986590770,amenity,restaurant,regular
+4986590770,cuisine,noodle,regular
+4986590770,name,桔梗,regular
+4986590771,shop,motorcycle,regular
+4986590772,amenity,doctors,regular
+4986590772,name,阿佐ヶ谷眼科,regular
+4986590773,amenity,pharmacy,regular
+4986590773,name,わかば薬局,regular
+4986590778,amenity,doctors,regular
+4986590778,name,阿佐ヶ谷すずき診療所,regular
+4986590779,amenity,restaurant,regular
+4986590779,name,満鳥,regular
+4986590791,name,山信堂,regular
+4986590791,shop,photo,regular
+4986590792,amenity,restaurant,regular
+4986590792,cuisine,japanese,regular
+4986590792,name,賓寿司,regular
+5004925665,name,Vis a Vis,regular
+5004925665,shop,clothes,regular
+5004925666,amenity,restaurant,regular
+5004925666,name,串カツ屋エベス,regular
+5004925667,name,Fu~Ra,regular
+5004925667,shop,yes,regular
+5004925668,amenity,dentist,regular
+5004925668,name,ケイズ デンタルクリニック,regular
+5004925669,name,EN COTON,regular
+5004925669,shop,clothes,regular
+5004925670,name,C's tag,regular
+5004925670,shop,yes,regular
+5004925671,name,ツツヰ,regular
+5004925671,shop,clothes,regular
+5004925672,name,MONI!,regular
+5004925672,shop,clothes,regular
+5004925673,name,CIBOSANO,regular
+5004925673,shop,yes,regular
+5004925674,name,ハナシ不動産,regular
+5004925674,office,estate_agent,regular
+5004925675,name,Mary Lue,regular
+5004925675,shop,clothes,regular
+5004925676,name,Meu,regular
+5004925676,shop,clothes,regular
+5004925677,name,ほけんの窓口,regular
+5004925677,office,insurance,regular
+5004925678,name,アルカス住宅販売,regular
+5004925678,office,estate_agent,regular
+5004925679,name,靴修理,regular
+5004925679,shop,shoes,regular
+5004925680,name,まいばすけっと,regular
+5004925680,shop,supermarket,regular
+5004925681,name,今関畳店,regular
+5004925681,shop,yes,regular
+5004925682,amenity,restaurant,regular
+5004925682,name,ひなた食堂,regular
+5004925683,name,balance,regular
+5004925683,shop,hairdresser,regular
+5004925684,amenity,childcare,regular
+5004925684,name,ビーフェア こども愛々保育園 阿佐谷南,regular
+5004925685,amenity,restaurant,regular
+5004925685,name,鶏丸,regular
+5004925686,amenity,restaurant,regular
+5004925686,cuisine,noodle;ramen,regular
+5004925686,name,一笑,regular
+5020211192,name,志村ビル株式会社,regular
+5020211192,office,estate_agent,regular
+5020211193,name,N,regular
+5020211193,shop,dry_cleaning,regular
+5020211194,amenity,restaurant,regular
+5020211194,cuisine,noodle,regular
+5020211194,name,えのけん,regular
+5020211195,name,サイクルステーション ワタナベ,regular
+5020211195,shop,bicycle,regular
+5020268075,name,Mull,regular
+5020268075,shop,hairdresser,regular
+5020268076,amenity,restaurant,regular
+5020268076,name,スター餃子,regular
+5020268077,amenity,restaurant,regular
+5020268077,cuisine,mexican,regular
+5020268077,name,HAPPYGOLUCKY,regular
