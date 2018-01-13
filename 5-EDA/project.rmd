@@ -254,3 +254,9 @@ ggplot(data,aes(x=alcohol,fill=factor(good.wine)))+geom_density(alpha=0.25)+
 
 If alcohol is low and density is high, it tends to be a good wine, in the opposite case it tends to be a bad wine.
 
+```{r}
+qplot(data=data, x=quality, y=total.sulfur.dioxide) + 
+  geom_point(fill= I('#F79420'), color = I('black'), shape = 21)
+```
+
+I plotted the relationship between quality and total.sulfur.dioxide. Outliers can be confirmed when quality is 7.

@@ -10,7 +10,7 @@ import schema
 
 import audit
 
-TEST_FLAG = True
+TEST_FLAG = False
 
 if TEST_FLAG:
     OSM_PATH = "tokyo-sample.osm"
