@@ -1,6 +1,5 @@
 ---
 title: 'Wine datasets EDA'
-author: 'lasershow'
 date: '10 Jan 2018'
 output:
   html_document:
@@ -24,7 +23,7 @@ Which chemical properties influence the quality of red wines?
 
 ## Load and check data
 
-```{r}
+```{r,message=FALSE}
 # Load packages
 library('ggplot2') # visualization
 library('ggthemes') # visualization
@@ -260,3 +259,40 @@ qplot(data=data, x=quality, y=total.sulfur.dioxide) +
 ```
 
 I plotted the relationship between quality and total.sulfur.dioxide. Outliers can be confirmed when quality is 7.
+
+## summary
+
+```{r echo=FALSE, Univariate_Plots}
+qplot(data=data, x = quality, fill= I("#099DD9")) + 
+  ggtitle('Quality')
+```
+
+As a result of EDA, the distribution of quality of wine was as above. Most of the wine is a quality of 5 or 6, with 7 and 8 being a relatively good wine, 3 and 4 being a bad wine.
+
+
+```{r}
+#Correlation Heatmap of Variables
+corrplot(cor(data))
+```
+
+
+Looking at the correlation of all the variables, we can see that there is a relatively high correlation between alcohol level and volatile.acidity.
+
+```{r}
+#Alcohol and Wine Quality
+ggplot(data,aes(x=alcohol,fill=factor(good.wine)))+geom_density(alpha=0.25)+
+  geom_vline(aes(xintercept=mean(alcohol[good.wine==0],na.rm=T)),color="red",linetype="dashed",lwd=1)+
+  geom_vline(aes(xintercept=mean(alcohol[good.wine==1],na.rm=T)),color="blue",linetype="dashed",lwd=1)+
+  scale_x_continuous(breaks = seq(8,15,1))+
+  xlab(label = "Alcohol Level")+
+  ggtitle("Distribution of Alcohol Levels")+
+  theme_few()
+```
+
+In the multivariate plot, we will introduce the difference between the best wine and bad wine remarkably.
+
+This is a diagram visualizing density, alcohol level, quality at once, but when the density and alcohol level are high, you can see that there is a high probability of being a good wine.
+
+## Reflection
+
+The most difficult thing is not only the two variables but also the relationship to quality from the multivariable. The relationship between two variables is comparatively easy to judge by checking the correlation. However, actual things are often more complicated than the relationship of two variables. Therefore, we investigated the relation of three variables this time. According to this survey, it turned out that in the correlation diagram, even variables that were thought to have low correlation values have a relationship when they are three variables.
