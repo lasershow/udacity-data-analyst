@@ -80,7 +80,7 @@ summary(data)
 
 # Univariate Plots Section
 
-```{r echo=FALSE, Univariate_Plots}
+```{r echo=FALSE}
 qplot(data=data, x = quality, fill= I("#099DD9")) + 
   ggtitle('Quality')
 ```
