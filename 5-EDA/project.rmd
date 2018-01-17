@@ -23,7 +23,7 @@ Which chemical properties influence the quality of red wines?
 
 ## Load and check data
 
-```{r,message=FALSE}
+```{r echo=FALSE, message=FALSE, warning=FALSE, packages}
 # Load packages
 library('ggplot2') # visualization
 library('ggthemes') # visualization
@@ -38,7 +38,7 @@ library('memisc')
 
 Now that our packages are loaded, let's read in and take a peek at the data.
 
-```{r, message=FALSE, warning=FALSE}
+```{r echo=FALSE, message=FALSE, warning=FALSE, packages}
 data <- read.csv('wineQualityReds.csv', stringsAsFactors = F)
 
 # check data
@@ -74,14 +74,14 @@ str(data)
 
 ## overview
 
-```{r}
+```{r echo=FALSE, message=FALSE, warning=FALSE, packages}
 summary(data)
 ```
 
 # Univariate Plots Section
 
-```{r echo=FALSE}
-qplot(data=data, x = quality, fill= I("#099DD9")) + 
+```{r echo=FALSE, message=FALSE, warning=FALSE, packages}
+qplot(data=data, x = quality, fill= I("#099DD9")) +
   ggtitle('Quality')
 ```
 
@@ -91,8 +91,8 @@ When plotting Quality, 5 and 6 appear most frequently. The summary also shows th
 
 Looking at sumarry, it seemed that there was not much difference between maximum and minimum in density. So I plot it and see what kind of distribution it is.
 
-```{r}
-qplot(data=data, x = density, fill= I("#099DD9")) + 
+```{r echo=FALSE, message=FALSE, warning=FALSE, packages}
+qplot(data=data, x = density, fill= I("#099DD9")) +
   ggtitle('density')
 ```
 
@@ -100,8 +100,8 @@ Confirming the distribution of density, the average is 0.997. It is understood t
 
 Let's check the binwidth of x in more detail.
 
-```{r}
-qplot(data=data, x = density, binwidth = 0.0001, fill= I("#099DD9")) + 
+```{r echo=FALSE, message=FALSE, warning=FALSE, packages}
+qplot(data=data, x = density, binwidth = 0.0001, fill= I("#099DD9")) +
   ggtitle('Density')
 ```
 
@@ -112,24 +112,24 @@ If I reduce the size of bin, I can see that there is a much count bin nearby 0.9
 
 chlorides is the feature with the biggest difference between the minimum and maximum values. Considering from the average and the median, there is a possibility that it may include outliers.
 
-```{r}
-qplot(data=data, x = chlorides, fill= I("#099DD9")) + 
+```{r echo=FALSE, message=FALSE, warning=FALSE, packages}
+qplot(data=data, x = chlorides, fill= I("#099DD9")) +
   ggtitle('chlorides')
 ```
 
 In the box plot, outliers are specified.
 
-```{r}
+```{r echo=FALSE, message=FALSE, warning=FALSE, packages}
 qplot(y=data$chlorides, x= 1, geom = "boxplot")
 ```
 
 Specify the range further.
 
-```{r}
-qplot(y=data$chlorides, x= 1, geom = "boxplot") + 
+```{r echo=FALSE, message=FALSE, warning=FALSE, packages}
+qplot(y=data$chlorides, x= 1, geom = "boxplot") +
   scale_y_continuous(breaks = seq(0, 0.2, 0.005), limits = c(0, 0.15))
 
-qplot(data=data, x = chlorides,binwidth = 0.001, fill= I("#099DD9")) + 
+qplot(data=data, x = chlorides,binwidth = 0.001, fill= I("#099DD9")) +
   ggtitle('chlorides')
 ```
 
@@ -139,7 +139,7 @@ According to the plots, you can see that many values are between 0.06 and 0.09.
 
 ## correlation
 
-```{r}
+```{r echo=FALSE, message=FALSE, warning=FALSE, packages}
 #Correlation Heatmap of Variables
 corrplot(cor(data))
 ```
@@ -148,7 +148,7 @@ First, use corrplot to check the correlation. Looking at plot, it turns out that
 
 ## pair plot
 
-```{r}
+```{r echo=FALSE, message=FALSE, warning=FALSE, packages}
 ggpairs(data,
         lower = list(continuous = wrap("points", shape = I('.'))),
         upper = list(combo = wrap("box", outlier.shape = I('.'))))
@@ -162,7 +162,7 @@ Let's see details based on these results.
 
 [geom density document](http://ggplot2.tidyverse.org/reference/geom_density.html)
 
-```{r}
+```{r echo=FALSE, message=FALSE, warning=FALSE, packages}
 #Fixed Acidity and Wine Quality
 ggplot(data,aes(x=fixed.acidity,fill=factor(quality)))+geom_density(alpha=0.25)+
   scale_x_continuous(breaks = seq(4,16,1))+
@@ -173,14 +173,14 @@ ggplot(data,aes(x=fixed.acidity,fill=factor(quality)))+geom_density(alpha=0.25)+
 
 Based on this plot, in addition to two variables, I can visualize it including quality. However, it is a little hard to see. Therefore, we divide the quality into two categories and visualize it.
 
-### Feature engineering 
+### Feature engineering
 
 I will create new features based on quality.
 A quality of 6 or more is a good wine, and less than 5 is a bad wine.
 
 [geom bar document](http://ggplot2.tidyverse.org/reference/geom_bar.html)
 
-```{r}
+```{r echo=FALSE, message=FALSE, warning=FALSE, packages}
 data$good.wine<-ifelse(data$quality>6,1,0)
 
 #Distribution of good/bad red wines
@@ -190,7 +190,7 @@ ggplot(data,aes(x=good.wine,fill=factor(good.wine)))+geom_bar(stat = "count",pos
   theme_few()
 ```
 
-```{r}
+```{r echo=FALSE, message=FALSE, warning=FALSE, packages}
 #Fixed Acidity and Wine Quality
 ggplot(data,aes(x=fixed.acidity,fill=factor(good.wine)))+geom_density(alpha=0.25)+
   geom_vline(aes(xintercept=mean(fixed.acidity[good.wine==0],na.rm=T)),color="red",linetype="dashed",lwd=1)+
@@ -203,11 +203,14 @@ ggplot(data,aes(x=fixed.acidity,fill=factor(good.wine)))+geom_density(alpha=0.25
 
 Wine with poor quality seems to tend to have higher density when Fixed Acidity Levels is low.
 
-```{r}
+```{r echo=FALSE, message=FALSE, warning=FALSE, packages}
 #Volatile Acidity and Wine Quality
-ggplot(data,aes(x=volatile.acidity,fill=factor(good.wine)))+geom_density(alpha=0.25)+
-  geom_vline(aes(xintercept=mean(volatile.acidity[good.wine==0],na.rm=T)),color="red",linetype="dashed",lwd=1)+
-  geom_vline(aes(xintercept=mean(volatile.acidity[good.wine==1],na.rm=T)),color="blue",linetype="dashed",lwd=1)+
+ggplot(data,aes(x=volatile.acidity,fill=factor(good.wine)))+
+  geom_density(alpha=0.25)+
+  geom_vline(aes(xintercept=mean(volatile.acidity[good.wine==0],na.rm=T)),
+             color="red",linetype="dashed",lwd=1)+
+  geom_vline(aes(xintercept=mean(volatile.acidity[good.wine==1],na.rm=T)),
+             color="blue",linetype="dashed",lwd=1)+
   scale_x_continuous(breaks = seq(0,1.6,0.1))+
   xlab(label = "Volatile Acidity Level")+
   ggtitle("Distribution of Volatile Acidity Levels")+
@@ -218,19 +221,22 @@ ggplot(data,aes(x=volatile.acidity,fill=factor(good.wine)))+geom_density(alpha=0
 When volatile.acidity is low and density is high, it tends to be a bad wine. Also, when volatile.acidity is high, it seems that it tends to be a good wine.
 Since a noticeable trend was seen in this plot, let's look at the relation between volatile.acidity and quality in more detail.
 
-```{r}
-qplot(data=data, x=volatile.acidity, y=quality) + 
+```{r echo=FALSE, message=FALSE, warning=FALSE, packages}
+qplot(data=data, x=volatile.acidity, y=quality) +
   geom_point(fill= I('#F79420'), color = I('black'), shape = 21)
 ```
 
 It is not that strong, but you can see the correlation with quality.
 
 
-```{r}
+```{r echo=FALSE, message=FALSE, warning=FALSE, packages}
 #Citric Acid and Wine Quality
-ggplot(data,aes(x=citric.acid,fill=factor(good.wine)))+geom_density(alpha=0.25)+
-  geom_vline(aes(xintercept=mean(citric.acid[good.wine==0],na.rm=T)),color="red",linetype="dashed",lwd=1)+
-  geom_vline(aes(xintercept=mean(citric.acid[good.wine==1],na.rm=T)),color="blue",linetype="dashed",lwd=1)+
+ggplot(data,aes(x=citric.acid,fill=factor(good.wine)))+
+  geom_density(alpha=0.25)+
+  geom_vline(aes(xintercept=mean(citric.acid[good.wine==0],na.rm=T)),
+             color="red",linetype="dashed",lwd=1)+
+  geom_vline(aes(xintercept=mean(citric.acid[good.wine==1],na.rm=T)),
+             color="blue",linetype="dashed",lwd=1)+
   scale_x_continuous(breaks = seq(0,1,0.1))+
   xlab(label = "Citric Acid Level")+
   ggtitle("Distribution of Citric Acid Levels")+
@@ -239,11 +245,14 @@ ggplot(data,aes(x=citric.acid,fill=factor(good.wine)))+geom_density(alpha=0.25)+
 
 If Citric Acid Levels is low and density is high, it tends to be a good wine, in the opposite case it tends to be a bad wine.
 
-```{r}
+```{r echo=FALSE, message=FALSE, warning=FALSE, packages}
 #Alcohol and Wine Quality
-ggplot(data,aes(x=alcohol,fill=factor(good.wine)))+geom_density(alpha=0.25)+
-  geom_vline(aes(xintercept=mean(alcohol[good.wine==0],na.rm=T)),color="red",linetype="dashed",lwd=1)+
-  geom_vline(aes(xintercept=mean(alcohol[good.wine==1],na.rm=T)),color="blue",linetype="dashed",lwd=1)+
+ggplot(data,aes(x=alcohol,fill=factor(good.wine)))+
+  geom_density(alpha=0.25)+
+  geom_vline(aes(xintercept=mean(alcohol[good.wine==0],na.rm=T)),
+             color="red",linetype="dashed",lwd=1)+
+  geom_vline(aes(xintercept=mean(alcohol[good.wine==1],na.rm=T)),
+             color="blue",linetype="dashed",lwd=1)+
   scale_x_continuous(breaks = seq(8,15,1))+
   xlab(label = "Alcohol Level")+
   ggtitle("Distribution of Alcohol Levels")+
@@ -253,8 +262,8 @@ ggplot(data,aes(x=alcohol,fill=factor(good.wine)))+geom_density(alpha=0.25)+
 
 If alcohol is low and density is high, it tends to be a good wine, in the opposite case it tends to be a bad wine.
 
-```{r}
-qplot(data=data, x=quality, y=total.sulfur.dioxide) + 
+```{r echo=FALSE, message=FALSE, warning=FALSE, packages}
+qplot(data=data, x=quality, y=total.sulfur.dioxide) +
   geom_point(fill= I('#F79420'), color = I('black'), shape = 21)
 ```
 
@@ -263,14 +272,14 @@ I plotted the relationship between quality and total.sulfur.dioxide. Outliers ca
 ## summary
 
 ```{r echo=FALSE, Univariate_Plots}
-qplot(data=data, x = quality, fill= I("#099DD9")) + 
+qplot(data=data, x = quality, fill= I("#099DD9")) +
   ggtitle('Quality')
 ```
 
 As a result of EDA, the distribution of quality of wine was as above. Most of the wine is a quality of 5 or 6, with 7 and 8 being a relatively good wine, 3 and 4 being a bad wine.
 
 
-```{r}
+```{r echo=FALSE, message=FALSE, warning=FALSE, packages}
 #Correlation Heatmap of Variables
 corrplot(cor(data))
 ```
@@ -278,11 +287,14 @@ corrplot(cor(data))
 
 Looking at the correlation of all the variables, we can see that there is a relatively high correlation between alcohol level and volatile.acidity.
 
-```{r}
+```{r echo=FALSE, message=FALSE, warning=FALSE, packages}
 #Alcohol and Wine Quality
-ggplot(data,aes(x=alcohol,fill=factor(good.wine)))+geom_density(alpha=0.25)+
-  geom_vline(aes(xintercept=mean(alcohol[good.wine==0],na.rm=T)),color="red",linetype="dashed",lwd=1)+
-  geom_vline(aes(xintercept=mean(alcohol[good.wine==1],na.rm=T)),color="blue",linetype="dashed",lwd=1)+
+ggplot(data,aes(x=alcohol,fill=factor(good.wine)))+
+  geom_density(alpha=0.25)+
+  geom_vline(aes(xintercept=mean(alcohol[good.wine==0],na.rm=T)),
+             color="red",linetype="dashed",lwd=1)+
+  geom_vline(aes(xintercept=mean(alcohol[good.wine==1],na.rm=T)),
+             color="blue",linetype="dashed",lwd=1)+
   scale_x_continuous(breaks = seq(8,15,1))+
   xlab(label = "Alcohol Level")+
   ggtitle("Distribution of Alcohol Levels")+
