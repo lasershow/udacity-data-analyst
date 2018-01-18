@@ -34,6 +34,7 @@ library('randomForest') # classification algorithm
 library('corrplot') # visualization
 library('GGally')
 library('memisc')
+library('reshape2')
 ```
 
 Now that our packages are loaded, let's read in and take a peek at the data.
@@ -81,6 +82,17 @@ summary(data)
 # Univariate Plots Section
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
+meltData <- melt(data[2:13])
+ggplot(meltData, aes(x = value)) + 
+    facet_wrap(~variable,scales = "free_x") + 
+    geom_histogram()
+```
+    
+
+First let's plot all the variables.
+From there I will grasp the distribution and check outliers and so on.
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
 qplot(data=data, x = quality, fill= I("#099DD9")) +
   ggtitle('Quality')
 ```
@@ -106,6 +118,12 @@ qplot(data=data, x = density, binwidth = 0.0001, fill= I("#099DD9")) +
 ```
 
 If I reduce the size of bin, I can see that there is a much count bin nearby 0.99.
+
+## volatile.acidit
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+qplot(data=data, x=fixed.acidity, xlab="fixed.acidity")
+```
 
 ## volatile.acidit
 
@@ -276,8 +294,16 @@ ggplot(data,aes(x=alcohol,fill=factor(good.wine)))+
 If alcohol is low and density is high, it tends to be a good wine, in the opposite case it tends to be a bad wine.
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
-qplot(data=data, x=quality, y=total.sulfur.dioxide) +
-  geom_point(fill= I('#F79420'), color = I('black'), shape = 21)
+ggplot(aes(factor(quality), 
+            total.sulfur.dioxide), 
+        data = data) +
+  geom_jitter( alpha = .3)  +
+  geom_boxplot( alpha = .5,color = 'blue')+
+  stat_summary(fun.y = "mean", 
+               geom = "point", 
+               color = "red", 
+               shape = 8, 
+               size = 4)
 ```
 
 I plotted the relationship between quality and total.sulfur.dioxide. Outliers can be confirmed when quality is 7.
