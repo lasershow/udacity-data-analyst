@@ -107,6 +107,14 @@ qplot(data=data, x = density, binwidth = 0.0001, fill= I("#099DD9")) +
 
 If I reduce the size of bin, I can see that there is a much count bin nearby 0.99.
 
+## volatile.acidit
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+qplot(data=data, x=volatile.acidity, xlab="Volatile acidity (g/dm^3)")
+```
+
+It is possible to check the deviation value from 1.2 to 1.6.
+
 
 ## chlorides
 
@@ -135,6 +143,7 @@ qplot(data=data, x = chlorides,binwidth = 0.001, fill= I("#099DD9")) +
 
 According to the plots, you can see that many values are between 0.06 and 0.09.
 
+
 ## Discussion
 
 I've been searching for one variable so far.
@@ -153,17 +162,6 @@ corrplot(cor(data))
 
 First, use corrplot to check the correlation. Looking at plot, it turns out that PH has a strong correlation with fixed acidity
 
-## pair plot
-
-```{r echo=FALSE, message=FALSE, warning=FALSE}
-ggpairs(data,
-        lower = list(continuous = wrap("points", shape = I('.'))),
-        upper = list(combo = wrap("box", outlier.shape = I('.'))))
-```
-
-
-Next, we further grasp the whole using pair plot.
-Let's see details based on these results.
 
 ## geom density
 
@@ -229,8 +227,16 @@ When volatile.acidity is low and density is high, it tends to be a bad wine. Als
 Since a noticeable trend was seen in this plot, let's look at the relation between volatile.acidity and quality in more detail.
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
-qplot(data=data, x=volatile.acidity, y=quality) +
-  geom_point(fill= I('#F79420'), color = I('black'), shape = 21)
+ggplot(aes(factor(quality), 
+            volatile.acidity), 
+        data = data) +
+  geom_jitter( alpha = .3)  +
+  geom_boxplot( alpha = .5,color = 'blue')+
+  stat_summary(fun.y = "mean", 
+               geom = "point", 
+               color = "red", 
+               shape = 8, 
+               size = 4)
 ```
 
 It is not that strong, but you can see the correlation with quality.
@@ -286,6 +292,7 @@ ggplot(aes(x = alcohol,
   scale_color_brewer(type='seq',
                    guide=guide_legend(title='Quality'))
 ```
+
 We can see a weak correlation to many quality. In particular, it seems that 3 and 4 have stronger correlation than others.
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
